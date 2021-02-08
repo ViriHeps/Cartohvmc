@@ -75,10 +75,7 @@
         "name" : "Hospital General De Zona 32 (Cdmx Sur)",
         "type" : "Publico",
         "occupancy" : "244",
-        "coordinates" : {
-        "x" : -99.130677000000006,
-        "y" : 19.307963999999998
-      }
+        "coordinates" : [-99.130677000000006,19.307963999999998]
     },
     {
         "name" : "Hospital General De Zona C/Mf 08 (Cdmx Sur)",
@@ -108,10 +105,7 @@
         "name" : "Hospital Central Norte",
         "type" : "Publico",
         "occupancy" : "33",
-      "coordinates" : {
-        "x" : -99.200879999999998,
-        "y" : 19.479894999999999
-      }
+      "coordinates" : [-99.200879999999998,19.479894999999999]
     },
     {
         "name" : "Hospital Angeles Acoxpa",
