@@ -1,0 +1,146 @@
+[
+    {
+      "name" : "Instituto Nacional de Enfermedades Respiratorias Ismael Cosio Villegas",
+      "type" : "Publico", 
+      "occupancy" : "450", 
+      "coordinates" : [-99.158653000000001,19.291374999999999]
+    },
+    {
+        "name" : "Hospital Juarez de Mexico",
+        "type" : "Publico",
+        "occupancy" : "230",
+        "coordinates" : [-99.137780000000006,19.47852]
+    },
+    {
+        "name" : "Hospital General Dr. Manuel Gea Gonzalez",
+        "type" : "Publico",
+        "occupancy" : "150",
+        "coordinates" :[-99.160860999999997,19.290295]
+    },
+    {
+        "name" : "Hospital General Tlahuac",
+        "type" : "Publico",
+        "occupancy" : "80",
+        "coordinates" :[-99.052665000000005,19.287492]
+    },
+    {
+        "name" : "Hospital Pediatrico La Villa",
+        "type" : "Publico",
+        "occupancy" : "20",
+        "coordinates" : [-99.114316000000002,19.487355000000001]
+    },
+    {
+        "name" : "Hospital General Balbuena",
+        "type" : "Publico",
+        "occupancy" : "360",
+        "coordinates" :[-99.115412000000006,19.424195000000001]
+    },
+    {
+        "name" : "Hospital General Ticoman",
+        "type" : "Publico",
+        "occupancy" : "79",
+        "coordinates" : [-99.137777999999997,19.514444000000001]
+    },
+    {
+        "name" : "Hospital General Xoco",
+        "type" : "Publico",
+        "occupancy" : "131",
+       "coordinates" :[-99.162274999999994,19.360313000000001]
+    },
+    {
+        "name" : "Hospital Materno Infantil Magdalena Contreras",
+        "type" : "Publico",
+        "occupancy" : "395",
+        "coordinates" : [-99.239095000000006,19.319364]
+    },
+    {
+        "name" : "Hospital Pediatrico Azcapotzalco",
+        "type" : "Publico",
+        "occupancy" : "91",
+        "coordinates" : [-99.185441999999995,19.484418000000002]
+    },
+    {
+        "name" : "Hospital General De Zona 27 (Cdmx Norte)",
+        "type" : "Publico",
+        "occupancy" : "55",
+        "coordinates" : [-99.140006999999997,19.454775999999999]
+    },
+    {
+        "name" : "Hospital General De Zona 30 (Cdmx Sur)",
+        "type" : "Publico",
+        "occupancy" : "155",
+      "coordinates" : [-99.116912999999997,19.398835999999999]
+    },
+    {
+        "name" : "Hospital General De Zona 32 (Cdmx Sur)",
+        "type" : "Publico",
+        "occupancy" : "244",
+        "coordinates" : [-99.130677000000006,19.307963999999998]
+    },
+    {
+        "name" : "Hospital General De Zona C/Mf 08 (Cdmx Sur)",
+        "type" : "Publico",
+        "occupancy" : "59",
+      "coordinates" : [-99.200142,19.337136999999998]
+    },
+    {
+        "name" : "HG Dr. Dario Fernandez Fierro",
+        "type" : "Publico",
+        "occupancy" : "+300",
+      "coordinates" : [-99.188608000000002,19.363602]
+    },
+    {
+        "name" : "HG Tacuba",
+        "type" : "Publico",
+        "occupancy" : "199",
+      "coordinates" : [-99.191231000000002,19.454384000000001]
+    },
+    {
+        "name" : "Hospital Central Sur De Alta Especialidad",
+        "type" : "Publico",
+        "occupancy" : "84",
+      "coordinates" : [-99.218738999999999,19.308751000000001]
+    },
+    {
+        "name" : "Hospital Central Norte",
+        "type" : "Publico",
+        "occupancy" : "33",
+      "coordinates" : [-99.200879999999998,19.479894999999999]
+    },
+    {
+        "name" : "Hospital Angeles Acoxpa",
+        "type" : "Privado",
+        "occupancy" : "50",
+      "coordinates" :[-99.134952999999996,19.299430999999998]
+    },
+    {
+        "name" : "Hospital Angeles Metropolitano",
+        "type" : "Privado",
+        "occupancy" : "18",
+      "coordinates" : [-99.167047999999994,19.407125000000001]
+    },
+    {
+        "name" : "Hospital Angeles Pedregal",
+        "type" : "Privado",
+        "occupancy" : "55",
+      "coordinates" : [-99.221239999999995,19.312439999999999]
+    },
+    {
+        "name" : "Hospital Angeles Roma (Santelena)",
+        "type" : "Privado",
+        "occupancy" : "30",
+      "coordinates" :[-99.157032000000001,19.415092999999999]
+    },
+    {
+        "name" : "Hospital General Dr. Enrique Cabrera",
+        "type" : "Publico",
+        "occupancy" : "108",
+      "coordinates" :[-99.224431999999993,19.361675000000002]
+    },
+    {
+         "name" : "Hospital General Ajusco Medio",
+        "type" : "Publico",
+        "occupancy" : "66",
+      "coordinates" :[-99.207846000000004,19.272165000000001]
+    }
+  ]
