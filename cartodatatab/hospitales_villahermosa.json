@@ -2,8 +2,8 @@
     {
         "FID": 0,
         "ID": 145,
-        "NOMBRE": "SIN NOMBRE",
-        "geometry": [
+        "name": "SIN name",
+        "coordinates": [
             -92.952839060577261,
             17.997345256857937
         ]
@@ -11,8 +11,8 @@
     {
         "FID": 1,
         "ID": 147,
-        "NOMBRE": "CENTRO DE SALUD REGIONAL EL RECREO",
-        "geometry": [
+        "name": "CENTRO DE SALUD REGIONAL EL RECREO",
+        "coordinates": [
             -92.922503640145905,
             18.011075785590801
         ]
@@ -20,8 +20,8 @@
     {
         "FID": 2,
         "ID": 148,
-        "NOMBRE": "REHABILITACION",
-        "geometry": [
+        "name": "REHABILITACION",
+        "coordinates": [
             -92.921116848986244,
             18.013769492058238
         ]
@@ -29,8 +29,8 @@
     {
         "FID": 3,
         "ID": 149,
-        "NOMBRE": "PSIQUIATRICO",
-        "geometry": [
+        "name": "PSIQUIATRICO",
+        "coordinates": [
             -92.920767277659081,
             18.014319840818796
         ]
@@ -38,8 +38,8 @@
     {
         "FID": 4,
         "ID": 150,
-        "NOMBRE": "ROVIROSA",
-        "geometry": [
+        "name": "ROVIROSA",
+        "coordinates": [
             -92.924415259602512,
             18.012905749402684
         ]
@@ -47,8 +47,8 @@
     {
         "FID": 5,
         "ID": 151,
-        "NOMBRE": "CENTRO DE SALUD",
-        "geometry": [
+        "name": "CENTRO DE SALUD",
+        "coordinates": [
             -92.960570270518517,
             17.991615357025868
         ]
@@ -56,8 +56,8 @@
     {
         "FID": 6,
         "ID": 152,
-        "NOMBRE": "SIN NOMBRE",
-        "geometry": [
+        "name": "SIN name",
+        "coordinates": [
             -92.943619518957618,
             17.990330592758177
         ]
@@ -65,8 +65,8 @@
     {
         "FID": 7,
         "ID": 153,
-        "NOMBRE": "CECAT (CRUZ ROJA MEXICANA)",
-        "geometry": [
+        "name": "CECAT (CRUZ ROJA MEXICANA)",
+        "coordinates": [
             -92.928639125219775,
             17.988855133742156
         ]
@@ -74,8 +74,8 @@
     {
         "FID": 8,
         "ID": 154,
-        "NOMBRE": "MILITAR",
-        "geometry": [
+        "name": "MILITAR",
+        "coordinates": [
             -92.940437469425319,
             17.986636969013116
         ]
@@ -83,8 +83,8 @@
     {
         "FID": 9,
         "ID": 156,
-        "NOMBRE": "CENTRO DE SALUD",
-        "geometry": [
+        "name": "CENTRO DE SALUD",
+        "coordinates": [
             -92.918668844592631,
             17.982889105775769
         ]
@@ -92,8 +92,8 @@
     {
         "FID": 10,
         "ID": 157,
-        "NOMBRE": "SIN NOMBRE",
-        "geometry": [
+        "name": "SIN name",
+        "coordinates": [
             -92.936995934216753,
             17.982150203248278
         ]
@@ -101,8 +101,8 @@
     {
         "FID": 11,
         "ID": 158,
-        "NOMBRE": "DANIEL GURRIA URGELL",
-        "geometry": [
+        "name": "DANIEL GURRIA URGELL",
+        "coordinates": [
             -92.944554052042847,
             17.983592655296913
         ]
@@ -110,8 +110,8 @@
     {
         "FID": 12,
         "ID": 159,
-        "NOMBRE": "JUCHIMAN",
-        "geometry": [
+        "name": "JUCHIMAN",
+        "coordinates": [
             -92.953138342905575,
             17.980936275985655
         ]
@@ -119,8 +119,8 @@
     {
         "FID": 13,
         "ID": 162,
-        "NOMBRE": "CENTRO DE SALUD",
-        "geometry": [
+        "name": "CENTRO DE SALUD",
+        "coordinates": [
             -92.929769589618545,
             17.999123781796303
         ]
@@ -128,8 +128,8 @@
     {
         "FID": 14,
         "ID": 164,
-        "NOMBRE": "IMSS",
-        "geometry": [
+        "name": "IMSS",
+        "coordinates": [
             -92.933533711163165,
             17.982042212688754
         ]
@@ -137,8 +137,8 @@
     {
         "FID": 15,
         "ID": 165,
-        "NOMBRE": "SIN NOMBRE",
-        "geometry": [
+        "name": "SIN name",
+        "coordinates": [
             -92.936645396905391,
             17.980505016566209
         ]
@@ -146,8 +146,8 @@
     {
         "FID": 16,
         "ID": 166,
-        "NOMBRE": "IMSS No 44",
-        "geometry": [
+        "name": "IMSS No 44",
+        "coordinates": [
             -92.937217736931785,
             17.974324846602055
         ]
@@ -155,8 +155,8 @@
     {
         "FID": 17,
         "ID": 167,
-        "NOMBRE": "SIN NOMBRE",
-        "geometry": [
+        "name": "SIN name",
+        "coordinates": [
             -92.941247887269085,
             17.981181046491592
         ]
@@ -164,8 +164,8 @@
     {
         "FID": 18,
         "ID": 168,
-        "NOMBRE": "SIN NOMBRE",
-        "geometry": [
+        "name": "SIN name",
+        "coordinates": [
             -92.927333080743153,
             17.977068962435784
         ]
@@ -173,8 +173,8 @@
     {
         "FID": 19,
         "ID": 169,
-        "NOMBRE": "CERACOM",
-        "geometry": [
+        "name": "CERACOM",
+        "coordinates": [
             -92.933918445456982,
             17.978385955799482
         ]
@@ -182,8 +182,8 @@
     {
         "FID": 20,
         "ID": 170,
-        "NOMBRE": "MAYA SIGLO XXI",
-        "geometry": [
+        "name": "MAYA SIGLO XXI",
+        "coordinates": [
             -92.930012944218149,
             17.977753044143437
         ]
@@ -191,8 +191,8 @@
     {
         "FID": 21,
         "ID": 171,
-        "NOMBRE": "SIN NOMBRE",
-        "geometry": [
+        "name": "SIN name",
+        "coordinates": [
             -92.961210167001312,
             17.975522378610048
         ]
@@ -200,8 +200,8 @@
     {
         "FID": 22,
         "ID": 172,
-        "NOMBRE": "RODOLFO NIETO PADRON",
-        "geometry": [
+        "name": "RODOLFO NIETO PADRON",
+        "coordinates": [
             -92.952823127599402,
             17.977089724542736
         ]
@@ -209,8 +209,8 @@
     {
         "FID": 23,
         "ID": 173,
-        "NOMBRE": "DE LA MUJER",
-        "geometry": [
+        "name": "DE LA MUJER",
+        "coordinates": [
             -92.952976321404023,
             17.976483996775652
         ]
@@ -218,8 +218,8 @@
     {
         "FID": 24,
         "ID": 174,
-        "NOMBRE": "ODONTOLOGICA",
-        "geometry": [
+        "name": "ODONTOLOGICA",
+        "coordinates": [
             -92.954831479891595,
             17.978421994930791
         ]
@@ -227,8 +227,8 @@
     {
         "FID": 25,
         "ID": 175,
-        "NOMBRE": "CERACOM",
-        "geometry": [
+        "name": "CERACOM",
+        "coordinates": [
             -92.933703172233876,
             17.977805894852025
         ]
@@ -236,8 +236,8 @@
     {
         "FID": 26,
         "ID": 176,
-        "NOMBRE": "CRUZ ROJA",
-        "geometry": [
+        "name": "CRUZ ROJA",
+        "coordinates": [
             -92.935374641562817,
             17.973875431524228
         ]
@@ -245,8 +245,8 @@
     {
         "FID": 27,
         "ID": 177,
-        "NOMBRE": "SIN NOMBRE",
-        "geometry": [
+        "name": "SIN name",
+        "coordinates": [
             -92.932829229618335,
             17.973887455620371
         ]
@@ -254,8 +254,8 @@
     {
         "FID": 28,
         "ID": 178,
-        "NOMBRE": "LA CEIBA",
-        "geometry": [
+        "name": "LA CEIBA",
+        "coordinates": [
             -92.944626979331247,
             17.973929847153371
         ]
@@ -263,8 +263,8 @@
     {
         "FID": 29,
         "ID": 181,
-        "NOMBRE": "CENTRO DE SALUD",
-        "geometry": [
+        "name": "CENTRO DE SALUD",
+        "coordinates": [
             -92.931182742352888,
             17.97208631556127
         ]
@@ -272,8 +272,8 @@
     {
         "FID": 30,
         "ID": 182,
-        "NOMBRE": "SIN NOMBRE",
-        "geometry": [
+        "name": "SIN name",
+        "coordinates": [
             -92.958418878168345,
             17.97007959470448
         ]
@@ -281,8 +281,8 @@
     {
         "FID": 31,
         "ID": 183,
-        "NOMBRE": "CENTRO DE SALUD",
-        "geometry": [
+        "name": "CENTRO DE SALUD",
+        "coordinates": [
             -92.969475323676548,
             17.972156717551655
         ]
@@ -290,8 +290,8 @@
     {
         "FID": 32,
         "ID": 184,
-        "NOMBRE": "SIN NOMBRE",
-        "geometry": [
+        "name": "SIN name",
+        "coordinates": [
             -92.992001678955418,
             17.973868856550322
         ]
@@ -299,8 +299,8 @@
     {
         "FID": 33,
         "ID": 185,
-        "NOMBRE": "SIN NOMBRE",
-        "geometry": [
+        "name": "SIN name",
+        "coordinates": [
             -92.949816771310168,
             17.957279148176685
         ]
@@ -308,8 +308,8 @@
     {
         "FID": 34,
         "ID": 188,
-        "NOMBRE": "UNIDAD MEDICA FAMILIAR No 38",
-        "geometry": [
+        "name": "UNIDAD MEDICA FAMILIAR No 38",
+        "coordinates": [
             -92.936653104407,
             18.01174406630766
         ]
@@ -317,8 +317,8 @@
     {
         "FID": 35,
         "ID": 189,
-        "NOMBRE": "CENTRO DE SALUD LA MANGA",
-        "geometry": [
+        "name": "CENTRO DE SALUD LA MANGA",
+        "coordinates": [
             -92.909389043335011,
             18.000800092984019
         ]
@@ -326,8 +326,8 @@
     {
         "FID": 36,
         "ID": 191,
-        "NOMBRE": "SIN NOMBRE",
-        "geometry": [
+        "name": "SIN name",
+        "coordinates": [
             -92.926759377240941,
             17.996035869934143
         ]
@@ -335,8 +335,8 @@
     {
         "FID": 37,
         "ID": 194,
-        "NOMBRE": "UNIDAD MULTIMEDICA",
-        "geometry": [
+        "name": "UNIDAD MULTIMEDICA",
+        "coordinates": [
             -92.929002543563286,
             17.995667826282979
         ]
@@ -344,8 +344,8 @@
     {
         "FID": 38,
         "ID": 195,
-        "NOMBRE": "UNIDAD OFTALMOLOGICA",
-        "geometry": [
+        "name": "UNIDAD OFTALMOLOGICA",
+        "coordinates": [
             -92.929430765462513,
             17.995401707028908
         ]
@@ -353,8 +353,8 @@
     {
         "FID": 39,
         "ID": 196,
-        "NOMBRE": "SIN NOMBRE",
-        "geometry": [
+        "name": "SIN name",
+        "coordinates": [
             -92.918601258066474,
             17.992085484121016
         ]
@@ -362,8 +362,8 @@
     {
         "FID": 40,
         "ID": 197,
-        "NOMBRE": "SANTA CRUZ",
-        "geometry": [
+        "name": "SANTA CRUZ",
+        "coordinates": [
             -92.919705256964789,
             17.993141751619859
         ]
@@ -371,8 +371,8 @@
     {
         "FID": 41,
         "ID": 198,
-        "NOMBRE": "MATERNIDAD VILLAHERMOSA",
-        "geometry": [
+        "name": "MATERNIDAD VILLAHERMOSA",
+        "coordinates": [
             -92.921515718829212,
             17.993827192561785
         ]
@@ -380,8 +380,8 @@
     {
         "FID": 42,
         "ID": 200,
-        "NOMBRE": "IMSS",
-        "geometry": [
+        "name": "IMSS",
+        "coordinates": [
             -92.927809540557888,
             17.99307904953395
         ]
@@ -389,8 +389,8 @@
     {
         "FID": 43,
         "ID": 201,
-        "NOMBRE": "SIN NOMBRE",
-        "geometry": [
+        "name": "SIN name",
+        "coordinates": [
             -92.927236005860905,
             17.992591595755499
         ]
@@ -398,8 +398,8 @@
     {
         "FID": 44,
         "ID": 202,
-        "NOMBRE": "DEL SURESTE",
-        "geometry": [
+        "name": "DEL SURESTE",
+        "coordinates": [
             -92.930973305203068,
             17.992694627898775
         ]
@@ -407,8 +407,8 @@
     {
         "FID": 45,
         "ID": 203,
-        "NOMBRE": "PEDIATRICA",
-        "geometry": [
+        "name": "PEDIATRICA",
+        "coordinates": [
             -92.928669608593196,
             17.993404965669345
         ]
@@ -416,8 +416,8 @@
     {
         "FID": 46,
         "ID": 204,
-        "NOMBRE": "CENTRO MEDICO QUIRURGICO",
-        "geometry": [
+        "name": "CENTRO MEDICO QUIRURGICO",
+        "coordinates": [
             -92.930599279970565,
             17.990939932511587
         ]
@@ -425,8 +425,8 @@
     {
         "FID": 47,
         "ID": 205,
-        "NOMBRE": "CLINICA DEL PASEO",
-        "geometry": [
+        "name": "CLINICA DEL PASEO",
+        "coordinates": [
             -92.931432226353778,
             17.991257418164981
         ]
@@ -434,8 +434,8 @@
     {
         "FID": 48,
         "ID": 206,
-        "NOMBRE": "SIN NOMBRE",
-        "geometry": [
+        "name": "SIN name",
+        "coordinates": [
             -92.921655861519412,
             17.990465056031546
         ]
@@ -443,8 +443,8 @@
     {
         "FID": 49,
         "ID": 207,
-        "NOMBRE": "SIN NOMBRE",
-        "geometry": [
+        "name": "SIN name",
+        "coordinates": [
             -92.920796547030932,
             17.990368345228944
         ]
@@ -452,8 +452,8 @@
     {
         "FID": 50,
         "ID": 208,
-        "NOMBRE": "SIN NOMBRE",
-        "geometry": [
+        "name": "SIN name",
+        "coordinates": [
             -92.919268663217835,
             17.990469086130716
         ]
@@ -461,8 +461,8 @@
     {
         "FID": 51,
         "ID": 209,
-        "NOMBRE": "27 DE FEBRERO",
-        "geometry": [
+        "name": "27 DE FEBRERO",
+        "coordinates": [
             -92.923190537717176,
             17.989444781682209
         ]
@@ -470,8 +470,8 @@
     {
         "FID": 52,
         "ID": 213,
-        "NOMBRE": "IMSS SOLIDARIDAD",
-        "geometry": [
+        "name": "IMSS SOLIDARIDAD",
+        "coordinates": [
             -92.911469586132412,
             17.981625867058405
         ]
@@ -479,8 +479,8 @@
     {
         "FID": 53,
         "ID": 214,
-        "NOMBRE": "CENTRO DE SALUD SAN JOSE",
-        "geometry": [
+        "name": "CENTRO DE SALUD SAN JOSE",
+        "coordinates": [
             -92.906096560452255,
             17.981233761031532
         ]
@@ -488,8 +488,8 @@
     {
         "FID": 54,
         "ID": 215,
-        "NOMBRE": "IMSS",
-        "geometry": [
+        "name": "IMSS",
+        "coordinates": [
             -92.906662974531628,
             17.980427491250783
         ]
@@ -497,8 +497,8 @@
     {
         "FID": 55,
         "ID": 221,
-        "NOMBRE": "CENTRO DE SALUD",
-        "geometry": [
+        "name": "CENTRO DE SALUD",
+        "coordinates": [
             -92.933130558135687,
             18.03245868033796
         ]
@@ -506,8 +506,8 @@
     {
         "FID": 56,
         "ID": 654,
-        "NOMBRE": "SSA",
-        "geometry": [
+        "name": "SSA",
+        "coordinates": [
             -92.921859377329525,
             18.014503893427335
         ]
@@ -515,8 +515,8 @@
     {
         "FID": 57,
         "ID": 655,
-        "NOMBRE": "MEDICA CIEM",
-        "geometry": [
+        "name": "MEDICA CIEM",
+        "coordinates": [
             -92.927423921152709,
             17.999688191565959
         ]
@@ -524,8 +524,8 @@
     {
         "FID": 58,
         "ID": 656,
-        "NOMBRE": "DE PEMEX",
-        "geometry": [
+        "name": "DE PEMEX",
+        "coordinates": [
             -92.923371790007963,
             17.996547094935117
         ]
@@ -533,8 +533,8 @@
     {
         "FID": 59,
         "ID": 657,
-        "NOMBRE": "SIN NOMBRE",
-        "geometry": [
+        "name": "SIN name",
+        "coordinates": [
             -92.922061082283008,
             17.990572763620456
         ]
@@ -542,8 +542,8 @@
     {
         "FID": 60,
         "ID": 658,
-        "NOMBRE": "UNIDAD MEDICA AZTECA",
-        "geometry": [
+        "name": "UNIDAD MEDICA AZTECA",
+        "coordinates": [
             -92.925950445076225,
             17.98994847110086
         ]
@@ -551,8 +551,8 @@
     {
         "FID": 61,
         "ID": 659,
-        "NOMBRE": "EL BUEN SAMARITANO",
-        "geometry": [
+        "name": "EL BUEN SAMARITANO",
+        "coordinates": [
             -92.92600474593695,
             17.989603317241802
         ]
@@ -560,8 +560,8 @@
     {
         "FID": 62,
         "ID": 660,
-        "NOMBRE": "SIN NOMBRE",
-        "geometry": [
+        "name": "SIN name",
+        "coordinates": [
             -92.920182565963373,
             17.987889164135254
         ]
@@ -569,8 +569,8 @@
     {
         "FID": 63,
         "ID": 673,
-        "NOMBRE": "ESPECIALIDADES MEDICAS DE TABASCO",
-        "geometry": [
+        "name": "ESPECIALIDADES MEDICAS DE TABASCO",
+        "coordinates": [
             -92.9274532705724,
             17.999401537339079
         ]
@@ -578,8 +578,8 @@
     {
         "FID": 64,
         "ID": 674,
-        "NOMBRE": "SERVICIO DE ASISTENCIA MEDICA",
-        "geometry": [
+        "name": "SERVICIO DE ASISTENCIA MEDICA",
+        "coordinates": [
             -92.918837479948095,
             17.992378034689352
         ]
@@ -587,8 +587,8 @@
     {
         "FID": 65,
         "ID": 677,
-        "NOMBRE": "SIN NOMBRE",
-        "geometry": [
+        "name": "SIN name",
+        "coordinates": [
             -92.922516423837791,
             17.984727934606852
         ]
@@ -596,8 +596,8 @@
     {
         "FID": 66,
         "ID": 691,
-        "NOMBRE": "IMSS",
-        "geometry": [
+        "name": "IMSS",
+        "coordinates": [
             -92.916014373406455,
             18.014420492103294
         ]
@@ -605,8 +605,8 @@
     {
         "FID": 67,
         "ID": 692,
-        "NOMBRE": "ISSSTE",
-        "geometry": [
+        "name": "ISSSTE",
+        "coordinates": [
             -92.915329031108556,
             18.001102016029392
         ]
@@ -614,8 +614,8 @@
     {
         "FID": 68,
         "ID": 724,
-        "NOMBRE": "ESPECIALIDADES MEDICAS",
-        "geometry": [
+        "name": "ESPECIALIDADES MEDICAS",
+        "coordinates": [
             -92.925669353092516,
             17.995688500679343
         ]
@@ -623,8 +623,8 @@
     {
         "FID": 69,
         "ID": 727,
-        "NOMBRE": "TEO",
-        "geometry": [
+        "name": "TEO",
+        "coordinates": [
             -92.929103597702053,
             17.993879336851116
         ]
@@ -632,8 +632,8 @@
     {
         "FID": 70,
         "ID": 728,
-        "NOMBRE": "DE ESPECIALIDADES",
-        "geometry": [
+        "name": "DE ESPECIALIDADES",
+        "coordinates": [
             -92.932079227221479,
             17.993044283433086
         ]
@@ -641,8 +641,8 @@
     {
         "FID": 71,
         "ID": 729,
-        "NOMBRE": "LABORATORIO REGIONAL DE SALUD PUBLICA",
-        "geometry": [
+        "name": "LABORATORIO REGIONAL DE SALUD PUBLICA",
+        "coordinates": [
             -92.922151596892732,
             18.010931261548532
         ]
@@ -650,8 +650,8 @@
     {
         "FID": 72,
         "ID": 790,
-        "NOMBRE": "TOMOGRAFO",
-        "geometry": [
+        "name": "TOMOGRAFO",
+        "coordinates": [
             -92.953628261735957,
             17.977846080304072
         ]
@@ -659,8 +659,8 @@
     {
         "FID": 73,
         "ID": 847,
-        "NOMBRE": "AIR 2000",
-        "geometry": [
+        "name": "AIR 2000",
+        "coordinates": [
             -92.936121780291529,
             17.994395830366191
         ]
@@ -668,8 +668,8 @@
     {
         "FID": 74,
         "ID": 865,
-        "NOMBRE": "JUAN GRAHAM CASASUS",
-        "geometry": [
+        "name": "JUAN GRAHAM CASASUS",
+        "coordinates": [
             -92.986901174043609,
             17.978037043458013
         ]
@@ -677,8 +677,8 @@
     {
         "FID": 75,
         "ID": 867,
-        "NOMBRE": "IMSS",
-        "geometry": [
+        "name": "IMSS",
+        "coordinates": [
             -92.903936935865019,
             18.017596349872125
         ]
@@ -686,8 +686,8 @@
     {
         "FID": 76,
         "ID": 879,
-        "NOMBRE": "SAN MARCOS",
-        "geometry": [
+        "name": "SAN MARCOS",
+        "coordinates": [
             -92.93529243458336,
             17.98989368586011
         ]
@@ -695,8 +695,8 @@
     {
         "FID": 77,
         "ID": 893,
-        "NOMBRE": "CENTRO DE REHABILITACION",
-        "geometry": [
+        "name": "CENTRO DE REHABILITACION",
+        "coordinates": [
             -92.903382819494098,
             18.017181636063551
         ]
@@ -704,8 +704,8 @@
     {
         "FID": 78,
         "ID": 899,
-        "NOMBRE": "MEDICINA FAMILIAR",
-        "geometry": [
+        "name": "MEDICINA FAMILIAR",
+        "coordinates": [
             -92.917832797132718,
             17.978537291819116
         ]
@@ -713,8 +713,8 @@
     {
         "FID": 79,
         "ID": 900,
-        "NOMBRE": "PSICOPEDAGOGICA",
-        "geometry": [
+        "name": "PSICOPEDAGOGICA",
+        "coordinates": [
             -92.926744120743976,
             17.975714040594909
         ]
@@ -722,8 +722,8 @@
     {
         "FID": 80,
         "ID": 928,
-        "NOMBRE": "CLINICA VIDAL",
-        "geometry": [
+        "name": "CLINICA VIDAL",
+        "coordinates": [
             -92.928875403135024,
             17.985643921059008
         ]
@@ -731,8 +731,8 @@
     {
         "FID": 81,
         "ID": 953,
-        "NOMBRE": "UNIDAD MEDICA FAMILIAR 66",
-        "geometry": [
+        "name": "UNIDAD MEDICA FAMILIAR 66",
+        "coordinates": [
             -92.901372390616046,
             18.02465179053889
         ]
@@ -740,8 +740,8 @@
     {
         "FID": 82,
         "ID": 954,
-        "NOMBRE": "CENTRO DE SALUD",
-        "geometry": [
+        "name": "CENTRO DE SALUD",
+        "coordinates": [
             -92.923753780996805,
             17.998143437395498
         ]
@@ -749,8 +749,8 @@
     {
         "FID": 83,
         "ID": 994,
-        "NOMBRE": "CENTRO DE SALUD",
-        "geometry": [
+        "name": "CENTRO DE SALUD",
+        "coordinates": [
             -92.903215109322844,
             18.008596338839666
         ]
@@ -758,8 +758,8 @@
     {
         "FID": 84,
         "ID": 995,
-        "NOMBRE": "ODONTO SUR",
-        "geometry": [
+        "name": "ODONTO SUR",
+        "coordinates": [
             -92.949083319932754,
             17.998870455738643
         ]
