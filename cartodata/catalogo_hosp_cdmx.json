@@ -1,0 +1,1012 @@
+[
+    {
+        "FID": 0,
+        "name": "Instituto Nacional de Enfermedades Respiratorias Ismael Cosio Villegas",
+        "type": "Publico",
+        "inst": "SSA",
+        "coordinates": [
+            -99.158653000000001,
+            19.291374999999999
+        ]
+    },
+    {
+        "FID": 1,
+        "name": "Hospital Juarez de Mexico",
+        "type": "Publico",
+        "inst": "SSA",
+        "coordinates": [
+            -99.136532000000003,
+            19.481877000000001
+        ]
+    },
+    {
+        "FID": 2,
+        "name": "Hospital General Dr. Manuel Gea Gonzalez",
+        "type": "Publico",
+        "inst": "SSA",
+        "coordinates": [
+            -99.160860999999997,
+            19.290295
+        ]
+    },
+    {
+        "FID": 3,
+        "name": "Hospital General Tlahuac",
+        "type": "Publico",
+        "inst": "SEDESA",
+        "coordinates": [
+            -99.052665000000005,
+            19.287492
+        ]
+    },
+    {
+        "FID": 4,
+        "name": "Hospital Pediatrico La Villa",
+        "type": "Publico",
+        "inst": "SEDESA",
+        "coordinates": [
+            -99.114306999999997,
+            19.487086000000001
+        ]
+    },
+    {
+        "FID": 5,
+        "name": "Hospital General Balbuena",
+        "type": "Publico",
+        "inst": "SEDESA",
+        "coordinates": [
+            -99.115412000000006,
+            19.424195000000001
+        ]
+    },
+    {
+        "FID": 6,
+        "name": "Hospital General Ticoman",
+        "type": "Publico",
+        "inst": "SEDESA",
+        "coordinates": [
+            -99.137777999999997,
+            19.514444000000001
+        ]
+    },
+    {
+        "FID": 7,
+        "name": "Hospital General Xoco",
+        "type": "Publico",
+        "inst": "SEDESA",
+        "coordinates": [
+            -99.162274999999994,
+            19.360313000000001
+        ]
+    },
+    {
+        "FID": 8,
+        "name": "Hospital Materno Infantil Magdalena Contreras",
+        "type": "Publico",
+        "inst": "SEDESA",
+        "coordinates": [
+            -99.239095000000006,
+            19.319364
+        ]
+    },
+    {
+        "FID": 9,
+        "name": "Hospital Pediatrico Azcapotzalco",
+        "type": "Publico",
+        "inst": "SEDESA",
+        "coordinates": [
+            -99.185441999999995,
+            19.484418000000002
+        ]
+    },
+    {
+        "FID": 10,
+        "name": "Hospital General De Zona 27 (Cdmx Norte)",
+        "type": "Publico",
+        "inst": "IMSS",
+        "coordinates": [
+            -99.140006999999997,
+            19.454775999999999
+        ]
+    },
+    {
+        "FID": 11,
+        "name": "Hospital General De Zona 32 (Cdmx Sur)",
+        "type": "Publico",
+        "inst": "IMSS",
+        "coordinates": [
+            -99.130677000000006,
+            19.307963999999998
+        ]
+    },
+    {
+        "FID": 12,
+        "name": "Hospital General De Zona C/Mf 08 (Cdmx Sur)",
+        "type": "Publico",
+        "inst": "IMSS",
+        "coordinates": [
+            -99.200142,
+            19.337136999999998
+        ]
+    },
+    {
+        "FID": 13,
+        "name": "HG Dr. Dario Fernandez Fierro",
+        "type": "Publico",
+        "inst": "ISSSTE",
+        "coordinates": [
+            -99.188608000000002,
+            19.363602
+        ]
+    },
+    {
+        "FID": 14,
+        "name": "HG Tacuba",
+        "type": "Publico",
+        "inst": "ISSSTE",
+        "coordinates": [
+            -99.191231000000002,
+            19.454384000000001
+        ]
+    },
+    {
+        "FID": 15,
+        "name": "Hospital Central Sur De Alta Especialidad",
+        "type": "Publico",
+        "inst": "PEMEX",
+        "coordinates": [
+            -99.218738999999999,
+            19.308751000000001
+        ]
+    },
+    {
+        "FID": 16,
+        "name": "Hospital Central Norte",
+        "type": "Publico",
+        "inst": "PEMEX",
+        "coordinates": [
+            -99.200879999999998,
+            19.479894999999999
+        ]
+    },
+    {
+        "FID": 17,
+        "name": "Hospital Angeles Acoxpa",
+        "type": "Privado",
+        "inst": "PRIVADO",
+        "coordinates": [
+            -99.134952999999996,
+            19.299430999999998
+        ]
+    },
+    {
+        "FID": 18,
+        "name": "Hospital Angeles Metropolitano",
+        "type": "Privado",
+        "inst": "PRIVADO",
+        "coordinates": [
+            -99.167047999999994,
+            19.407125000000001
+        ]
+    },
+    {
+        "FID": 19,
+        "name": "Hospital Angeles Pedregal",
+        "type": "Privado",
+        "inst": "PRIVADO",
+        "coordinates": [
+            -99.221239999999995,
+            19.312439999999999
+        ]
+    },
+    {
+        "FID": 20,
+        "name": "Hospital Angeles Roma (Santelena)",
+        "type": "Privado",
+        "inst": "PRIVADO",
+        "coordinates": [
+            -99.157032000000001,
+            19.415092999999999
+        ]
+    },
+    {
+        "FID": 21,
+        "name": "Centro Medico ABC Campus Santa Fe",
+        "type": "Privado",
+        "inst": "PRIVADO",
+        "coordinates": [
+            -99.282374000000004,
+            19.356363000000002
+        ]
+    },
+    {
+        "FID": 22,
+        "name": "Hospital San Angel Inn Chapultepec",
+        "type": "Privado",
+        "inst": "PRIVADO",
+        "coordinates": [
+            -99.172987000000006,
+            19.421896
+        ]
+    },
+    {
+        "FID": 23,
+        "name": "Hospital San Angel Inn Patriotismo",
+        "type": "Privado",
+        "inst": "PRIVADO",
+        "coordinates": [
+            -99.186387999999994,
+            19.376411999999998
+        ]
+    },
+    {
+        "FID": 24,
+        "name": "Hospital San Angel Inn Sur",
+        "type": "Privado",
+        "inst": "PRIVADO",
+        "coordinates": [
+            -99.200021000000007,
+            19.340277
+        ]
+    },
+    {
+        "FID": 25,
+        "name": "Centro Medico Quirurgico Escandon",
+        "type": "Privado",
+        "inst": "PRIVADO",
+        "coordinates": [
+            -99.172257000000002,
+            19.402517
+        ]
+    },
+    {
+        "FID": 26,
+        "name": "Hospital de Cos",
+        "type": "Privado",
+        "inst": "PRIVADO",
+        "coordinates": [
+            -99.162355000000005,
+            19.416115000000001
+        ]
+    },
+    {
+        "FID": 27,
+        "name": "Hospital de Especialidades MIG",
+        "type": "Privado",
+        "inst": "PRIVADO",
+        "coordinates": [
+            -99.126636000000005,
+            19.491579000000002
+        ]
+    },
+    {
+        "FID": 28,
+        "name": "Hospital Español",
+        "type": "Privado",
+        "inst": "PRIVADO",
+        "coordinates": [
+            -99.197220999999999,
+            19.439381999999998
+        ]
+    },
+    {
+        "FID": 29,
+        "name": "Hospital Sedna",
+        "type": "Privado",
+        "inst": "PRIVADO",
+        "coordinates": [
+            -99.174220000000005,
+            19.303353999999999
+        ]
+    },
+    {
+        "FID": 30,
+        "name": "Hospital General Dr. Enrique Cabrera",
+        "type": "Publico",
+        "inst": "SEDESA",
+        "coordinates": [
+            -99.224431999999993,
+            19.361675000000002
+        ]
+    },
+    {
+        "FID": 31,
+        "name": "Hospital General Ajusco Medio",
+        "type": "Publico",
+        "inst": "SEDESA",
+        "coordinates": [
+            -99.207846000000004,
+            19.272165000000001
+        ]
+    },
+    {
+        "FID": 32,
+        "name": "Hospital General Dr. Ruben Leñero",
+        "type": "Publico",
+        "inst": "SEDESA",
+        "coordinates": [
+            -99.169565000000006,
+            19.451398000000001
+        ]
+    },
+    {
+        "FID": 33,
+        "name": "Hospital General Milpa Alta",
+        "type": "Publico",
+        "inst": "SEDESA",
+        "coordinates": [
+            -99.011210000000005,
+            19.200951
+        ]
+    },
+    {
+        "FID": 34,
+        "name": "Hospital General Villa",
+        "type": "Publico",
+        "inst": "SEDESA",
+        "coordinates": [
+            -99.103352999999998,
+            19.480079
+        ]
+    },
+    {
+        "FID": 35,
+        "name": "Hospital Materno Infantil Tlahuac",
+        "type": "Publico",
+        "inst": "SEDESA",
+        "coordinates": [
+            -98.998000000000005,
+            19.265167000000002
+        ]
+    },
+    {
+        "FID": 36,
+        "name": "Hospital Materno Pediatrico Xochimilco",
+        "type": "Publico",
+        "inst": "SEDESA",
+        "coordinates": [
+            -99.104642999999996,
+            19.254376000000001
+        ]
+    },
+    {
+        "FID": 37,
+        "name": "Hospital Pediatrico Coyoacan",
+        "type": "Publico",
+        "inst": "SEDESA",
+        "coordinates": [
+            -99.168075999999999,
+            19.345818000000001
+        ]
+    },
+    {
+        "FID": 38,
+        "name": "Hospital Pediatrico Peralvillo",
+        "type": "Publico",
+        "inst": "SEDESA",
+        "coordinates": [
+            -99.141249000000002,
+            19.459610000000001
+        ]
+    },
+    {
+        "FID": 39,
+        "name": "Hospital Pediatrico Tacubaya",
+        "type": "Publico",
+        "inst": "SEDESA",
+        "coordinates": [
+            -99.190989999999999,
+            19.402594000000001
+        ]
+    },
+    {
+        "FID": 40,
+        "name": "Hospital General 01 (Cdmx Norte)",
+        "type": "Publico",
+        "inst": "IMSS",
+        "coordinates": [
+            -99.143601000000004,
+            19.465987999999999
+        ]
+    },
+    {
+        "FID": 41,
+        "name": "Hospital General De Zona 01 (Cdmx Sur)",
+        "type": "Publico",
+        "inst": "IMSS",
+        "coordinates": [
+            -99.161681000000002,
+            19.395679999999999
+        ]
+    },
+    {
+        "FID": 42,
+        "name": "Hospital General De Zona 1A (Cdmx Sur)",
+        "type": "Publico",
+        "inst": "IMSS",
+        "coordinates": [
+            -99.155829999999995,
+            19.369548999999999
+        ]
+    },
+    {
+        "FID": 43,
+        "name": "Hospital General De Zona 24 (Cdmx Norte)",
+        "type": "Publico",
+        "inst": "IMSS",
+        "coordinates": [
+            -99.129135000000005,
+            19.482728000000002
+        ]
+    },
+    {
+        "FID": 44,
+        "name": "Hospital General De Zona 2A (Cdmx Sur)",
+        "type": "Publico",
+        "inst": "IMSS",
+        "coordinates": [
+            -99.112200000000001,
+            19.405494999999998
+        ]
+    },
+    {
+        "FID": 45,
+        "name": "Centro Medico Nacional 20 de Noviembre",
+        "type": "Publico",
+        "inst": "ISSSTE",
+        "coordinates": [
+            -99.171205,
+            19.372720000000001
+        ]
+    },
+    {
+        "FID": 46,
+        "name": "HR Primero de Octubre",
+        "type": "Publico",
+        "inst": "ISSSTE",
+        "coordinates": [
+            -99.133249000000006,
+            19.486751000000002
+        ]
+    },
+    {
+        "FID": 47,
+        "name": "Hospital Central Militar",
+        "type": "Publico",
+        "inst": "SEDENA",
+        "coordinates": [
+            -99.216057000000006,
+            19.437366999999998
+        ]
+    },
+    {
+        "FID": 48,
+        "name": "Hospital Angeles Clinica Londres",
+        "type": "Privado",
+        "inst": "PRIVADO",
+        "coordinates": [
+            -99.156934000000007,
+            19.421693000000001
+        ]
+    },
+    {
+        "FID": 49,
+        "name": "Hospital Angeles Lindavista",
+        "type": "Privado",
+        "inst": "PRIVADO",
+        "coordinates": [
+            -99.129582999999997,
+            19.486673
+        ]
+    },
+    {
+        "FID": 50,
+        "name": "Centro de Atencion Medica Integral (Hospital CAMI)",
+        "type": "Privado",
+        "inst": "CAMI",
+        "coordinates": [
+            -99.105059999999995,
+            19.424002000000002
+        ]
+    },
+    {
+        "FID": 51,
+        "name": "HMG Hospital Coyoacan",
+        "type": "Privado",
+        "inst": "PRIVADO",
+        "coordinates": [
+            -99.144987999999998,
+            19.326989999999999
+        ]
+    },
+    {
+        "FID": 52,
+        "name": "Hospital Diomed",
+        "type": "Privado",
+        "inst": "PRIVADO",
+        "coordinates": [
+            -99.205281999999997,
+            19.401375999999999
+        ]
+    },
+    {
+        "FID": 53,
+        "name": "Hospital Obregon",
+        "type": "Privado",
+        "inst": "PRIVADO",
+        "coordinates": [
+            -99.160702000000001,
+            19.418468000000001
+        ]
+    },
+    {
+        "FID": 54,
+        "name": "Instituto Nacional de Ciencias Medicas y Nutricion Salvador Zubiran",
+        "type": "Publico",
+        "inst": "SSA",
+        "coordinates": [
+            -99.155612000000005,
+            19.288556
+        ]
+    },
+    {
+        "FID": 55,
+        "name": "Hospital General de Mexico Dr. Eduardo Liceaga",
+        "type": "Publico",
+        "inst": "SSA",
+        "coordinates": [
+            -99.150802999999996,
+            19.414518999999999
+        ]
+    },
+    {
+        "FID": 56,
+        "name": "Hospital de Especialidades de la Ciudad de Mexico Dr. Belisario Dominguez",
+        "type": "Publico",
+        "inst": "SEDESA",
+        "coordinates": [
+            -99.065355999999994,
+            19.307226
+        ]
+    },
+    {
+        "FID": 57,
+        "name": "Clinica Hospital Emiliano Zapata",
+        "type": "Publico",
+        "inst": "SEDESA",
+        "coordinates": [
+            -98.978281999999993,
+            19.339224999999999
+        ]
+    },
+    {
+        "FID": 58,
+        "name": "Hospital General Gregorio Salas",
+        "type": "Publico",
+        "inst": "SEDESA",
+        "coordinates": [
+            -99.129571999999996,
+            19.437705000000001
+        ]
+    },
+    {
+        "FID": 59,
+        "name": "Hospital Materno Infantil Cuautepec",
+        "type": "Publico",
+        "inst": "SEDESA",
+        "coordinates": [
+            -99.140977000000007,
+            19.539787
+        ]
+    },
+    {
+        "FID": 60,
+        "name": "Hospital Materno Infantil Topilejo",
+        "type": "Publico",
+        "inst": "SEDESA",
+        "coordinates": [
+            -99.140063999999995,
+            19.199206
+        ]
+    },
+    {
+        "FID": 61,
+        "name": "Hospital Pediatrico Iztacalco",
+        "type": "Publico",
+        "inst": "SEDESA",
+        "coordinates": [
+            -99.117627999999996,
+            19.402722000000001
+        ]
+    },
+    {
+        "FID": 62,
+        "name": "Hospital Pediatrico Iztapalapa",
+        "type": "Publico",
+        "inst": "SEDESA",
+        "coordinates": [
+            -99.107652000000002,
+            19.356711000000001
+        ]
+    },
+    {
+        "FID": 63,
+        "name": "Hospital Pediatrico Legaria",
+        "type": "Publico",
+        "inst": "SEDESA",
+        "coordinates": [
+            -99.203637000000001,
+            19.450699
+        ]
+    },
+    {
+        "FID": 64,
+        "name": "Hospital Pediatrico Moctezuma",
+        "type": "Publico",
+        "inst": "SEDESA",
+        "coordinates": [
+            -99.098151000000001,
+            19.432814
+        ]
+    },
+    {
+        "FID": 65,
+        "name": "Hospital Torre Medica Tepepan",
+        "type": "Publico",
+        "inst": "SEDESA",
+        "coordinates": [
+            -99.144312999999997,
+            19.275556000000002
+        ]
+    },
+    {
+        "FID": 66,
+        "name": "Hospital De Especialidades 01 (Cdmx Sur)",
+        "type": "Publico",
+        "inst": "IMSS",
+        "coordinates": [
+            -99.154332999999994,
+            19.407233999999999
+        ]
+    },
+    {
+        "FID": 67,
+        "name": "Hospital De Infectologia 01 (Cdmx Norte)",
+        "type": "Publico",
+        "inst": "IMSS",
+        "coordinates": [
+            -99.144858999999997,
+            19.464865
+        ]
+    },
+    {
+        "FID": 68,
+        "name": "Hospital De Pediatria 01 (Cdmx Sur)",
+        "type": "Publico",
+        "inst": "IMSS",
+        "coordinates": [
+            -99.151985999999994,
+            19.407530999999999
+        ]
+    },
+    {
+        "FID": 69,
+        "name": "Hospital General De Zona C/Umaa 48 (Cdmx Norte)",
+        "type": "Publico",
+        "inst": "IMSS",
+        "coordinates": [
+            -99.213046000000006,
+            19.482375000000001
+        ]
+    },
+    {
+        "FID": 70,
+        "name": "HG Jose Maria Morelos y Pavon",
+        "type": "Publico",
+        "inst": "ISSSTE",
+        "coordinates": [
+            -98.995487999999995,
+            19.364484999999998
+        ]
+    },
+    {
+        "FID": 71,
+        "name": "HG Dr. Fernando Quiroz Gutierrez",
+        "type": "Publico",
+        "inst": "ISSSTE",
+        "coordinates": [
+            -99.194186999999999,
+            19.394241999999998
+        ]
+    },
+    {
+        "FID": 72,
+        "name": "HR Gral Ignacio Zaragoza",
+        "type": "Publico",
+        "inst": "ISSSTE",
+        "coordinates": [
+            -99.045018999999996,
+            19.389472000000001
+        ]
+    },
+    {
+        "FID": 73,
+        "name": "HR Lic. Adolfo Lopez Mateos",
+        "type": "Publico",
+        "inst": "ISSSTE",
+        "coordinates": [
+            -99.172715999999994,
+            19.358450999999999
+        ]
+    },
+    {
+        "FID": 74,
+        "name": "Hospital Militar De Zona, El Vergel",
+        "type": "Publico",
+        "inst": "SEDENA",
+        "coordinates": [
+            -99.082521,
+            19.312522000000001
+        ]
+    },
+    {
+        "FID": 75,
+        "name": "Centro Medico Naval",
+        "type": "Publico",
+        "inst": "SEMAR",
+        "coordinates": [
+            -99.125232999999994,
+            19.324031999999999
+        ]
+    },
+    {
+        "FID": 76,
+        "name": "Hospital Angeles Mexico",
+        "type": "Privado",
+        "inst": "PRIVADO",
+        "coordinates": [
+            -99.172655000000006,
+            19.400075000000001
+        ]
+    },
+    {
+        "FID": 77,
+        "name": "Hospital Angeles Mocel",
+        "type": "Privado",
+        "inst": "PRIVADO",
+        "coordinates": [
+            -99.184695000000005,
+            19.410855000000002
+        ]
+    },
+    {
+        "FID": 78,
+        "name": "Hospital Angeles Santa Monica",
+        "type": "Privado",
+        "inst": "PRIVADO",
+        "coordinates": [
+            -99.191809000000006,
+            19.434256000000001
+        ]
+    },
+    {
+        "FID": 79,
+        "name": "Centro Medico ABC Campus Observatorio",
+        "type": "Privado",
+        "inst": "PRIVADO",
+        "coordinates": [
+            -99.204032999999995,
+            19.400753999999999
+        ]
+    },
+    {
+        "FID": 80,
+        "name": "Hospital San Angel Inn Universidad",
+        "type": "Privado",
+        "inst": "PRIVADO",
+        "coordinates": [
+            -99.167569,
+            19.358908
+        ]
+    },
+    {
+        "FID": 81,
+        "name": "Centro Medico Dalinde",
+        "type": "Privado",
+        "inst": "PRIVADO",
+        "coordinates": [
+            -99.168017717400005,
+            19.405260622699998
+        ]
+    },
+    {
+        "FID": 82,
+        "name": "Nuevo Sanatorio Durango",
+        "type": "Privado",
+        "inst": "PRIVADO",
+        "coordinates": [
+            -99.171260000000004,
+            19.418658000000001
+        ]
+    },
+    {
+        "FID": 83,
+        "name": "Centro Citibanamex",
+        "type": "Privado",
+        "inst": "SSA",
+        "coordinates": [
+            -99.223980730299999,
+            19.4400935894
+        ]
+    },
+    {
+        "FID": 84,
+        "name": "Autodromo Hermanos Rodriguez",
+        "type": "Publico",
+        "inst": "IMSS",
+        "coordinates": [
+            -99.089455522899996,
+            19.4042398709
+        ]
+    },
+    {
+        "FID": 85,
+        "name": "Hospital Infantil de México Federico Gómez",
+        "type": "Publico",
+        "inst": "SSA",
+        "coordinates": [
+            -99.151929799900003,
+            19.410808900399999
+        ]
+    },
+    {
+        "FID": 86,
+        "name": "Instituto  Nacional de Cardiología Ignacio Chávez",
+        "type": "Publico",
+        "inst": "SSA",
+        "coordinates": [
+            -99.153847778699998,
+            19.290559875100001
+        ]
+    },
+    {
+        "FID": 87,
+        "name": "Hospital General Iztapalapa",
+        "type": "Publico",
+        "inst": "SEDESA",
+        "coordinates": [
+            -99.027254920399997,
+            19.343134160999998
+        ]
+    },
+    {
+        "FID": 88,
+        "name": "Hospital General 02 (Cdmx Sur) Villa Coapa (COY.)",
+        "type": "Publico",
+        "inst": "IMSS",
+        "coordinates": [
+            -99.129761315400003,
+            19.3089328788
+        ]
+    },
+    {
+        "FID": 89,
+        "name": "Hospital De Especialidades 01 (Cdmx Norte) La Raza (AZC)",
+        "type": "Publico",
+        "inst": "IMSS",
+        "coordinates": [
+            -99.143925140299999,
+            19.466893385900001
+        ]
+    },
+    {
+        "FID": 90,
+        "name": "Hospital General De Zona C/Mf 29 (S. Juan Aragón)",
+        "type": "Publico",
+        "inst": "IMSS",
+        "coordinates": [
+            -99.085108000899993,
+            19.4650769074
+        ]
+    },
+    {
+        "FID": 91,
+        "name": "Hospital General De Zona 47 (Cdmx Sur) (IZP)",
+        "type": "Publico",
+        "inst": "IMSS",
+        "coordinates": [
+            -99.054298984900001,
+            19.357333344600001
+        ]
+    },
+    {
+        "FID": 92,
+        "name": "CLINICA NAPOLES",
+        "type": "Privado",
+        "inst": "PRIVADO",
+        "coordinates": [
+            -99.178906196,
+            19.389563192000001
+        ]
+    },
+    {
+        "FID": 93,
+        "name": "Hospital Medica SUR",
+        "type": "Privado",
+        "inst": "PRIVADO",
+        "coordinates": [
+            -99.161615600000005,
+            19.2974842
+        ]
+    },
+    {
+        "FID": 94,
+        "name": "CLINICA REGIONAL 36 DEL IMSS",
+        "type": "Publico",
+        "inst": "IMSS",
+        "coordinates": [
+            -99.094478620999993,
+            19.49942515
+        ]
+    },
+    {
+        "FID": 95,
+        "name": "IMSS CLINICA 28 GABRIEL MANCERA",
+        "type": "Publico",
+        "inst": "IMSS",
+        "coordinates": [
+            -99.165203000000005,
+            19.384114
+        ]
+    },
+    {
+        "FID": 96,
+        "name": "81/O. BATALLÓN DE INFANTERÍA Y ESCUELA MILITAR DE INFANTERÍA",
+        "type": "Publico",
+        "inst": "SEDENA",
+        "coordinates": [
+            -99.152978899600001,
+            19.264604199800001
+        ]
+    },
+    {
+        "FID": 97,
+        "name": "HOSPITAL MILITAR DE ESPECIALIDADES DE LA MUJER Y NEONATOLOGÍA",
+        "type": "Publico",
+        "inst": "SEDENA",
+        "coordinates": [
+            -99.218598199699997,
+            19.4394092004
+        ]
+    },
+    {
+        "FID": 98,
+        "name": "FUNDACIÓN HOSPITAL NUESTRA SEÑORA DE LA LUZ",
+        "type": "Privado",
+        "inst": "PRIVADO",
+        "coordinates": [
+            -99.156952240199999,
+            19.4347197188
+        ]
+    },
+    {
+        "FID": 99,
+        "name": "22/O. BATALLÓN DE POLICÍA MILITAR",
+        "type": "Publico",
+        "inst": "SEDENA",
+        "coordinates": [
+            -99.192575470999998,
+            19.418793856800001
+        ]
+    },
+    {
+        "FID": 100,
+        "name": "UBICACIÓN DESCONOCIDA",
+        "type": "Desconocido",
+        "inst": "Desconocido",
+        "coordinates": [
+            -99.133194000000003,
+            19.432683000000001
+        ]
+    }
+]
