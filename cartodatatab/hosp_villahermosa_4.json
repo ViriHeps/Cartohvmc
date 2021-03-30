@@ -1,0 +1,546 @@
+[
+  {
+    "FID": 0,
+    "name": "CENTRO DE SALUD FRACC. LA SELVA",
+    "coordinates": [
+      -92.963619463058791,
+      18.02361481976962
+    ]
+  },
+  {
+    "FID": 1,
+    "name": "CENTRO DE SALUD FRACC. BOSQUE DE SALOYA",
+    "coordinates": [
+      -92.958591960708532,
+      18.013842170946479
+    ]
+  },
+  {
+    "FID": 2,
+    "name": "CENTRO DE SALUD LOMAS DOS",
+    "coordinates": [
+      -92.869715891411758,
+      18.109122447440715
+    ]
+  },
+  {
+    "FID": 3,
+    "name": "CENTRO DE SALUD",
+    "coordinates": [
+      -92.856920773847548,
+      18.133071455392006
+    ]
+  },
+  {
+    "FID": 4,
+    "name": "CENTRO DE SALUD LAS ROSAS",
+    "coordinates": [
+      -92.862987378211102,
+      18.121901485719007
+    ]
+  },
+  {
+    "FID": 5,
+    "name": "CENTRO DE SALUD",
+    "coordinates": [
+      -92.858742927478929,
+      18.148965147749454
+    ]
+  },
+  {
+    "FID": 6,
+    "name": "CENTRO DE SALUD RÍO VIEJO PRIMERA SECCIÓN",
+    "coordinates": [
+      -92.986576102524324,
+      17.95242276424953
+    ]
+  },
+  {
+    "FID": 7,
+    "name": "CENTRO DE SALUD RURAL BUENAVISTA",
+    "coordinates": [
+      -93.072406190003022,
+      17.961731266805192
+    ]
+  },
+  {
+    "FID": 8,
+    "name": "CLÍNICA MÉDICA DE JESÚS",
+    "coordinates": [
+      -92.931059024456715,
+      17.974478676541555
+    ]
+  },
+  {
+    "FID": 9,
+    "name": "CASA DE SALUD",
+    "coordinates": [
+      -92.960739968598958,
+      17.991757852317622
+    ]
+  },
+  {
+    "FID": 10,
+    "name": "HOSPITAL ÁNGELES DE VILLAHERMOSA",
+    "coordinates": [
+      -92.953104149491239,
+      17.996917380004522
+    ]
+  },
+  {
+    "FID": 11,
+    "name": "CENTRO DE REHABILITACIÓN ÚNETE",
+    "coordinates": [
+      -92.959257707435398,
+      18.000145039201506
+    ]
+  },
+  {
+    "FID": 12,
+    "name": "CLÍNICA DEL ISSSTE",
+    "coordinates": [
+      -92.915255824622662,
+      18.000967604753722
+    ]
+  },
+  {
+    "FID": 13,
+    "name": "HOSPITAL REGIONAL DE ESPECIALIDADES IMSS",
+    "coordinates": [
+      -92.916036811630249,
+      18.014317493864503
+    ]
+  },
+  {
+    "FID": 14,
+    "name": "UNIDAD MÉDICA FAMILIAR NO. 42",
+    "coordinates": [
+      -92.901332223375249,
+      18.024552751073976
+    ]
+  },
+  {
+    "FID": 15,
+    "name": "CENTRO DE SALUD CON CENTROS BÁSICOS",
+    "coordinates": [
+      -92.908942103927345,
+      18.000501027239935
+    ]
+  },
+  {
+    "FID": 16,
+    "name": "CENTRO DE SALUD REGIONAL DE CAPACITACIÓN TIERRA COLORADA",
+    "coordinates": [
+      -92.922570642032483,
+      18.011311152426412
+    ]
+  },
+  {
+    "FID": 17,
+    "name": "CENTRO DE REHABILITACIÓN Y EDUCACIÓN ESPECIAL DIF",
+    "coordinates": [
+      -92.920639023188031,
+      18.014003790925212
+    ]
+  },
+  {
+    "FID": 18,
+    "name": "UNIDAD MÉDICA FAMILIAR NO. 38",
+    "coordinates": [
+      -92.936587418722823,
+      18.011682829112264
+    ]
+  },
+  {
+    "FID": 19,
+    "name": "HOSPITAL GENERAL DR. GUSTAVO A. ROVIROSA PÉREZ",
+    "coordinates": [
+      -92.924205272615339,
+      18.012607798000477
+    ]
+  },
+  {
+    "FID": 20,
+    "name": "INST. MÉDICO QUIRÚRGICO",
+    "coordinates": [
+      -92.927729958873627,
+      17.987327504990482
+    ]
+  },
+  {
+    "FID": 21,
+    "name": "HOSPITAL PSIQUIÁTRICO VILLAHERMOSA",
+    "coordinates": [
+      -92.920762828543658,
+      18.014353866719617
+    ]
+  },
+  {
+    "FID": 22,
+    "name": "CLÍNICA DEL DR. GUERRA",
+    "coordinates": [
+      -92.920799624840967,
+      17.990292243004962
+    ]
+  },
+  {
+    "FID": 23,
+    "name": "CLÍNICA MÉDICA AIR 2000",
+    "coordinates": [
+      -92.936142565530005,
+      17.994445389908265
+    ]
+  },
+  {
+    "FID": 24,
+    "name": "CASA DE SALUD",
+    "coordinates": [
+      -92.93320076527101,
+      18.032278050760894
+    ]
+  },
+  {
+    "FID": 25,
+    "name": "CLÍNICA SANTA CRUZ",
+    "coordinates": [
+      -92.919399541394341,
+      17.993038881600924
+    ]
+  },
+  {
+    "FID": 26,
+    "name": "HOSPITAL REGIONAL PETRÓLEOS MEXICANOS",
+    "coordinates": [
+      -92.923662707470783,
+      17.996755458312823
+    ]
+  },
+  {
+    "FID": 27,
+    "name": "HOSPITAL DEL SURESTE",
+    "coordinates": [
+      -92.930948594604303,
+      17.992758786816538
+    ]
+  },
+  {
+    "FID": 28,
+    "name": "CLÍNICA 2 DE ABRIL",
+    "coordinates": [
+      -92.923930217028058,
+      17.992333331663719
+    ]
+  },
+  {
+    "FID": 29,
+    "name": "CLÍNICA ODONTOLÓGICA JUCHIMÁN 1",
+    "coordinates": [
+      -92.953161245373352,
+      17.981020181143105
+    ]
+  },
+  {
+    "FID": 30,
+    "name": "IMSS SECTOR SAN JOSÉ GAVIOTAS SUR",
+    "coordinates": [
+      -92.906346667122179,
+      17.980236477672925
+    ]
+  },
+  {
+    "FID": 31,
+    "name": "HOSPITAL  GENERAL JUAN GRAHAM CASASÚS",
+    "coordinates": [
+      -92.953332787994768,
+      17.976243201955672
+    ]
+  },
+  {
+    "FID": 32,
+    "name": "CENTRO ESTATAL DE CANCEROLOGÍA",
+    "coordinates": [
+      -92.952997023365356,
+      17.976524729509705
+    ]
+  },
+  {
+    "FID": 33,
+    "name": "HOSPITAL DEL NIÑO DR. RODOLFO NIETO PADRÓN",
+    "coordinates": [
+      -92.952475371864494,
+      17.977274840008384
+    ]
+  },
+  {
+    "FID": 34,
+    "name": "TOMÓGRAFO DE TABASCO DIF",
+    "coordinates": [
+      -92.953864378144473,
+      17.977936075517547
+    ]
+  },
+  {
+    "FID": 35,
+    "name": "CENTRO DE EDUCACIÓN PARA LA SALUD ESCOLAR",
+    "coordinates": [
+      -92.923804543784385,
+      18.013602725253563
+    ]
+  },
+  {
+    "FID": 36,
+    "name": "CLÍNICA DE ODONTOLOGÍA GENERAL Y PEDIÁTRICA DE LA UJAT",
+    "coordinates": [
+      -92.911188110956829,
+      17.990811122281965
+    ]
+  },
+  {
+    "FID": 37,
+    "name": "CLÍNICA DEL CENTRO",
+    "coordinates": [
+      -92.915392390303822,
+      17.991296514918236
+    ]
+  },
+  {
+    "FID": 38,
+    "name": "UNIDAD MÉDICA GUERRERO",
+    "coordinates": [
+      -92.919618817900854,
+      17.989930935403933
+    ]
+  },
+  {
+    "FID": 39,
+    "name": "CLÍNICA DEL DR. GUERRA",
+    "coordinates": [
+      -92.922285115529959,
+      17.990624620439373
+    ]
+  },
+  {
+    "FID": 40,
+    "name": "CLÍNICA 27 DE FEBRERO",
+    "coordinates": [
+      -92.923226885531193,
+      17.98960400693268
+    ]
+  },
+  {
+    "FID": 41,
+    "name": "CLÍNICA GUADALUPE",
+    "coordinates": [
+      -92.925126243720371,
+      17.995015087770366
+    ]
+  },
+  {
+    "FID": 42,
+    "name": "CLÍNICA OFTALMOLÓGICA",
+    "coordinates": [
+      -92.92668035955171,
+      17.996041632025221
+    ]
+  },
+  {
+    "FID": 43,
+    "name": "CLÍNICA 39 DEL IMSS",
+    "coordinates": [
+      -92.927736314603607,
+      17.993126509519438
+    ]
+  },
+  {
+    "FID": 44,
+    "name": "CLÍNICA PEDIÁTRICA JIMÉNEZ",
+    "coordinates": [
+      -92.928679178409624,
+      17.993452323356589
+    ]
+  },
+  {
+    "FID": 45,
+    "name": "CENTRO MÉDICO QUIRÚRGICO",
+    "coordinates": [
+      -92.930565841704293,
+      17.991030812055204
+    ]
+  },
+  {
+    "FID": 46,
+    "name": "CENTRO DE SALUD COL. TAMULTÉ DE LAS DELICIAS",
+    "coordinates": [
+      -92.969456732673038,
+      17.972101688652632
+    ]
+  },
+  {
+    "FID": 47,
+    "name": "CENTRO DE SALUD I.N.B.",
+    "coordinates": [
+      -92.931203503765332,
+      17.972044859814986
+    ]
+  },
+  {
+    "FID": 48,
+    "name": "HOSPITAL DE LA MUJER",
+    "coordinates": [
+      -92.931215244059857,
+      17.969646459846004
+    ]
+  },
+  {
+    "FID": 49,
+    "name": "CENTRO MÉDICO ESPECIALIZADO CEIBA",
+    "coordinates": [
+      -92.944576212703041,
+      17.973366332489526
+    ]
+  },
+  {
+    "FID": 50,
+    "name": "CLÍNICA CATEDRAL",
+    "coordinates": [
+      -92.928412635625136,
+      17.988680485593566
+    ]
+  },
+  {
+    "FID": 51,
+    "name": "HOSPITAL MILITAR REGIONAL",
+    "coordinates": [
+      -92.939725694493745,
+      17.986135249792138
+    ]
+  },
+  {
+    "FID": 52,
+    "name": "CRUZ ROJA MEXICANA DELEGACIÓN VILLAHERMOSA",
+    "coordinates": [
+      -92.935252572765393,
+      17.974205341677948
+    ]
+  },
+  {
+    "FID": 53,
+    "name": "UNIDAD DE MEDICINA FAMILIAR NO. 43 IMSS",
+    "coordinates": [
+      -92.933711818465056,
+      17.981701972561407
+    ]
+  },
+  {
+    "FID": 54,
+    "name": "CENTRO DE RADIODIAGNÓSTICO COMPUTARIZADO MÉDICO DE TABASCO",
+    "coordinates": [
+      -92.933927443810362,
+      17.97792116277671
+    ]
+  },
+  {
+    "FID": 55,
+    "name": "CENTRO MÉDICO ISSET DR. JULIÁN A. MANZUR OCAÑA",
+    "coordinates": [
+      -92.936943748158555,
+      17.980641288255256
+    ]
+  },
+  {
+    "FID": 56,
+    "name": "CENTRO DE SALUD URBANA DR. MAXIMILIANO DORANTES",
+    "coordinates": [
+      -92.94130375529285,
+      17.981348865832775
+    ]
+  },
+  {
+    "FID": 57,
+    "name": "HOSPITAL GRAL. DEL ISSSTE DR. DANIEL GURRÍA URGELL",
+    "coordinates": [
+      -92.94446251058686,
+      17.983528742172926
+    ]
+  },
+  {
+    "FID": 58,
+    "name": "CENTRO DE SALUD NO. 8",
+    "coordinates": [
+      -92.991503580250566,
+      17.974276308940532
+    ]
+  },
+  {
+    "FID": 59,
+    "name": "HOSPITAL DR. JUAN GRAHAM CASASÚS",
+    "coordinates": [
+      -92.986516012938736,
+      17.978533535856801
+    ]
+  },
+  {
+    "FID": 60,
+    "name": "HOSPITAL CERACOM",
+    "coordinates": [
+      -92.933904996804614,
+      17.978382088636863
+    ]
+  },
+  {
+    "FID": 61,
+    "name": "CENTRO DE SALUD URBANO GAVIOTAS SECTOR VI SAN JOSÉ",
+    "coordinates": [
+      -92.906152373825066,
+      17.981317226674634
+    ]
+  },
+  {
+    "FID": 62,
+    "name": "CENTRO DE SALUD URBANO GAVIOTAS NORTE",
+    "coordinates": [
+      -92.918713094939577,
+      17.982928004182369
+    ]
+  },
+  {
+    "FID": 63,
+    "name": "TORRE MÉDICA",
+    "coordinates": [
+      -92.925622219783094,
+      17.995608134501399
+    ]
+  },
+  {
+    "FID": 64,
+    "name": "UNIDAD MÉDICA AZTECA SIGLO XXI",
+    "coordinates": [
+      -92.926397052044706,
+      17.989931664972499
+    ]
+  },
+  {
+    "FID": 65,
+    "name": "UNIDAD PEDIÁTRICA INTEGRAL",
+    "coordinates": [
+      -92.93074069013619,
+      17.978103818410183
+    ]
+  },
+  {
+    "FID": 66,
+    "name": "CLÍNICA MAYA SIGLO XXI",
+    "coordinates": [
+      -92.930379482640106,
+      17.977758175871482
+    ]
+  },
+  {
+    "FID": 67,
+    "name": "CENTRO DE SALUD COL. SABINA",
+    "coordinates": [
+      -92.949965971895651,
+      17.957271420971374
+    ]
+  }
+]
