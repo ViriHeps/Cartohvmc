@@ -1,0 +1,1262 @@
+[
+  {
+    "FID": 0,
+    "ubicacion": "Viaducto R?o de la Piedad y 1ro de Mayo",
+    "sentido": "Poniente a Oriente",
+    "coordinates": [
+      -99.119721200000001,
+      19.405604700000001
+    ]
+  },
+  {
+    "FID": 1,
+    "ubicacion": "Circuito Bicentenario Maestro Jos? Vasconcelos y Av. Benjam?n Franklin",
+    "sentido": "Norte a Sur",
+    "coordinates": [
+      -99.184196999999998,
+      19.407957
+    ]
+  },
+  {
+    "FID": 2,
+    "ubicacion": "Escuela M?dico Militar - Jos? Antonio Torres Xocongo y Fray Servando Teresa de Mier",
+    "sentido": "Poniente a Oriente",
+    "coordinates": [
+      -99.131165999999993,
+      19.423568
+    ]
+  },
+  {
+    "FID": 3,
+    "ubicacion": "Eje Central L?zaro C?rdenas y Av. Ricardo Flores Mag?n",
+    "sentido": "Sur a Norte",
+    "coordinates": [
+      -99.138399000000007,
+      19.449558
+    ]
+  },
+  {
+    "FID": 4,
+    "ubicacion": "Perif?rico 2P S-N / R?o San ?ngel y Rinc. Atlamaya",
+    "sentido": "Norte a Sur",
+    "coordinates": [
+      -99.199933000000001,
+      19.354244000000001
+    ]
+  },
+  {
+    "FID": 5,
+    "ubicacion": "AUN / Av. R?o Becerra y 11 de Abril",
+    "sentido": "Norte a Sur",
+    "coordinates": [
+      -99.188713000000007,
+      19.395246
+    ]
+  },
+  {
+    "FID": 6,
+    "ubicacion": "Perif?rico 2P S-N / Etna y Ajusco",
+    "sentido": "Norte a Sur",
+    "coordinates": [
+      -99.193843999999999,
+      19.359411000000001
+    ]
+  },
+  {
+    "FID": 7,
+    "ubicacion": "Entre Eje 5 Sur y Viaducto",
+    "sentido": "Sur a Norte",
+    "coordinates": [
+      -99.138058085699996,
+      19.392739176999999
+    ]
+  },
+  {
+    "FID": 8,
+    "ubicacion": "Eje 9 Sur Miguel ?ngel de Quevedo y Av. Universidad",
+    "sentido": "Sur a Norte",
+    "coordinates": [
+      -99.180131000000003,
+      19.346874
+    ]
+  },
+  {
+    "FID": 9,
+    "ubicacion": "Circuito Bicentenario Av. Rio Churubusco y Gerentes",
+    "sentido": "Sur a Norte",
+    "coordinates": [
+      -99.095667000000006,
+      19.379290000000001
+    ]
+  },
+  {
+    "FID": 10,
+    "ubicacion": "Entre Lago Victoria y Moliere",
+    "sentido": "Oriente a Poniente",
+    "coordinates": [
+      -99.197340874099993,
+      19.438294002500001
+    ]
+  },
+  {
+    "FID": 11,
+    "ubicacion": "Entre Arquimides y Lago Victoria",
+    "sentido": "Oriente a Poniente",
+    "coordinates": [
+      -99.192111479499999,
+      19.438053728500002
+    ]
+  },
+  {
+    "FID": 12,
+    "ubicacion": "Eje 1 Oriente Av. del Trabajo, Eje 2 Norte Canal del Norte y Av. Circunvalaci?n",
+    "sentido": "Norte a Sur",
+    "coordinates": [
+      -99.124752000000001,
+      19.452092
+    ]
+  },
+  {
+    "FID": 13,
+    "ubicacion": "Eje 1 Poniente Guerrero y Eje 2 Norte Manuel Gonz?lez",
+    "sentido": "Norte a Sur",
+    "coordinates": [
+      -99.145048000000003,
+      19.456251000000002
+    ]
+  },
+  {
+    "FID": 14,
+    "ubicacion": "Jose Maria Izazaga y Eje Central L?zaro C?rdenas",
+    "sentido": "Oriente a Poniente",
+    "coordinates": [
+      -99.141868000000002,
+      19.426583999999998
+    ]
+  },
+  {
+    "FID": 15,
+    "ubicacion": "Av. Insurgentes Nte. y Pte. 112",
+    "sentido": "Sur a Norte",
+    "coordinates": [
+      -99.134750999999994,
+      19.473585700000001
+    ]
+  },
+  {
+    "FID": 16,
+    "ubicacion": "Av. Marina Nacional y Felipe Carrillo Puerto",
+    "sentido": "Sur a Norte",
+    "coordinates": [
+      -99.185574799999998,
+      19.4520233
+    ]
+  },
+  {
+    "FID": 17,
+    "ubicacion": "Av. San Cosme",
+    "sentido": "Oriente a Poniente",
+    "coordinates": [
+      -99.158370000000005,
+      19.440977
+    ]
+  },
+  {
+    "FID": 18,
+    "ubicacion": "Av. Paseo de la Reforma y Estela  de Luz",
+    "sentido": "Oriente a Poniente",
+    "coordinates": [
+      -99.175398999999999,
+      19.423584999999999
+    ]
+  },
+  {
+    "FID": 19,
+    "ubicacion": "Av. Cuitl?huac",
+    "sentido": "19.473673",
+    "coordinates": [
+      -99.15889,
+      19.473673000000002
+    ]
+  },
+  {
+    "FID": 20,
+    "ubicacion": "AUN /Gral. Juan Cabral y Batalla de Celaya",
+    "sentido": "Sur a Norte",
+    "coordinates": [
+      -99.214277499999994,
+      19.438765499999999
+    ]
+  },
+  {
+    "FID": 21,
+    "ubicacion": "Fray Servando Teresa de Mier y Cucurpe",
+    "sentido": "Poniente a Oriente",
+    "coordinates": [
+      -99.118488299999996,
+      19.4215211
+    ]
+  },
+  {
+    "FID": 22,
+    "ubicacion": "Calz. Ignacio Zaragoza y Anselmo de la Portilla",
+    "sentido": "Poniente a Oriente",
+    "coordinates": [
+      -99.101904000000005,
+      19.422734999999999
+    ]
+  },
+  {
+    "FID": 23,
+    "ubicacion": "Av. Ocean?a y Pablo R. Sidar",
+    "sentido": "Poniente a Oriente",
+    "coordinates": [
+      -99.097218799999993,
+      19.439186299999999
+    ]
+  },
+  {
+    "FID": 24,
+    "ubicacion": "Entre Av. Guerrero y Av. Insurgentes",
+    "sentido": "Oriente a Poniente",
+    "coordinates": [
+      -99.152518199499994,
+      19.4388052579
+    ]
+  },
+  {
+    "FID": 25,
+    "ubicacion": "Chapultepec - Sonora - Lieja",
+    "sentido": "Oriente a Poniente",
+    "coordinates": [
+      -99.173930999999996,
+      19.421323999999998
+    ]
+  },
+  {
+    "FID": 26,
+    "ubicacion": "Calz Gral. Ignacio Zaragoza y Circuito Bicentenario Boulevard Puerto  A?reo",
+    "sentido": "Poniente a Oriente",
+    "coordinates": [
+      -99.096795,
+      19.419915
+    ]
+  },
+  {
+    "FID": 27,
+    "ubicacion": "Av. Guadalupe I. Ram?rez y Prol. Divisi?n del Norte",
+    "sentido": "Oriente a Poniente",
+    "coordinates": [
+      -99.114759000000006,
+      19.265927999999999
+    ]
+  },
+  {
+    "FID": 28,
+    "ubicacion": "Av. Hidalgo",
+    "sentido": "Oriente a Poniente",
+    "coordinates": [
+      -99.145792,
+      19.437403
+    ]
+  },
+  {
+    "FID": 29,
+    "ubicacion": "Av. Aquiles Serd?n y Av. Tezozomoc",
+    "sentido": "Sur a Norte",
+    "coordinates": [
+      -99.194411000000002,
+      19.489678999999999
+    ]
+  },
+  {
+    "FID": 30,
+    "ubicacion": "Eje 3 Pte. Thiers y Darwin",
+    "sentido": "Norte a Sur",
+    "coordinates": [
+      -99.174730999999994,
+      19.429957000000002
+    ]
+  },
+  {
+    "FID": 31,
+    "ubicacion": "Circuito Bicentenario Av. Rio Consulado",
+    "sentido": "Sur a Norte",
+    "coordinates": [
+      -99.108822399999994,
+      19.4523151
+    ]
+  },
+  {
+    "FID": 32,
+    "ubicacion": "Eje Central Lzaro Crdenas",
+    "sentido": "Sur a Norte",
+    "coordinates": [
+      -99.137373999999994,
+      19.464898000000002
+    ]
+  },
+  {
+    "FID": 33,
+    "ubicacion": "Anillo Perif?rico Canal de Garay y Lebrija",
+    "sentido": "Norte a Sur",
+    "coordinates": [
+      -99.071847000000005,
+      19.323533999999999
+    ]
+  },
+  {
+    "FID": 34,
+    "ubicacion": "Calz. De Tlalpan y Museo",
+    "sentido": "Norte a Sur",
+    "coordinates": [
+      -99.139836399999993,
+      19.328757299999999
+    ]
+  },
+  {
+    "FID": 35,
+    "ubicacion": "San Lorenzo",
+    "sentido": "Sur a Norte",
+    "coordinates": [
+      -99.074780000000004,
+      19.350968000000002
+    ]
+  },
+  {
+    "FID": 36,
+    "ubicacion": "Perif?rico 2P S-N / Dr. Glez. Herrej?n / Lomas de Plateros",
+    "sentido": "Norte a Sur",
+    "coordinates": [
+      -99.1921234,
+      19.3727515
+    ]
+  },
+  {
+    "FID": 37,
+    "ubicacion": "Circuito Bicentenario Melchor Ocampo y R?o Duero",
+    "sentido": "Sur a Norte",
+    "coordinates": [
+      -99.174174699999995,
+      19.42859
+    ]
+  },
+  {
+    "FID": 38,
+    "ubicacion": "Entre Av. Ceylan y Mariano Escobedo",
+    "sentido": "Oriente a Poniente",
+    "coordinates": [
+      -99.168674976999995,
+      19.470747958899999
+    ]
+  },
+  {
+    "FID": 39,
+    "ubicacion": "Entre Calle Hernndez y Eje 2 Norte",
+    "sentido": "Norte a Sur",
+    "coordinates": [
+      -99.125595986299999,
+      19.466801843700001
+    ]
+  },
+  {
+    "FID": 40,
+    "ubicacion": "Eje 6 Sur Narciso Mendoza y  Eje 8 Sur Ermita Iztapalapa",
+    "sentido": "Oriente a Poniente",
+    "coordinates": [
+      -99.015351999999993,
+      19.352139000000001
+    ]
+  },
+  {
+    "FID": 41,
+    "ubicacion": "Eje 4 Ote. Canal Rio Churubusco y Canal de Apatlaco",
+    "sentido": "Norte a Sur",
+    "coordinates": [
+      -99.095681999999996,
+      19.379954000000001
+    ]
+  },
+  {
+    "FID": 42,
+    "ubicacion": "Eje 6 Sur Av. Luis M?ndez y Carlos L Gracidas",
+    "sentido": "Poniente a Oriente",
+    "coordinates": [
+      -99.049155999999996,
+      19.362278
+    ]
+  },
+  {
+    "FID": 43,
+    "ubicacion": "Jos? Mar?a Pino Su?rez y Venustiano Carranza",
+    "sentido": "Norte a Sur",
+    "coordinates": [
+      -99.132296999999994,
+      19.430986999999998
+    ]
+  },
+  {
+    "FID": 44,
+    "ubicacion": "Eje 2 Nte. Manuel Gonz?lez y Calle General Ignacio Zaragoza",
+    "sentido": "Oriente a Poniente",
+    "coordinates": [
+      -99.146357199999997,
+      19.456545299999998
+    ]
+  },
+  {
+    "FID": 45,
+    "ubicacion": "Eje Central L?zaro C?rdenas y Toribio Medina",
+    "sentido": "Sur a Norte",
+    "coordinates": [
+      -99.144644,
+      19.407119999999999
+    ]
+  },
+  {
+    "FID": 46,
+    "ubicacion": "Eje Central L?zaro C?rdenas y Avenida Hidalgo",
+    "sentido": "Sur a Norte",
+    "coordinates": [
+      -99.140691700000005,
+      19.435917799999999
+    ]
+  },
+  {
+    "FID": 47,
+    "ubicacion": "Eje 5 Av. Montevideo y Pulacayo",
+    "sentido": "Oriente a Poniente",
+    "coordinates": [
+      -99.129902999999999,
+      19.489519000000001
+    ]
+  },
+  {
+    "FID": 48,
+    "ubicacion": "Circuito Bicentenario Instituto T?cnico Industrial y Calle Eligio Ancona",
+    "sentido": "Sur a Norte",
+    "coordinates": [
+      -99.163945999999996,
+      19.453340000000001
+    ]
+  },
+  {
+    "FID": 49,
+    "ubicacion": "Circuito Bicentenario Boulebard Puerto Aereo y Norte 25",
+    "sentido": "Sur  a Norte",
+    "coordinates": [
+      -99.086139900000006,
+      19.437567900000001
+    ]
+  },
+  {
+    "FID": 50,
+    "ubicacion": "Av. Insurgentes Nte. y Av. Ricarte",
+    "sentido": "Norte a Sur",
+    "coordinates": [
+      -99.126609000000002,
+      19.484079000000001
+    ]
+  },
+  {
+    "FID": 51,
+    "ubicacion": "Entre Av. del Trabajo y Congreso de la Unin",
+    "sentido": "Poniente a Oriente",
+    "coordinates": [
+      -99.120791835800006,
+      19.440441187099999
+    ]
+  },
+  {
+    "FID": 52,
+    "ubicacion": "Entre Eje Central Lzaro Crdenas y Av. Doctor Jos Mara Vrtiz",
+    "sentido": "Oriente a Poniente",
+    "coordinates": [
+      -99.147588291700004,
+      19.404039340000001
+    ]
+  },
+  {
+    "FID": 53,
+    "ubicacion": "Eje 8 Sur Ermita Iztapalapa y Roc?o",
+    "sentido": "Oriente a Poniente",
+    "coordinates": [
+      -99.056465299999999,
+      19.342799899999999
+    ]
+  },
+  {
+    "FID": 54,
+    "ubicacion": "Perif?rico 2P S-N Calz. Catarina y Av. Le?n Felipe",
+    "sentido": "Sur a Norte",
+    "coordinates": [
+      -99.200777000000002,
+      19.350306
+    ]
+  },
+  {
+    "FID": 55,
+    "ubicacion": "Eje Central L?zaro C?rdenas y Fortuna",
+    "sentido": "Sur a Norte",
+    "coordinates": [
+      -99.143201000000005,
+      19.486666
+    ]
+  },
+  {
+    "FID": 56,
+    "ubicacion": "Eje 1 Nte. Mosqueta y Soto",
+    "sentido": "Poniente a Oriente",
+    "coordinates": [
+      -99.144069299999998,
+      19.444780099999999
+    ]
+  },
+  {
+    "FID": 57,
+    "ubicacion": "Av. Ej?rcito Nacional Mexicano y Anillo Perif?rico Boulevard Manuel ?vila Camacho",
+    "sentido": "Oriente a Poniente",
+    "coordinates": [
+      -99.213515000000001,
+      19.438950999999999
+    ]
+  },
+  {
+    "FID": 58,
+    "ubicacion": "Eje 3 Oriente Ing. Eduardo Molina y Eje 5 Norte San Juan de Arag?n",
+    "sentido": "Sur a Norte",
+    "coordinates": [
+      -99.097819000000001,
+      19.478628
+    ]
+  },
+  {
+    "FID": 59,
+    "ubicacion": "Eje 2 Oriente",
+    "sentido": "Sur a Norte",
+    "coordinates": [
+      -99.122407999999993,
+      19.368829000000002
+    ]
+  },
+  {
+    "FID": 60,
+    "ubicacion": "Eje 5 Sur y Anillo Periferico Oriente",
+    "sentido": "Oriente a Poniente",
+    "coordinates": [
+      -99.180691999999993,
+      19.346606999999999
+    ]
+  },
+  {
+    "FID": 61,
+    "ubicacion": "Entre Av. Cuauhtmoc y Av. Dr. Jos Mara Vrtiz",
+    "sentido": "Ambos Sentidos",
+    "coordinates": [
+      -99.150103697299997,
+      19.426155593000001
+    ]
+  },
+  {
+    "FID": 62,
+    "ubicacion": "AUN /  Calle 16 y Av. San Antonio",
+    "sentido": "Sur a Norte",
+    "coordinates": [
+      -99.193137100000001,
+      19.3847466
+    ]
+  },
+  {
+    "FID": 63,
+    "ubicacion": "Entre Av. Insurgentes y Circuito Bicentenario",
+    "sentido": "Oriente a Poniente",
+    "coordinates": [
+      -99.176444234200005,
+      19.406231043199998
+    ]
+  },
+  {
+    "FID": 64,
+    "ubicacion": "Entre Eje 2 Oriente y Eje 1 Oriente",
+    "sentido": "Oriente a Poniente",
+    "coordinates": [
+      -99.124646629300003,
+      19.408973634900001
+    ]
+  },
+  {
+    "FID": 65,
+    "ubicacion": "Eje 3 Sur (Dr. Morones Prieto) y Dr. Jos? Ma. V?rtiz",
+    "sentido": "Oriente a Poniente",
+    "coordinates": [
+      -99.149428,
+      19.406860999999999
+    ]
+  },
+  {
+    "FID": 66,
+    "ubicacion": "Eje 1 Norte - Insurgentes - Buenavista",
+    "sentido": "Poniente a Oriente",
+    "coordinates": [
+      -99.153183999999996,
+      19.445941000000001
+    ]
+  },
+  {
+    "FID": 67,
+    "ubicacion": "Calz Gral. Ignacio Zaragoza y Viaducto",
+    "sentido": "Poniente a Oriente",
+    "coordinates": [
+      -99.077477000000002,
+      19.408771999999999
+    ]
+  },
+  {
+    "FID": 68,
+    "ubicacion": "AUN /   Fernando Alencastre y Av. de los Constituyentes",
+    "sentido": "Sur a Norte",
+    "coordinates": [
+      -99.195513000000005,
+      19.419281000000002
+    ]
+  },
+  {
+    "FID": 69,
+    "ubicacion": "Entre Calle Niza y Glorieta de Coln",
+    "sentido": "Poniente a Oriente",
+    "coordinates": [
+      -99.159185769700002,
+      19.431042076400001
+    ]
+  },
+  {
+    "FID": 70,
+    "ubicacion": "Circuito Bicentenario Av. R?o Consulado y Cant?n",
+    "sentido": "Poniente a Oriente",
+    "coordinates": [
+      -99.096281899999994,
+      19.451116599999999
+    ]
+  },
+  {
+    "FID": 71,
+    "ubicacion": "Av. Canal del Nte. y Tenochtitl?n",
+    "sentido": "Oriente a Poniente",
+    "coordinates": [
+      -99.127326600000004,
+      19.452623299999999
+    ]
+  },
+  {
+    "FID": 72,
+    "ubicacion": "Eje 2 Norte Manuel Gonz?lez y Eje Central L?zaro C?rdenas",
+    "sentido": "Oriente a Poniente",
+    "coordinates": [
+      -99.138265000000004,
+      19.454718
+    ]
+  },
+  {
+    "FID": 73,
+    "ubicacion": "Av. Revolucin",
+    "sentido": "Norte a Sur",
+    "coordinates": [
+      -99.192117999999994,
+      19.338837000000002
+    ]
+  },
+  {
+    "FID": 74,
+    "ubicacion": "Perif?rico 2P S-N Aurelio Rivera/Pino",
+    "sentido": "Sur a Norte",
+    "coordinates": [
+      -99.202734199999995,
+      19.343164300000002
+    ]
+  },
+  {
+    "FID": 75,
+    "ubicacion": "Calz. Vallejo y Cuauht?moc",
+    "sentido": "Norte a Sur",
+    "coordinates": [
+      -99.144728400000005,
+      19.469811199999999
+    ]
+  },
+  {
+    "FID": 76,
+    "ubicacion": "Entre Circuito Bicentenario y Av. Insurgentes",
+    "sentido": "Poniente a Oriente",
+    "coordinates": [
+      -99.160808492399994,
+      19.441762799999999
+    ]
+  },
+  {
+    "FID": 77,
+    "ubicacion": "Entre Florencio Constantino y Av. Insurgentes",
+    "sentido": "Oriente a Poniente",
+    "coordinates": [
+      -99.141242378599998,
+      19.455407169200001
+    ]
+  },
+  {
+    "FID": 78,
+    "ubicacion": "Entre Av. La Paz y Eje 10 Sur",
+    "sentido": "Sur a Norte",
+    "coordinates": [
+      -99.190802225200002,
+      19.342443706299999
+    ]
+  },
+  {
+    "FID": 79,
+    "ubicacion": "Entre  Viaducto y Eje 5 Sur",
+    "sentido": "Norte a Sur",
+    "coordinates": [
+      -99.138240113999998,
+      19.392768869600001
+    ]
+  },
+  {
+    "FID": 80,
+    "ubicacion": "Calz. Gral. Ignacio Zaragoza y Circuito Bicentenario Boulevard Puerto  A?reo",
+    "sentido": "Oriente a Poniente",
+    "coordinates": [
+      -99.095866999999998,
+      19.419933
+    ]
+  },
+  {
+    "FID": 81,
+    "ubicacion": "Eje 7 Sur",
+    "sentido": "Oriente a Poniente",
+    "coordinates": [
+      -99.156548999999998,
+      19.370331
+    ]
+  },
+  {
+    "FID": 82,
+    "ubicacion": "Av. Revoluci?n y Calle 13",
+    "sentido": "Norte a Sur",
+    "coordinates": [
+      -99.185920499999995,
+      19.390650399999998
+    ]
+  },
+  {
+    "FID": 83,
+    "ubicacion": "AUN / Deportivo Israelita /Ing. Zapadores y Av. del Conscripto",
+    "sentido": "Sur a Norte",
+    "coordinates": [
+      -99.220759000000001,
+      19.447925000000001
+    ]
+  },
+  {
+    "FID": 84,
+    "ubicacion": "Eje 6 Sur Playa Pie de la Cuesta y Eje 1 Ote. Andr?s Molina Enr?quez",
+    "sentido": "Poniente a Oriente",
+    "coordinates": [
+      -99.129932999999994,
+      19.377115
+    ]
+  },
+  {
+    "FID": 85,
+    "ubicacion": "Eje 4 Pte. Av. Revoluci?n y Av. Barranca del Muerto",
+    "sentido": "Norte a Sur",
+    "coordinates": [
+      -99.189105999999995,
+      19.363278999999999
+    ]
+  },
+  {
+    "FID": 86,
+    "ubicacion": "Av. Constituyentes y Gob. Gregorio Villa Gelati",
+    "sentido": "Oriente a Poniente",
+    "coordinates": [
+      -99.189797999999996,
+      19.413017
+    ]
+  },
+  {
+    "FID": 87,
+    "ubicacion": "Calz. De Tlalpan y Calle Atletas",
+    "sentido": "Sur a Norte",
+    "coordinates": [
+      -99.144528100000002,
+      19.354469900000002
+    ]
+  },
+  {
+    "FID": 88,
+    "ubicacion": "AUN / Av. Ej?rcito Nacional y Miguel de Cervantes Saavedra",
+    "sentido": "Norte a Sur",
+    "coordinates": [
+      -99.1921155,
+      19.410002599999999
+    ]
+  },
+  {
+    "FID": 89,
+    "ubicacion": "AUN / Gobernador Jos? Ceballos y Av. Constituyentes",
+    "sentido": "Norte a Sur",
+    "coordinates": [
+      -99.1921155,
+      19.410002599999999
+    ]
+  },
+  {
+    "FID": 90,
+    "ubicacion": "Entre Av. de las Palmas y Eje 6 Sur",
+    "sentido": "Poniente a Oriente",
+    "coordinates": [
+      -99.018099993000007,
+      19.349050287400001
+    ]
+  },
+  {
+    "FID": 91,
+    "ubicacion": "Entre Av. Melchor Ocampo y Calle Cerro del Sombrero",
+    "sentido": "Ambos Sentidos",
+    "coordinates": [
+      -99.1559602528,
+      19.3435752846
+    ]
+  },
+  {
+    "FID": 92,
+    "ubicacion": "Circuito Bicentenario Calz. Melchor Ocampo y Nezahualpilli",
+    "sentido": "Norte a Sur",
+    "coordinates": [
+      -99.167537899999999,
+      19.440460099999999
+    ]
+  },
+  {
+    "FID": 93,
+    "ubicacion": "Eje 3 Sur Jos? Pe?n y Contreras y Jos? Mar?a Bustillos",
+    "sentido": "Oriente  a Poniente",
+    "coordinates": [
+      -99.141146300000003,
+      19.407352400000001
+    ]
+  },
+  {
+    "FID": 94,
+    "ubicacion": "Anillo Perif?rico y Embarcadero del Parque Ecol?gico de Xochimilco",
+    "sentido": "Poniente a Oriente",
+    "coordinates": [
+      -99.095585,
+      19.297006700000001
+    ]
+  },
+  {
+    "FID": 95,
+    "ubicacion": "Calz. Ignacio Zaragoza y Primavera",
+    "sentido": "Poniente a Oriente",
+    "coordinates": [
+      -99.055085700000006,
+      19.3960176
+    ]
+  },
+  {
+    "FID": 96,
+    "ubicacion": "Av. Instituto Polit?cnico Nacional y Eje 5 Nte Montevideo",
+    "sentido": "Norte a Sur",
+    "coordinates": [
+      -99.133573999999996,
+      19.491188000000001
+    ]
+  },
+  {
+    "FID": 97,
+    "ubicacion": "Calz Gral. Mariano Escobedo y Av. Marina Nacional",
+    "sentido": "Norte a Sur",
+    "coordinates": [
+      -99.182417999999998,
+      19.448148
+    ]
+  },
+  {
+    "FID": 98,
+    "ubicacion": "Jos? Mar?a Izazaga y Jos? Mar?a Pino Su?rez",
+    "sentido": "Oriente a Poniente",
+    "coordinates": [
+      -99.132917000000006,
+      19.425917999999999
+    ]
+  },
+  {
+    "FID": 99,
+    "ubicacion": "Eje 1 Norte - Insurgentes - Buenavista",
+    "sentido": "Poniente a Oriente",
+    "coordinates": [
+      -99.153442999999996,
+      19.446384999999999
+    ]
+  },
+  {
+    "FID": 100,
+    "ubicacion": "Eje 2 Norte Canal del Norte y Av. Circunvalaci?n y Eje 1 Oriente Av. del Trabajo",
+    "sentido": "Oriente a Poniente",
+    "coordinates": [
+      -99.124707000000001,
+      19.452092
+    ]
+  },
+  {
+    "FID": 101,
+    "ubicacion": "Eje 1 Ote. Andr?s Molina Enr?quez y Eje 5 Sur Playa Villa del Mar",
+    "sentido": "Norte a Sur",
+    "coordinates": [
+      -99.129492999999997,
+      19.381404
+    ]
+  },
+  {
+    "FID": 102,
+    "ubicacion": "Eje 9 Sur Taxque?a y Eje 1 Oriente Canal de Miramontes",
+    "sentido": "Oriente a Poniente",
+    "coordinates": [
+      -99.137371000000002,
+      19.341127
+    ]
+  },
+  {
+    "FID": 103,
+    "ubicacion": "Eje 1 Poniente",
+    "sentido": "Norte a Sur",
+    "coordinates": [
+      -99.149726000000001,
+      19.435964999999999
+    ]
+  },
+  {
+    "FID": 104,
+    "ubicacion": "Entre Av. Paseo de la Reforma y Circuito Bicentenario",
+    "sentido": "Sur a Norte",
+    "coordinates": [
+      -99.138188510899994,
+      19.454808308800001
+    ]
+  },
+  {
+    "FID": 105,
+    "ubicacion": "Perif?rico 2P S-N / Miguel Cabrera y La Casta?eda",
+    "sentido": "Norte a Sur",
+    "coordinates": [
+      -99.191443000000007,
+      19.371010999999999
+    ]
+  },
+  {
+    "FID": 106,
+    "ubicacion": "Entre  Calle Fernando Ramrez y Viaducto",
+    "sentido": "Norte a Sur",
+    "coordinates": [
+      -99.135822987599994,
+      19.408166418699999
+    ]
+  },
+  {
+    "FID": 107,
+    "ubicacion": "Calzada de Misterios y Eje 3 Norte Av. Alfredo Robles Dom?nguez",
+    "sentido": "Norte a Sur",
+    "coordinates": [
+      -99.124941000000007,
+      19.468471000000001
+    ]
+  },
+  {
+    "FID": 108,
+    "ubicacion": "Av. Constituyentes y Camino de los Toros",
+    "sentido": "Poniente a Oriente",
+    "coordinates": [
+      -99.202253400000004,
+      19.4062947
+    ]
+  },
+  {
+    "FID": 109,
+    "ubicacion": "Av. Tlhuac",
+    "sentido": "Sur a Norte",
+    "coordinates": [
+      -99.106869000000003,
+      19.349157000000002
+    ]
+  },
+  {
+    "FID": 110,
+    "ubicacion": "Av. Instituto Polit?cnico Nacional y Av. Ricarte",
+    "sentido": "Sur a Norte",
+    "coordinates": [
+      -99.133981000000006,
+      19.488275999999999
+    ]
+  },
+  {
+    "FID": 111,
+    "ubicacion": "Eje 8 Sur Ermita Iztapalapa y Eje 5 Ote Av. Rojo G?mez",
+    "sentido": "Oriente a Poniente",
+    "coordinates": [
+      -99.133977999999999,
+      19.482184
+    ]
+  },
+  {
+    "FID": 112,
+    "ubicacion": "Eje 8 Sur",
+    "sentido": "Poniente a Oriente",
+    "coordinates": [
+      -99.167849000000004,
+      19.366426000000001
+    ]
+  },
+  {
+    "FID": 113,
+    "ubicacion": "Av. Ej?rcito Nacional y Calle Luis Vives",
+    "sentido": "Poniente a Oriente",
+    "coordinates": [
+      -99.2097713,
+      19.438703499999999
+    ]
+  },
+  {
+    "FID": 114,
+    "ubicacion": "Eje 5 Av. Montevideo y Nte. 31-A",
+    "sentido": "Oriente a Poniente",
+    "coordinates": [
+      -99.150264699999994,
+      19.494350699999998
+    ]
+  },
+  {
+    "FID": 115,
+    "ubicacion": "Av. Chapultepec y Guaymas",
+    "sentido": "Poniente a Oriente",
+    "coordinates": [
+      -99.155627899999999,
+      19.425331700000001
+    ]
+  },
+  {
+    "FID": 116,
+    "ubicacion": "Av.608 y Av. 508",
+    "sentido": "Oriente a Poniente",
+    "coordinates": [
+      -99.075504300000006,
+      19.453727300000001
+    ]
+  },
+  {
+    "FID": 117,
+    "ubicacion": "Entre Calle 9 y Av. 12",
+    "sentido": "Sur a Norte",
+    "coordinates": [
+      -99.097910453099999,
+      19.413658395599999
+    ]
+  },
+  {
+    "FID": 118,
+    "ubicacion": "Entre Benjamin Franklin y Viaducto",
+    "sentido": "Norte a Sur",
+    "coordinates": [
+      -99.184591871799995,
+      19.403816462799998
+    ]
+  },
+  {
+    "FID": 119,
+    "ubicacion": "Entre Gran Canal y Eje 1 Oriente",
+    "sentido": "Oriente a Poniente",
+    "coordinates": [
+      -99.108278752800004,
+      19.462464350899999
+    ]
+  },
+  {
+    "FID": 120,
+    "ubicacion": "Paseo de la Reforma y Eje Central L?zaro C?rdenas y Eje 1 Norte Mosqueta",
+    "sentido": "Norte a Sur",
+    "coordinates": [
+      -99.139100999999997,
+      19.443908
+    ]
+  },
+  {
+    "FID": 121,
+    "ubicacion": "Eje 8 Sur Ermita Iztapalapa y Eje 6 Sur Narciso Mendoza",
+    "sentido": "Sur a Norte",
+    "coordinates": [
+      -99.059128000000001,
+      19.376515000000001
+    ]
+  },
+  {
+    "FID": 122,
+    "ubicacion": "Perif?rico Oriente Canal de Garay - Av. Tl?huac y San Lorenzo",
+    "sentido": "Norte a Sur",
+    "coordinates": [
+      -99.075576999999996,
+      19.318721
+    ]
+  },
+  {
+    "FID": 123,
+    "ubicacion": "Eje 9 Sur Miguel ?ngel de Quevedo y Av. Universidad",
+    "sentido": "Sur a Norte",
+    "coordinates": [
+      -99.180691999999993,
+      19.346606999999999
+    ]
+  },
+  {
+    "FID": 124,
+    "ubicacion": "Insurgentes Buenavista y Eje 1 Norte",
+    "sentido": "Sur a Norte",
+    "coordinates": [
+      -99.153442999999996,
+      19.446384999999999
+    ]
+  },
+  {
+    "FID": 125,
+    "ubicacion": "Av. Calzada Ignacio Zaragoza y Azc?rraga Vidaurreta",
+    "sentido": "Poniente a Oriente",
+    "coordinates": [
+      -99.042392399999997,
+      19.388936600000001
+    ]
+  },
+  {
+    "FID": 126,
+    "ubicacion": "Calz. Gral. Mariano Escobedo",
+    "sentido": "Sur a Norte",
+    "coordinates": [
+      -99.183072999999993,
+      19.443363999999999
+    ]
+  },
+  {
+    "FID": 127,
+    "ubicacion": "Eje 1 Nte. Jos? Antonio ?lzate y Naranjo",
+    "sentido": "Poniente a Oriente",
+    "coordinates": [
+      -99.159553000000002,
+      19.447244000000001
+    ]
+  },
+  {
+    "FID": 128,
+    "ubicacion": "Circuito Bicentenario Av. R?o Consulado y Av. Encarnaci?n Ort?z",
+    "sentido": "Oriente a Poniente",
+    "coordinates": [
+      -99.148482000000001,
+      19.463576
+    ]
+  },
+  {
+    "FID": 129,
+    "ubicacion": "Eje 1 Norte Mosqueta - Paseo de la Reforma y Eje Central L?zaro C?rdenas",
+    "sentido": "Poniente a Oriente",
+    "coordinates": [
+      -99.140002999999993,
+      19.444137000000001
+    ]
+  },
+  {
+    "FID": 130,
+    "ubicacion": "Eje 1 Oriente Canal de Miramontes y Eje 9 Sur Taxque?a y Cerro de Teponaxtle",
+    "sentido": "Sur a Norte",
+    "coordinates": [
+      -99.137388999999999,
+      19.340973000000002
+    ]
+  },
+  {
+    "FID": 131,
+    "ubicacion": "Av. Paseo de la Reforma e Ignacio Allende",
+    "sentido": "Sur a Norte",
+    "coordinates": [
+      -99.137033000000002,
+      19.445921999999999
+    ]
+  },
+  {
+    "FID": 132,
+    "ubicacion": "Eje Central y Margarita Maza de Juarez",
+    "sentido": "Sur a Norte",
+    "coordinates": [
+      -99.151725999999996,
+      19.508407299999998
+    ]
+  },
+  {
+    "FID": 133,
+    "ubicacion": "Calz. Vallejo y Calle Pino Su?rez",
+    "sentido": "Norte a Sur",
+    "coordinates": [
+      -99.160747999999998,
+      19.511921000000001
+    ]
+  },
+  {
+    "FID": 134,
+    "ubicacion": "Circuito Bicentenario Av. R?o Consulado y Av. Congreso de la Uni?n",
+    "sentido": "Poniente a Oriente",
+    "coordinates": [
+      -99.114410100000001,
+      19.456116900000001
+    ]
+  },
+  {
+    "FID": 135,
+    "ubicacion": "Perif?rico 2P S-N/Cda las Flores y Calz de las ?guilas",
+    "sentido": "Sur a Norte",
+    "coordinates": [
+      -99.193215499999994,
+      19.359391200000001
+    ]
+  },
+  {
+    "FID": 136,
+    "ubicacion": "Entre Eje 5 Norte y Eje 4 Norte",
+    "sentido": "Norte a Sur",
+    "coordinates": [
+      -99.152993437999996,
+      19.492020734
+    ]
+  },
+  {
+    "FID": 137,
+    "ubicacion": "Entre Calle 39 y Calle 17",
+    "sentido": "Oriente a Poniente",
+    "coordinates": [
+      -99.038338723600006,
+      19.343517503800001
+    ]
+  },
+  {
+    "FID": 138,
+    "ubicacion": "Entre Eje Central y Calle Chosica",
+    "sentido": "Oriente a Poniente",
+    "coordinates": [
+      -99.144879235600001,
+      19.493198742699999
+    ]
+  },
+  {
+    "FID": 139,
+    "ubicacion": "Entre Calz. de los Misterios y Vallejo",
+    "sentido": "Oriente a Poniente",
+    "coordinates": [
+      -99.134836142300003,
+      19.470686948499999
+    ]
+  }
+]
