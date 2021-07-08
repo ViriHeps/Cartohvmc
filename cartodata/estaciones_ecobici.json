@@ -1,0 +1,4802 @@
+[
+    {
+        "FID": 0,
+        "id": 86,
+        "name": "86 SULLIVAN-INSURGENTES",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.159076999999996,
+            19.432378
+        ]
+    },
+    {
+        "FID": 1,
+        "id": 250,
+        "name": "250 DARWIN-MARIANO ESCOBEDO",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.179659999999998,
+            19.429057
+        ]
+    },
+    {
+        "FID": 2,
+        "id": 273,
+        "name": "273 LUIS DONALDO COLOSIO-AV. CENTRAL",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.152956000000003,
+            19.442706999999999
+        ]
+    },
+    {
+        "FID": 3,
+        "id": 278,
+        "name": "278 MIER Y PESADO-OBRERO MUNDIAL",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.163831000000002,
+            19.40071
+        ]
+    },
+    {
+        "FID": 4,
+        "id": 305,
+        "name": "305 AVENIDA DEL PARQUE-ARIZONA",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.175531000000007,
+            19.394693
+        ]
+    },
+    {
+        "FID": 5,
+        "id": 308,
+        "name": "308 NUEVA YORK-ARIZONA",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.178072,
+            19.393594
+        ]
+    },
+    {
+        "FID": 6,
+        "id": 247,
+        "name": "E247 HERSCHEL-ROUSSEAU",
+        "districtna": "Anzures",
+        "coordinates": [
+            -99.180639999999997,
+            19.432276000000002
+        ]
+    },
+    {
+        "FID": 7,
+        "id": 473,
+        "name": "473 BAHÍA DEL ESPÍRITU SANTO-BAHÍA DE BANDERAS",
+        "districtna": "Anzures",
+        "coordinates": [
+            -99.175190000000001,
+            19.438143
+        ]
+    },
+    {
+        "FID": 8,
+        "id": 423,
+        "name": "423 MORAS-JOSÉ MARÍA RICO (EJE 8)",
+        "districtna": "Acacias",
+        "coordinates": [
+            -99.175342000000001,
+            19.367630999999999
+        ]
+    },
+    {
+        "FID": 9,
+        "id": 480,
+        "name": "480 LAGO ISEO-AV. MARINA NACIONAL",
+        "districtna": "Anáhuac Mariano Escobedo",
+        "coordinates": [
+            -99.181653999999995,
+            19.446072999999998
+        ]
+    },
+    {
+        "FID": 10,
+        "id": 272,
+        "name": "272 AV. CENTRAL-J. MENESES",
+        "districtna": "Buenavista",
+        "coordinates": [
+            -99.152556000000004,
+            19.443556000000001
+        ]
+    },
+    {
+        "FID": 11,
+        "id": 6,
+        "name": "6 RIO PANUCO-RIO SENA",
+        "districtna": "Cuauhtémoc",
+        "coordinates": [
+            -99.166959000000006,
+            19.430921999999999
+        ]
+    },
+    {
+        "FID": 12,
+        "id": 374,
+        "name": "374 PITÁGORAS-PILARES",
+        "districtna": "Del Valle Centro",
+        "coordinates": [
+            -99.161116000000007,
+            19.376964000000001
+        ]
+    },
+    {
+        "FID": 13,
+        "id": 279,
+        "name": "279 LA MORENA-PROVIDENCIA",
+        "districtna": "Del Valle Norte",
+        "coordinates": [
+            -99.166552999999993,
+            19.399908
+        ]
+    },
+    {
+        "FID": 14,
+        "id": 317,
+        "name": "317 AVENIDA COYOACÁN-TORRES ADALID",
+        "districtna": "Del Valle Norte",
+        "coordinates": [
+            -99.166156999999998,
+            19.391456000000002
+        ]
+    },
+    {
+        "FID": 15,
+        "id": 366,
+        "name": "366 PORFIRIO DÍAZ-AUGUSTO RODÍN",
+        "districtna": "Extremadura Insurgentes",
+        "coordinates": [
+            -99.181972999999999,
+            19.378344999999999
+        ]
+    },
+    {
+        "FID": 16,
+        "id": 445,
+        "name": "E445 RIFF-AVENIDA RIO CHURUBUSCO",
+        "districtna": "General Pedro Maria Anaya",
+        "coordinates": [
+            -99.156104999999997,
+            19.358270000000001
+        ]
+    },
+    {
+        "FID": 17,
+        "id": 71,
+        "name": "71 AMSTERDAM-MICHOACAN",
+        "districtna": "Hipódromo",
+        "coordinates": [
+            -99.171351000000001,
+            19.411422999999999
+        ]
+    },
+    {
+        "FID": 18,
+        "id": 417,
+        "name": "417 GOYA-AUGUSTO RODÍN",
+        "districtna": "Insurgentes Mixcoac",
+        "coordinates": [
+            -99.184332999999995,
+            19.373262
+        ]
+    },
+    {
+        "FID": 19,
+        "id": 462,
+        "name": "462 PRESA FALCÓN-DANXHÓ",
+        "districtna": "Irrigación",
+        "coordinates": [
+            -99.205197999999996,
+            19.442337999999999
+        ]
+    },
+    {
+        "FID": 20,
+        "id": 304,
+        "name": "304 MONTESITO-DAKOTA",
+        "districtna": "Nápoles",
+        "coordinates": [
+            -99.173821000000004,
+            19.395043000000001
+        ]
+    },
+    {
+        "FID": 21,
+        "id": 314,
+        "name": "314 NUERVA YORK-LOUISIANA",
+        "districtna": "Nápoles",
+        "coordinates": [
+            -99.177330999999995,
+            19.391646999999999
+        ]
+    },
+    {
+        "FID": 22,
+        "id": 460,
+        "name": "460 JUAN VÁZQUEZ DE MELLA-HOMERO",
+        "districtna": "Polanco",
+        "coordinates": [
+            -99.207932,
+            19.437014000000001
+        ]
+    },
+    {
+        "FID": 23,
+        "id": 233,
+        "name": "233 JULIO VERNE-LUIS G. URBINA",
+        "districtna": "Polanco",
+        "coordinates": [
+            -99.196965000000006,
+            19.429314000000002
+        ]
+    },
+    {
+        "FID": 24,
+        "id": 38,
+        "name": "38 COZUMEL-PUEBLA",
+        "districtna": "Roma Norte",
+        "coordinates": [
+            -99.171407000000002,
+            19.420801000000001
+        ]
+    },
+    {
+        "FID": 25,
+        "id": 129,
+        "name": "129 TONALÁ-DURANGO",
+        "districtna": "Roma Norte",
+        "coordinates": [
+            -99.163312000000005,
+            19.4206
+        ]
+    },
+    {
+        "FID": 26,
+        "id": 132,
+        "name": "132 COLIMA-FRONTERA",
+        "districtna": "Roma Norte",
+        "coordinates": [
+            -99.156450000000007,
+            19.420667000000002
+        ]
+    },
+    {
+        "FID": 27,
+        "id": 137,
+        "name": "137 ÁLVARO OBREGÓN-MÉRIDA",
+        "districtna": "Roma Norte",
+        "coordinates": [
+            -99.157081000000005,
+            19.418773999999999
+        ]
+    },
+    {
+        "FID": 28,
+        "id": 157,
+        "name": "157 TEPIC-TLACOTALPAN",
+        "districtna": "Roma Sur",
+        "coordinates": [
+            -99.166616000000005,
+            19.406236
+        ]
+    },
+    {
+        "FID": 29,
+        "id": 412,
+        "name": "412 PARROQUIA-AVENIDA UNIVERSIDAD",
+        "districtna": "Santa Cruz Atoyac",
+        "coordinates": [
+            -99.165414499999997,
+            19.368418200000001
+        ]
+    },
+    {
+        "FID": 30,
+        "id": 401,
+        "name": "401 SAN LORENZO-AVENIDA CUAUHTEMOC",
+        "districtna": "Santa Cruz Atoyac",
+        "coordinates": [
+            -99.161580000000001,
+            19.372146999999998
+        ]
+    },
+    {
+        "FID": 31,
+        "id": 330,
+        "name": "330 CALLE 15-AVENIDA PATRIOTISMO",
+        "districtna": "San Pedro de los Pinos",
+        "coordinates": [
+            -99.182606000000007,
+            19.389358000000001
+        ]
+    },
+    {
+        "FID": 32,
+        "id": 263,
+        "name": "263 SADI CARNOT-GÓMEZ FARIAS",
+        "districtna": "San Rafael",
+        "coordinates": [
+            -99.158424999999994,
+            19.436274000000001
+        ]
+    },
+    {
+        "FID": 33,
+        "id": 183,
+        "name": "183 GABINO BARRERA-GUILLERMO PRIETO",
+        "districtna": "San Rafael",
+        "coordinates": [
+            -99.164019999999994,
+            19.437670000000001
+        ]
+    },
+    {
+        "FID": 34,
+        "id": 242,
+        "name": "242 MIGUEL DE CERVANTES SAAVEDRA-PROL MOLIERE",
+        "districtna": "Granada",
+        "coordinates": [
+            -99.201049999999995,
+            19.440344
+        ]
+    },
+    {
+        "FID": 35,
+        "id": 244,
+        "name": "244 MIGUEL DE CERVANTES SAAVEDRA-LAGO VICTORIA",
+        "districtna": "Granada",
+        "coordinates": [
+            -99.193314999999998,
+            19.440885000000002
+        ]
+    },
+    {
+        "FID": 36,
+        "id": 389,
+        "name": "389 SANTANDER-FELIX CUEVAS",
+        "districtna": "Insurgentes Mixcoac",
+        "coordinates": [
+            -99.179355999999999,
+            19.373528
+        ]
+    },
+    {
+        "FID": 37,
+        "id": 19,
+        "name": "19 REFORMA-RIO RHIN",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.163376999999997,
+            19.429241000000001
+        ]
+    },
+    {
+        "FID": 38,
+        "id": 255,
+        "name": "255 JOSE ROSAS MORENO-GUILLERMO PRIETO",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.161807999999994,
+            19.437159000000001
+        ]
+    },
+    {
+        "FID": 39,
+        "id": 311,
+        "name": "311 CALLE 5-AVENIDA REVOLUCIÓN",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.185390999999996,
+            19.393664999999999
+        ]
+    },
+    {
+        "FID": 40,
+        "id": 192,
+        "name": "192 RUBEN DARIO-REFORMA",
+        "districtna": "Bosque de Chapultepec",
+        "coordinates": [
+            -99.190754999999996,
+            19.425920000000001
+        ]
+    },
+    {
+        "FID": 41,
+        "id": 275,
+        "name": "275 HÉROES FERROCARRILEROS-AV. INSURGENTES NORTE",
+        "districtna": "Buenavista",
+        "coordinates": [
+            -99.153164000000004,
+            19.441061999999999
+        ]
+    },
+    {
+        "FID": 42,
+        "id": 96,
+        "name": "96 LOPEZ-AYUNTAMIENTO",
+        "districtna": "Centro",
+        "coordinates": [
+            -99.142480000000006,
+            19.430624999999999
+        ]
+    },
+    {
+        "FID": 43,
+        "id": 414,
+        "name": "414 PARROQUIA-JOSÉ IGNACIO BARTOLACHE",
+        "districtna": "Del Valle Sur",
+        "coordinates": [
+            -99.173711999999995,
+            19.370187000000001
+        ]
+    },
+    {
+        "FID": 44,
+        "id": 373,
+        "name": "373 PILARES-GABRIEL MANCERA",
+        "districtna": "Del Valle Centro",
+        "coordinates": [
+            -99.166663,
+            19.377967999999999
+        ]
+    },
+    {
+        "FID": 45,
+        "id": 302,
+        "name": "302 LUZ SAVIÑON-MAGDALENA",
+        "districtna": "Del Valle Norte",
+        "coordinates": [
+            -99.171465999999995,
+            19.393832
+        ]
+    },
+    {
+        "FID": 46,
+        "id": 391,
+        "name": "E391 OSO-FELIX CUEVAS",
+        "districtna": "Del Valle Sur",
+        "coordinates": [
+            -99.178282999999993,
+            19.373142000000001
+        ]
+    },
+    {
+        "FID": 47,
+        "id": 280,
+        "name": "280 ANAXÁGORAS-OBRERO MUNDIAL",
+        "districtna": "Narvarte Poniente",
+        "coordinates": [
+            -99.156406000000004,
+            19.401499999999999
+        ]
+    },
+    {
+        "FID": 48,
+        "id": 231,
+        "name": "231 NEWTON-ARISTOTELES",
+        "districtna": "Polanco",
+        "coordinates": [
+            -99.193489999999997,
+            19.429770000000001
+        ]
+    },
+    {
+        "FID": 49,
+        "id": 333,
+        "name": "333 GEORGIA -CAROLINA",
+        "districtna": "Nápoles",
+        "coordinates": [
+            -99.180977999999996,
+            19.387623999999999
+        ]
+    },
+    {
+        "FID": 50,
+        "id": 289,
+        "name": "289 CHICAGO-YOSEMITE",
+        "districtna": "Nápoles",
+        "coordinates": [
+            -99.174548000000001,
+            19.397307999999999
+        ]
+    },
+    {
+        "FID": 51,
+        "id": 15,
+        "name": "15 REFORMA-RIO MISSISSIPPI",
+        "districtna": "Cuauhtémoc",
+        "coordinates": [
+            -99.171566999999996,
+            19.425477000000001
+        ]
+    },
+    {
+        "FID": 52,
+        "id": 459,
+        "name": "E459 VOLCÁN-MONTES URALES",
+        "districtna": "Lomas de Chapultepec Sección III",
+        "coordinates": [
+            -99.207267000000002,
+            19.429243
+        ]
+    },
+    {
+        "FID": 53,
+        "id": 456,
+        "name": "456 ALPES-MONTES ESCANDINAVOS",
+        "districtna": "Lomas de Chapultepec Sección V",
+        "coordinates": [
+            -99.208411999999996,
+            19.427517000000002
+        ]
+    },
+    {
+        "FID": 54,
+        "id": 25,
+        "name": "25 REFORMA-ESTOCOLMO",
+        "districtna": "Juárez",
+        "coordinates": [
+            -99.166662000000002,
+            19.427316999999999
+        ]
+    },
+    {
+        "FID": 55,
+        "id": 42,
+        "name": "42 SINALOA-VALLADOLID",
+        "districtna": "Roma Norte",
+        "coordinates": [
+            -99.168238000000002,
+            19.420472
+        ]
+    },
+    {
+        "FID": 56,
+        "id": 37,
+        "name": "37 GUADALAJARA-PUEBLA",
+        "districtna": "Roma Norte",
+        "coordinates": [
+            -99.172675999999996,
+            19.420418999999999
+        ]
+    },
+    {
+        "FID": 57,
+        "id": 141,
+        "name": "141 ZACATECAS-LUIS CABRERA",
+        "districtna": "Roma Norte",
+        "coordinates": [
+            -99.159540000000007,
+            19.415904999999999
+        ]
+    },
+    {
+        "FID": 58,
+        "id": 152,
+        "name": "152 TLACOTALPAN-CAMPECHE",
+        "districtna": "Roma Sur",
+        "coordinates": [
+            -99.167180999999999,
+            19.409098
+        ]
+    },
+    {
+        "FID": 59,
+        "id": 140,
+        "name": "140 MÉRIDA-ZACATECAS",
+        "districtna": "Roma Norte",
+        "coordinates": [
+            -99.156852999999998,
+            19.416605000000001
+        ]
+    },
+    {
+        "FID": 60,
+        "id": 222,
+        "name": "E222 ALEJANDRO DUMAS-PRESIDENTE MASARYK",
+        "districtna": "Polanco",
+        "coordinates": [
+            -99.195774,
+            19.431417
+        ]
+    },
+    {
+        "FID": 61,
+        "id": 202,
+        "name": "202 CALDERON DE LA BARCA-AV. HOMERO",
+        "districtna": "Polanco",
+        "coordinates": [
+            -99.198943,
+            19.436170000000001
+        ]
+    },
+    {
+        "FID": 62,
+        "id": 224,
+        "name": "224 HEGEL-PRESIDENTE MASARYK",
+        "districtna": "Polanco",
+        "coordinates": [
+            -99.188064999999995,
+            19.431255
+        ]
+    },
+    {
+        "FID": 63,
+        "id": 212,
+        "name": "212 HEGEL-HORACIO",
+        "districtna": "Polanco",
+        "coordinates": [
+            -99.188096000000002,
+            19.433567
+        ]
+    },
+    {
+        "FID": 64,
+        "id": 211,
+        "name": "211 NEWTON-HORACIO",
+        "districtna": "Polanco",
+        "coordinates": [
+            -99.188528000000005,
+            19.433606999999999
+        ]
+    },
+    {
+        "FID": 65,
+        "id": 213,
+        "name": "213 SOLÓN-CICERÓN",
+        "districtna": "Polanco",
+        "coordinates": [
+            -99.206320000000005,
+            19.43432
+        ]
+    },
+    {
+        "FID": 66,
+        "id": 479,
+        "name": "E479 LAGO MURITZ-AV. MARINA NACIONAL",
+        "districtna": "Anáhuac Mariano Escobedo",
+        "coordinates": [
+            -99.179664000000002,
+            19.444433
+        ]
+    },
+    {
+        "FID": 67,
+        "id": 49,
+        "name": "49 MAZATLAN-JUAN DE LA BARRERA",
+        "districtna": "Condesa",
+        "coordinates": [
+            -99.175703999999996,
+            19.416712
+        ]
+    },
+    {
+        "FID": 68,
+        "id": 53,
+        "name": "53 FERNANDO MONTES DE OCA-TULA",
+        "districtna": "Condesa",
+        "coordinates": [
+            -99.178432999999998,
+            19.414773
+        ]
+    },
+    {
+        "FID": 69,
+        "id": 184,
+        "name": "184 GRAL GÓMEZ PEDRAZA-GOBERNADOR TIBURCIO M",
+        "districtna": "San Miguel Chapultepec",
+        "coordinates": [
+            -99.185079999999999,
+            19.41479
+        ]
+    },
+    {
+        "FID": 70,
+        "id": 14,
+        "name": "14 REFORMA-RIO DE PLATA",
+        "districtna": "Cuauhtémoc",
+        "coordinates": [
+            -99.173260999999997,
+            19.424768
+        ]
+    },
+    {
+        "FID": 71,
+        "id": 5,
+        "name": "5 RIO PANUCO-RIO TIBER",
+        "districtna": "Cuauhtémoc",
+        "coordinates": [
+            -99.169363000000004,
+            19.42972
+        ]
+    },
+    {
+        "FID": 72,
+        "id": 92,
+        "name": "92 SAN ILDEFONSO-REPUBLICA DE ARGENTINA",
+        "districtna": "Centro",
+        "coordinates": [
+            -99.131496999999996,
+            19.436530999999999
+        ]
+    },
+    {
+        "FID": 73,
+        "id": 347,
+        "name": "347 PENNSYLVANIA-MAXIMINO AVILA CAMACHO",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.176096999999999,
+            19.384378000000002
+        ]
+    },
+    {
+        "FID": 74,
+        "id": 379,
+        "name": "379 DR. ROBERTO GAYOL-MIGUEL LAURENT",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.170839999999998,
+            19.375751000000001
+        ]
+    },
+    {
+        "FID": 75,
+        "id": 439,
+        "name": "439 AMORES-AVENIDA COYOACÁN",
+        "districtna": "Acacias",
+        "coordinates": [
+            -99.172466670000006,
+            19.362188889999999
+        ]
+    },
+    {
+        "FID": 76,
+        "id": 420,
+        "name": "420 MARÍA LUZ BRINGAS-OSO",
+        "districtna": "Actipan",
+        "coordinates": [
+            -99.179640000000006,
+            19.369723
+        ]
+    },
+    {
+        "FID": 77,
+        "id": 238,
+        "name": "238 ANDRÉS BELLO-ELLIOT",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.193752000000003,
+            19.426765
+        ]
+    },
+    {
+        "FID": 78,
+        "id": 265,
+        "name": "265 HÉROES FERROCARRILEROS-JESÚS GARCIA",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.152265,
+            19.440839
+        ]
+    },
+    {
+        "FID": 79,
+        "id": 338,
+        "name": "338 NICOLAS SAN JUAN-SAN BORJA",
+        "districtna": "Del Valle Centro",
+        "coordinates": [
+            -99.163273000000004,
+            19.384249000000001
+        ]
+    },
+    {
+        "FID": 80,
+        "id": 67,
+        "name": "67 VICENTE SUAREZ-MICHOACAN",
+        "districtna": "Condesa",
+        "coordinates": [
+            -99.175880000000006,
+            19.411797
+        ]
+    },
+    {
+        "FID": 81,
+        "id": 82,
+        "name": "82 INDEPENDENCIA-MARROQUI",
+        "districtna": "Centro",
+        "coordinates": [
+            -99.143686000000002,
+            19.433115000000001
+        ]
+    },
+    {
+        "FID": 82,
+        "id": 52,
+        "name": "52 HIDALGO-TRUJANO",
+        "districtna": "Centro",
+        "coordinates": [
+            -99.142038999999997,
+            19.436236000000001
+        ]
+    },
+    {
+        "FID": 83,
+        "id": 425,
+        "name": "425 NICOLAS SAN JUAN-AVENIDA UNIVERSIDAD",
+        "districtna": "Del Valle Sur",
+        "coordinates": [
+            -99.167410000000004,
+            19.367087000000001
+        ]
+    },
+    {
+        "FID": 84,
+        "id": 378,
+        "name": "378 MIGUEL LAURENT-AMORES",
+        "districtna": "Del Valle Sur",
+        "coordinates": [
+            -99.168075999999999,
+            19.375823
+        ]
+    },
+    {
+        "FID": 85,
+        "id": 77,
+        "name": "77 CHOAPAN-TAMAULIPAS",
+        "districtna": "Hipódromo",
+        "coordinates": [
+            -99.178320999999997,
+            19.406765
+        ]
+    },
+    {
+        "FID": 86,
+        "id": 166,
+        "name": "166 PROGRESO-CDA. ANTONIO MACEO",
+        "districtna": "Escandón",
+        "coordinates": [
+            -99.183548999999999,
+            19.406068999999999
+        ]
+    },
+    {
+        "FID": 87,
+        "id": 392,
+        "name": "392 PATRICIO SANZ-FELIX CUEVAS",
+        "districtna": "Tlacoquemecatl",
+        "coordinates": [
+            -99.174774900000003,
+            19.373006700000001
+        ]
+    },
+    {
+        "FID": 88,
+        "id": 186,
+        "name": "186 GREGORIO V GELATI-FRANCISCO MOLINOS DEL C",
+        "districtna": "San Miguel Chapultepec",
+        "coordinates": [
+            -99.188511700000006,
+            19.412429100000001
+        ]
+    },
+    {
+        "FID": 89,
+        "id": 100,
+        "name": "100 20 DE NOVIEMBRE-MESONES",
+        "districtna": "Centro",
+        "coordinates": [
+            -99.133799999999994,
+            19.428484999999998
+        ]
+    },
+    {
+        "FID": 90,
+        "id": 260,
+        "name": "E260 AV JUAREZ-BALDERAS",
+        "districtna": "Centro",
+        "coordinates": [
+            -99.147741999999994,
+            19.435354
+        ]
+    },
+    {
+        "FID": 91,
+        "id": 87,
+        "name": "87 GANTE-VENUSTIANO CARRANZA",
+        "districtna": "Centro",
+        "coordinates": [
+            -99.139740000000003,
+            19.431819999999998
+        ]
+    },
+    {
+        "FID": 92,
+        "id": 404,
+        "name": "404 MIGUEL LAURENT-AVENIDA DIVISIÓN DEL NORTE",
+        "districtna": "Letran Valle",
+        "coordinates": [
+            -99.157387,
+            19.373812999999998
+        ]
+    },
+    {
+        "FID": 93,
+        "id": 306,
+        "name": "306 DAKOTA-FILADELFIA",
+        "districtna": "Nápoles",
+        "coordinates": [
+            -99.175663999999998,
+            19.393699000000002
+        ]
+    },
+    {
+        "FID": 94,
+        "id": 307,
+        "name": "307 MINESOTA-DAKOTA",
+        "districtna": "Nápoles",
+        "coordinates": [
+            -99.175833999999995,
+            19.393701
+        ]
+    },
+    {
+        "FID": 95,
+        "id": 455,
+        "name": "455 PEDREGAL-FERROCARRIL DE CUERNAVACA",
+        "districtna": "Lomas Virreyes",
+        "coordinates": [
+            -99.203301999999994,
+            19.426307999999999
+        ]
+    },
+    {
+        "FID": 96,
+        "id": 59,
+        "name": "59 POPOCATEPETL-AMSTERDAM",
+        "districtna": "Hipódromo",
+        "coordinates": [
+            -99.166661000000005,
+            19.415120999999999
+        ]
+    },
+    {
+        "FID": 97,
+        "id": 418,
+        "name": "418 GALICIA-ACTIPAN",
+        "districtna": "Insurgentes Mixcoac",
+        "coordinates": [
+            -99.183034000000006,
+            19.371151999999999
+        ]
+    },
+    {
+        "FID": 98,
+        "id": 64,
+        "name": "64 SONORA-AMSTERDAM",
+        "districtna": "Hipódromo",
+        "coordinates": [
+            -99.166985999999994,
+            19.412877000000002
+        ]
+    },
+    {
+        "FID": 99,
+        "id": 51,
+        "name": "51 COLIMA-OAXACA",
+        "districtna": "Roma Norte",
+        "coordinates": [
+            -99.168248000000006,
+            19.417995000000001
+        ]
+    },
+    {
+        "FID": 100,
+        "id": 228,
+        "name": "228 CAMPOS ELÍSEOS-JEAN DE LA FONTAINE",
+        "districtna": "Polanco",
+        "coordinates": [
+            -99.199119999999994,
+            19.427705
+        ]
+    },
+    {
+        "FID": 101,
+        "id": 128,
+        "name": "128 ORIZABA-RIO DE JANEIRO",
+        "districtna": "Roma Norte",
+        "coordinates": [
+            -99.160645000000002,
+            19.422148
+        ]
+    },
+    {
+        "FID": 102,
+        "id": 372,
+        "name": "372 DR. ROBERTO GAYOL-TLACOQUEMECATL",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.170288999999997,
+            19.377970000000001
+        ]
+    },
+    {
+        "FID": 103,
+        "id": 72,
+        "name": "72 MAZATLAN-ALFONSO REYES",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.179544000000007,
+            19.409893
+        ]
+    },
+    {
+        "FID": 104,
+        "id": 3,
+        "name": "3 REFORMA-INSURGENTES",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.158668000000006,
+            19.431654999999999
+        ]
+    },
+    {
+        "FID": 105,
+        "id": 350,
+        "name": "350 JOSE CLEMENTE OROZCO-CORREGGIO",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.181482000000003,
+            19.384062
+        ]
+    },
+    {
+        "FID": 106,
+        "id": 463,
+        "name": "463 LAGO ANDRÓMACO-LAGO ZURICH",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.202492000000007,
+            19.442337999999999
+        ]
+    },
+    {
+        "FID": 107,
+        "id": 66,
+        "name": "66 MAZATLAN-FRANCISCO MARQUEZ",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.178666000000007,
+            19.411401999999999
+        ]
+    },
+    {
+        "FID": 108,
+        "id": 88,
+        "name": "88 2A CDA 5 DE MAYO-PALMA",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.135302999999993,
+            19.433814999999999
+        ]
+    },
+    {
+        "FID": 109,
+        "id": 112,
+        "name": "112 AV. MORELOS-ABRAHAM GONZALEZ",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.151734000000005,
+            19.432818999999999
+        ]
+    },
+    {
+        "FID": 110,
+        "id": 313,
+        "name": "313 PENNSYLVANIA-OKLAHOMA",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.178989000000001,
+            19.391431000000001
+        ]
+    },
+    {
+        "FID": 111,
+        "id": 474,
+        "name": "474 BAHÍA DE SAN HIPÓLITO-BAHÍA DEL ESPÍRITU SANTO",
+        "districtna": "Anáhuac I",
+        "coordinates": [
+            -99.177548999999999,
+            19.438984000000001
+        ]
+    },
+    {
+        "FID": 112,
+        "id": 95,
+        "name": "95 20 DE NOVIEMBRE-VENUSTIANO CARRANZA",
+        "districtna": "Centro",
+        "coordinates": [
+            -99.133697999999995,
+            19.430721999999999
+        ]
+    },
+    {
+        "FID": 113,
+        "id": 101,
+        "name": "101 1ER. CALLEJÓN DE MESONES-MESONES",
+        "districtna": "Centro",
+        "coordinates": [
+            -99.135895000000005,
+            19.428366
+        ]
+    },
+    {
+        "FID": 114,
+        "id": 48,
+        "name": "48 INDEPENDENCIA-AZUETA",
+        "districtna": "Centro",
+        "coordinates": [
+            -99.146557000000001,
+            19.433686000000002
+        ]
+    },
+    {
+        "FID": 115,
+        "id": 344,
+        "name": "344 HERIBERTO FRÍAS-ANGEL URRAZA EJE 6 SUR",
+        "districtna": "Del Valle Centro",
+        "coordinates": [
+            -99.162243000000004,
+            19.382107000000001
+        ]
+    },
+    {
+        "FID": 116,
+        "id": 431,
+        "name": "431 BRUNO TRAVEN-PAZ MONTES DE OCA",
+        "districtna": "General Pedro Maria Anaya",
+        "coordinates": [
+            -99.15822,
+            19.361450000000001
+        ]
+    },
+    {
+        "FID": 117,
+        "id": 476,
+        "name": "476 LAGO COMO-LAGUNA DE MAYRÁN",
+        "districtna": "Granada",
+        "coordinates": [
+            -99.184432999999999,
+            19.442126999999999
+        ]
+    },
+    {
+        "FID": 118,
+        "id": 73,
+        "name": "73 CAMPECHE-TAMAULIPAS",
+        "districtna": "Hipódromo Condesa",
+        "coordinates": [
+            -99.175612000000001,
+            19.410245
+        ]
+    },
+    {
+        "FID": 119,
+        "id": 83,
+        "name": "83 NUEVO LEON-ALFONSO REYES",
+        "districtna": "Hipódromo",
+        "coordinates": [
+            -99.172117,
+            19.406296000000001
+        ]
+    },
+    {
+        "FID": 120,
+        "id": 120,
+        "name": "120 MARSELLA-NAPOLES",
+        "districtna": "Juárez",
+        "coordinates": [
+            -99.159458000000001,
+            19.425436999999999
+        ]
+    },
+    {
+        "FID": 121,
+        "id": 121,
+        "name": "121 NIZA-CHAPULTEPEC",
+        "districtna": "Juárez",
+        "coordinates": [
+            -99.161316999999997,
+            19.424137000000002
+        ]
+    },
+    {
+        "FID": 122,
+        "id": 453,
+        "name": "453 PEDREGAL-TEAPA",
+        "districtna": "Molino del Rey",
+        "coordinates": [
+            -99.203738999999999,
+            19.424842000000002
+        ]
+    },
+    {
+        "FID": 123,
+        "id": 309,
+        "name": "309 PENNSYLVANIA-ARIZONA",
+        "districtna": "Nápoles",
+        "coordinates": [
+            -99.179559999999995,
+            19.393162
+        ]
+    },
+    {
+        "FID": 124,
+        "id": 290,
+        "name": "290 YOSEMITE-COLORADO",
+        "districtna": "Nápoles",
+        "coordinates": [
+            -99.172667000000004,
+            19.396332999999998
+        ]
+    },
+    {
+        "FID": 125,
+        "id": 220,
+        "name": "220 PLINIO-PRESIDENTE MASARYK",
+        "districtna": "Polanco",
+        "coordinates": [
+            -99.205726999999996,
+            19.432655
+        ]
+    },
+    {
+        "FID": 126,
+        "id": 39,
+        "name": "39 PUEBLA-MEDELLÍN",
+        "districtna": "Roma Norte",
+        "coordinates": [
+            -99.166939999999997,
+            19.421759000000002
+        ]
+    },
+    {
+        "FID": 127,
+        "id": 40,
+        "name": "40 OAXACA-PUEBLA",
+        "districtna": "Roma Norte",
+        "coordinates": [
+            -99.164297000000005,
+            19.422229999999999
+        ]
+    },
+    {
+        "FID": 128,
+        "id": 45,
+        "name": "45 DURANGO-SONORA",
+        "districtna": "Roma Norte",
+        "coordinates": [
+            -99.172127000000003,
+            19.418648999999998
+        ]
+    },
+    {
+        "FID": 129,
+        "id": 148,
+        "name": "148 COAHUILA-AV.CUAUHTEMOC",
+        "districtna": "Roma Norte",
+        "coordinates": [
+            -99.155116000000007,
+            19.412828999999999
+        ]
+    },
+    {
+        "FID": 130,
+        "id": 187,
+        "name": "187 GENERAL CANO-GOBERNADOR GREGORIO V GELATI",
+        "districtna": "San Miguel Chapultepec",
+        "coordinates": [
+            -99.185509999999994,
+            19.41123
+        ]
+    },
+    {
+        "FID": 131,
+        "id": 365,
+        "name": "365 HOLBEIN-AVENIDA REVOLUCIÓN",
+        "districtna": "Santa María Nonoalco",
+        "coordinates": [
+            -99.186687000000006,
+            19.381117
+        ]
+    },
+    {
+        "FID": 132,
+        "id": 331,
+        "name": "331 AVENIDA 2-CALLE 17",
+        "districtna": "San Pedro de los Pinos",
+        "coordinates": [
+            -99.183971,
+            19.388546999999999
+        ]
+    },
+    {
+        "FID": 133,
+        "id": 10,
+        "name": "10 REFORMA-RAMIREZ",
+        "districtna": "Tabacalera",
+        "coordinates": [
+            -99.154752000000002,
+            19.433320999999999
+        ]
+    },
+    {
+        "FID": 134,
+        "id": 368,
+        "name": "368 PORFIRIO DÍAZ-CINCINATTI",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.179344,
+            19.379245999999998
+        ]
+    },
+    {
+        "FID": 135,
+        "id": 110,
+        "name": "110 DR. VALENZUELA-DR. RÍO DE LA LOZA",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.143389999999997,
+            19.425129999999999
+        ]
+    },
+    {
+        "FID": 136,
+        "id": 204,
+        "name": "204 TEMISTOCLES-HOMERO",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.191519999999997,
+            19.435881999999999
+        ]
+    },
+    {
+        "FID": 137,
+        "id": 234,
+        "name": "234 TRES PICOS-ARQUÍMIDES",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.191539000000006,
+            19.42783
+        ]
+    },
+    {
+        "FID": 138,
+        "id": 248,
+        "name": "248 SHAKESPEARE-LAFAYETTE",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.177398999999994,
+            19.431750000000001
+        ]
+    },
+    {
+        "FID": 139,
+        "id": 421,
+        "name": "421 MARÍA LUZ BRINGAS-OSO",
+        "districtna": "Actipan",
+        "coordinates": [
+            -99.179400999999999,
+            19.369467
+        ]
+    },
+    {
+        "FID": 140,
+        "id": 267,
+        "name": "267 AV. JESÜS GARCÏA-CARLOS J. MENESES",
+        "districtna": "Buenavista",
+        "coordinates": [
+            -99.152203,
+            19.443735
+        ]
+    },
+    {
+        "FID": 141,
+        "id": 107,
+        "name": "107 TOLSA-BALDERAS",
+        "districtna": "Centro",
+        "coordinates": [
+            -99.149970999999994,
+            19.427329
+        ]
+    },
+    {
+        "FID": 142,
+        "id": 360,
+        "name": "E360 HERIBERTO FRÍAS-MATIAS ROMERO",
+        "districtna": "Del Valle Centro",
+        "coordinates": [
+            -99.162825900000001,
+            19.379027900000001
+        ]
+    },
+    {
+        "FID": 143,
+        "id": 324,
+        "name": "324 AMORES-AVENIDA EUGENIA",
+        "districtna": "Del Valle Centro",
+        "coordinates": [
+            -99.165655400000006,
+            19.3872468
+        ]
+    },
+    {
+        "FID": 144,
+        "id": 336,
+        "name": "336 SAN BORJA-CDA. BARTOLOCHE",
+        "districtna": "Del Valle Centro",
+        "coordinates": [
+            -99.169673000000003,
+            19.385531
+        ]
+    },
+    {
+        "FID": 145,
+        "id": 282,
+        "name": "282 LA MORENA-EJE 2 PONIENTE GABRIEL MANCERA",
+        "districtna": "Del Valle Norte",
+        "coordinates": [
+            -99.161272999999994,
+            19.398692
+        ]
+    },
+    {
+        "FID": 146,
+        "id": 299,
+        "name": "299 ROMERO DE TERREROS-MIER Y PESADO",
+        "districtna": "Del Valle Norte",
+        "coordinates": [
+            -99.165053999999998,
+            19.394601000000002
+        ]
+    },
+    {
+        "FID": 147,
+        "id": 390,
+        "name": "390 OSO-FELIX CUEVAS",
+        "districtna": "Del Valle Sur",
+        "coordinates": [
+            -99.178259999999995,
+            19.373228000000001
+        ]
+    },
+    {
+        "FID": 148,
+        "id": 395,
+        "name": "395 SAN LORENZO-CALLEJÓN MARTÍN MENLALDE",
+        "districtna": "Del Valle Sur",
+        "coordinates": [
+            -99.169814000000002,
+            19.373742
+        ]
+    },
+    {
+        "FID": 149,
+        "id": 399,
+        "name": "399 HERIBERTO FRÍAS-SAN LORENZO",
+        "districtna": "Del Valle Sur",
+        "coordinates": [
+            -99.164518999999999,
+            19.372406999999999
+        ]
+    },
+    {
+        "FID": 150,
+        "id": 168,
+        "name": "168 COMERCIO-PROGRESO",
+        "districtna": "Escandón",
+        "coordinates": [
+            -99.177599999999998,
+            19.403997
+        ]
+    },
+    {
+        "FID": 151,
+        "id": 169,
+        "name": "169 PROSPERIDAD-PROGRESO",
+        "districtna": "Escandón",
+        "coordinates": [
+            -99.174933999999993,
+            19.403019
+        ]
+    },
+    {
+        "FID": 152,
+        "id": 428,
+        "name": "428 PROLONGACIÓN UXMAL-AV. POPOCATEPETL (EJE 8)",
+        "districtna": "General Pedro Maria Anaya",
+        "coordinates": [
+            -99.160353000000001,
+            19.363417999999999
+        ]
+    },
+    {
+        "FID": 153,
+        "id": 179,
+        "name": "179 NUEVO LEÓN-QUINTANA ROO",
+        "districtna": "Hipódromo",
+        "coordinates": [
+            -99.171437999999995,
+            19.404451999999999
+        ]
+    },
+    {
+        "FID": 154,
+        "id": 31,
+        "name": "31 HAMBURGO-INSURGENTES",
+        "districtna": "Juárez",
+        "coordinates": [
+            -99.161192999999997,
+            19.427838000000001
+        ]
+    },
+    {
+        "FID": 155,
+        "id": 284,
+        "name": "284 DAKOTA-VERMONT",
+        "districtna": "Nápoles",
+        "coordinates": [
+            -99.172980999999993,
+            19.397693
+        ]
+    },
+    {
+        "FID": 156,
+        "id": 341,
+        "name": "341 SAN BORJA-AVENIDA CUAUHTEMOC",
+        "districtna": "Narvarte Poniente",
+        "coordinates": [
+            -99.158203999999998,
+            19.382850999999999
+        ]
+    },
+    {
+        "FID": 157,
+        "id": 226,
+        "name": "226 WALLON-PRESIDENTE MASARYK",
+        "districtna": "Polanco",
+        "coordinates": [
+            -99.182220000000001,
+            19.431032999999999
+        ]
+    },
+    {
+        "FID": 158,
+        "id": 133,
+        "name": "133 COLIMA-MORELIA",
+        "districtna": "Roma Norte",
+        "coordinates": [
+            -99.154724999999999,
+            19.421137999999999
+        ]
+    },
+    {
+        "FID": 159,
+        "id": 143,
+        "name": "143 CÓRDOBA-SAN LUIS POTOSÍ",
+        "districtna": "Roma Norte",
+        "coordinates": [
+            -99.157542000000007,
+            19.414303
+        ]
+    },
+    {
+        "FID": 160,
+        "id": 351,
+        "name": "351 CALLE 27-AVENIDA REVOLUCIÓN",
+        "districtna": "San Pedro de los Pinos",
+        "coordinates": [
+            -99.186296999999996,
+            19.385750999999999
+        ]
+    },
+    {
+        "FID": 161,
+        "id": 257,
+        "name": "E257 MANUEL MARIA CONTRERAS-VILLALONGIN",
+        "districtna": "San Rafael",
+        "coordinates": [
+            -99.166219999999996,
+            19.433800000000002
+        ]
+    },
+    {
+        "FID": 162,
+        "id": 160,
+        "name": "E160 ALFONSO HERRERA-GABINO BARRERA",
+        "districtna": "San Rafael",
+        "coordinates": [
+            -99.163460000000001,
+            19.440249999999999
+        ]
+    },
+    {
+        "FID": 163,
+        "id": 416,
+        "name": "416 RECREO-PARROQUÍA",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.177606999999995,
+            19.371307999999999
+        ]
+    },
+    {
+        "FID": 164,
+        "id": 440,
+        "name": "440 REAL DE MAYORAZGO-PUENTE XOCO",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.168668999999994,
+            19.36065
+        ]
+    },
+    {
+        "FID": 165,
+        "id": 70,
+        "name": "70 PARQUE MEXICO-MICHOACAN",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.169718000000003,
+            19.411272
+        ]
+    },
+    {
+        "FID": 166,
+        "id": 325,
+        "name": "325 PROVIDENCIA -AVENIDA DEL VALLE",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.169689399999996,
+            19.388177899999999
+        ]
+    },
+    {
+        "FID": 167,
+        "id": 252,
+        "name": "252 VICTOR HUGO-SHAKESPEARE",
+        "districtna": "Anzures",
+        "coordinates": [
+            -99.177019999999999,
+            19.427575000000001
+        ]
+    },
+    {
+        "FID": 168,
+        "id": 2,
+        "name": "2 RIO GUADALQUIVIR-RIO BALSAS",
+        "districtna": "Cuauhtémoc",
+        "coordinates": [
+            -99.171695,
+            19.431386
+        ]
+    },
+    {
+        "FID": 169,
+        "id": 394,
+        "name": "394 DR. ROBERTO GAYOL-FELIX CUEVAS",
+        "districtna": "Del Valle Sur",
+        "coordinates": [
+            -99.171592000000004,
+            19.372437000000001
+        ]
+    },
+    {
+        "FID": 170,
+        "id": 170,
+        "name": "170 OBSERVATORIO ORIENTE-REVOLUCIÓN",
+        "districtna": "Escandón",
+        "coordinates": [
+            -99.184342000000001,
+            19.404029000000001
+        ]
+    },
+    {
+        "FID": 171,
+        "id": 177,
+        "name": "177 BENJAMIN HILL-CARLOS ZETINA",
+        "districtna": "Hipódromo Condesa",
+        "coordinates": [
+            -99.181691999999998,
+            19.408840999999999
+        ]
+    },
+    {
+        "FID": 172,
+        "id": 80,
+        "name": "80 NUEVO LEON-AGUASCALIENTES",
+        "districtna": "Hipódromo",
+        "coordinates": [
+            -99.172117999999998,
+            19.407306999999999
+        ]
+    },
+    {
+        "FID": 173,
+        "id": 384,
+        "name": "384 EMPRESA-POUSSIN",
+        "districtna": "Insurgentes Mixcoac",
+        "coordinates": [
+            -99.185582999999994,
+            19.375872999999999
+        ]
+    },
+    {
+        "FID": 174,
+        "id": 386,
+        "name": "386 POUSSIN-DONATELLO",
+        "districtna": "Insurgentes Mixcoac",
+        "coordinates": [
+            -99.185845999999998,
+            19.374839999999999
+        ]
+    },
+    {
+        "FID": 175,
+        "id": 22,
+        "name": "22 REFORMA-MANCHESTER",
+        "districtna": "Juárez",
+        "coordinates": [
+            -99.172574999999995,
+            19.424375000000001
+        ]
+    },
+    {
+        "FID": 176,
+        "id": 320,
+        "name": "320 ENRIQUE RÉBSAMEN-LUZ SAVIÑON",
+        "districtna": "Narvarte Poniente",
+        "coordinates": [
+            -99.159360000000007,
+            19.391323
+        ]
+    },
+    {
+        "FID": 177,
+        "id": 340,
+        "name": "340 ANAXÁGORAS-AVENIDA EUGENIA",
+        "districtna": "Narvarte Poniente",
+        "coordinates": [
+            -99.158187999999996,
+            19.385570999999999
+        ]
+    },
+    {
+        "FID": 178,
+        "id": 240,
+        "name": "240 EJERCITO NACIONAL-F.C. DE CUERNAVACA",
+        "districtna": "Polanco",
+        "coordinates": [
+            -99.206299999999999,
+            19.438549999999999
+        ]
+    },
+    {
+        "FID": 179,
+        "id": 206,
+        "name": "206 MOLIERE-HOMERO",
+        "districtna": "Polanco",
+        "coordinates": [
+            -99.201419000000001,
+            19.435797999999998
+        ]
+    },
+    {
+        "FID": 180,
+        "id": 221,
+        "name": "221 EMILIO CASTELAR-PRESIDENTE MASARYK",
+        "districtna": "Polanco",
+        "coordinates": [
+            -99.201565000000002,
+            19.431799000000002
+        ]
+    },
+    {
+        "FID": 181,
+        "id": 405,
+        "name": "405 DIVISIÓN DEL NORTE-MUNICIPIO LIBRE",
+        "districtna": "Portales Norte",
+        "coordinates": [
+            -99.156626000000003,
+            19.370619000000001
+        ]
+    },
+    {
+        "FID": 182,
+        "id": 131,
+        "name": "131 COLIMA-JALAPA",
+        "districtna": "Roma Norte",
+        "coordinates": [
+            -99.161314000000004,
+            19.419578999999999
+        ]
+    },
+    {
+        "FID": 183,
+        "id": 134,
+        "name": "134 ÁLVARO OBREGÓN-ORIZABA",
+        "districtna": "Roma Norte",
+        "coordinates": [
+            -99.159559999999999,
+            19.418303999999999
+        ]
+    },
+    {
+        "FID": 184,
+        "id": 153,
+        "name": "153 MANZANILLO-TLAXCALA",
+        "districtna": "Roma Sur",
+        "coordinates": [
+            -99.165141000000006,
+            19.407468000000001
+        ]
+    },
+    {
+        "FID": 185,
+        "id": 427,
+        "name": "427 AVENIDA MÉXICO-COYOACAN-AV. POPOCATEPETL (EJE",
+        "districtna": "Santa Cruz Atoyac",
+        "coordinates": [
+            -99.162993,
+            19.365023000000001
+        ]
+    },
+    {
+        "FID": 186,
+        "id": 189,
+        "name": "189 GDOR RAFAEL REBOLLAR-GDOR JOSÉ CEBALLOS",
+        "districtna": "San Miguel Chapultepec",
+        "coordinates": [
+            -99.187979999999996,
+            19.410039999999999
+        ]
+    },
+    {
+        "FID": 187,
+        "id": 370,
+        "name": "370 TLACOQUEMECATL-AV. INSURGENTES",
+        "districtna": "Tlacoquemecatl",
+        "coordinates": [
+            -99.177053999999998,
+            19.378817999999999
+        ]
+    },
+    {
+        "FID": 188,
+        "id": 426,
+        "name": "426 CERRADA DE POPOCATEPETL-AV. POPOCATEPETL (EJE",
+        "districtna": "Xoco",
+        "coordinates": [
+            -99.166016999999997,
+            19.365518999999999
+        ]
+    },
+    {
+        "FID": 189,
+        "id": 446,
+        "name": "446 RIFF-AVENIDA RIO CHURUBUSCO",
+        "districtna": "General Pedro Maria Anaya",
+        "coordinates": [
+            -99.156101000000007,
+            19.358599999999999
+        ]
+    },
+    {
+        "FID": 190,
+        "id": 355,
+        "name": "355 CALIFORNIA-SACRAMENTO",
+        "districtna": "Insurgentes San Borja",
+        "coordinates": [
+            -99.173291000000006,
+            19.38205
+        ]
+    },
+    {
+        "FID": 191,
+        "id": 447,
+        "name": "447 AGUSTÍN MELGAR-ZAMORA",
+        "districtna": "Juárez",
+        "coordinates": [
+            -99.176776000000004,
+            19.418858
+        ]
+    },
+    {
+        "FID": 192,
+        "id": 402,
+        "name": "402 UXMAL-MUNICIPIO LIBRE",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.158722299999994,
+            19.370945200000001
+        ]
+    },
+    {
+        "FID": 193,
+        "id": 464,
+        "name": "E464 MATEO ALEMÁN-PROLONGACIÓN MOLIERE",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.199838,
+            19.442421
+        ]
+    },
+    {
+        "FID": 194,
+        "id": 63,
+        "name": "63 NUEVO LEON- LAREDO",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.171531000000002,
+            19.413681
+        ]
+    },
+    {
+        "FID": 195,
+        "id": 466,
+        "name": "466  LAGO ONEGA-LAGO LADOGA",
+        "districtna": "Anáhuac Dos Lagos",
+        "coordinates": [
+            -99.190830000000005,
+            19.442689999999999
+        ]
+    },
+    {
+        "FID": 196,
+        "id": 150,
+        "name": "150 CAMPECHE-MEDELLÍN",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.164292000000003,
+            19.409965
+        ]
+    },
+    {
+        "FID": 197,
+        "id": 193,
+        "name": "193 RUBEN DARIO-REFORMA",
+        "districtna": "Bosque de Chapultepec",
+        "coordinates": [
+            -99.190732999999994,
+            19.425906999999999
+        ]
+    },
+    {
+        "FID": 198,
+        "id": 266,
+        "name": "266 AV. JESÚS GARCIA-CARLOS J. MENESES",
+        "districtna": "Buenavista",
+        "coordinates": [
+            -99.152186999999998,
+            19.444030999999999
+        ]
+    },
+    {
+        "FID": 199,
+        "id": 291,
+        "name": "291 MAGDALENA-DIVISIÓN DEL NORTE",
+        "districtna": "Del Valle Norte",
+        "coordinates": [
+            -99.169945999999996,
+            19.397651
+        ]
+    },
+    {
+        "FID": 200,
+        "id": 413,
+        "name": "413 PARROQUIA-AVENIDA COYOACÁN",
+        "districtna": "Del Valle Sur",
+        "coordinates": [
+            -99.171906000000007,
+            19.369782000000001
+        ]
+    },
+    {
+        "FID": 201,
+        "id": 318,
+        "name": "318 LUZ SAVIÑÓN-AMORES",
+        "districtna": "Del Valle Norte",
+        "coordinates": [
+            -99.164126999999993,
+            19.392249
+        ]
+    },
+    {
+        "FID": 202,
+        "id": 339,
+        "name": "339 ENRIQUE RÉBSAMEN-AVENIDA EUGENIA",
+        "districtna": "Narvarte Poniente",
+        "coordinates": [
+            -99.160548000000006,
+            19.386032
+        ]
+    },
+    {
+        "FID": 203,
+        "id": 281,
+        "name": "281 PITÁGORAS-LA MORENA",
+        "districtna": "Narvarte Poniente",
+        "coordinates": [
+            -99.157308,
+            19.398531999999999
+        ]
+    },
+    {
+        "FID": 204,
+        "id": 315,
+        "name": "315 ALABAMA-MONTANA",
+        "districtna": "Nápoles",
+        "coordinates": [
+            -99.173599999999993,
+            19.391472
+        ]
+    },
+    {
+        "FID": 205,
+        "id": 236,
+        "name": "236 CAMPOS ELISEOS-MOLIERE",
+        "districtna": "Polanco",
+        "coordinates": [
+            -99.202430000000007,
+            19.42944
+        ]
+    },
+    {
+        "FID": 206,
+        "id": 115,
+        "name": "115 ROMA-DINAMARCA",
+        "districtna": "Juárez",
+        "coordinates": [
+            -99.159698000000006,
+            19.429946999999999
+        ]
+    },
+    {
+        "FID": 207,
+        "id": 118,
+        "name": "118 LIVERPOOL-DINAMARCA",
+        "districtna": "Juárez",
+        "coordinates": [
+            -99.158251000000007,
+            19.427114
+        ]
+    },
+    {
+        "FID": 208,
+        "id": 119,
+        "name": "119 TURÍN-ABRAHAM GONZÁLEZ",
+        "districtna": "Juárez",
+        "coordinates": [
+            -99.155540000000002,
+            19.42679
+        ]
+    },
+    {
+        "FID": 209,
+        "id": 26,
+        "name": "26 REFORMA-VERSALLES",
+        "districtna": "Juárez",
+        "coordinates": [
+            -99.154725999999997,
+            19.432684999999999
+        ]
+    },
+    {
+        "FID": 210,
+        "id": 125,
+        "name": "125 MORELIA-CIRCULAR DE MORELIA",
+        "districtna": "Roma Norte",
+        "coordinates": [
+            -99.156204000000002,
+            19.424541000000001
+        ]
+    },
+    {
+        "FID": 211,
+        "id": 145,
+        "name": "145 EJE 2 SUR YUCATÁN-CHIAPAS",
+        "districtna": "Roma Norte",
+        "coordinates": [
+            -99.160661000000005,
+            19.412859999999998
+        ]
+    },
+    {
+        "FID": 212,
+        "id": 138,
+        "name": "138 GUANAJUATO-FRONTERA",
+        "districtna": "Roma Norte",
+        "coordinates": [
+            -99.155313000000007,
+            19.417701999999998
+        ]
+    },
+    {
+        "FID": 213,
+        "id": 146,
+        "name": "146 COAHUILA-MANZANILLO",
+        "districtna": "Roma Norte",
+        "coordinates": [
+            -99.165716000000003,
+            19.410737000000001
+        ]
+    },
+    {
+        "FID": 214,
+        "id": 130,
+        "name": "130 MÉRIDA-DURANGO",
+        "districtna": "Roma Norte",
+        "coordinates": [
+            -99.158015000000006,
+            19.421576000000002
+        ]
+    },
+    {
+        "FID": 215,
+        "id": 208,
+        "name": "208 HESIODO-LAMARTINE",
+        "districtna": "Polanco",
+        "coordinates": [
+            -99.189835000000002,
+            19.434182
+        ]
+    },
+    {
+        "FID": 216,
+        "id": 209,
+        "name": "209 SOLON-HORACIO",
+        "districtna": "Polanco",
+        "coordinates": [
+            -99.206359000000006,
+            19.435478
+        ]
+    },
+    {
+        "FID": 217,
+        "id": 223,
+        "name": "223 NEWTON-PRESIDENTE MASARYK",
+        "districtna": "Polanco",
+        "coordinates": [
+            -99.191613000000004,
+            19.431242000000001
+        ]
+    },
+    {
+        "FID": 218,
+        "id": 454,
+        "name": "E454 MONTES URALES-MONTE PELVOUX",
+        "districtna": "Lomas Virreyes",
+        "coordinates": [
+            -99.204235999999995,
+            19.425905
+        ]
+    },
+    {
+        "FID": 219,
+        "id": 429,
+        "name": "429 PIRINEOS-AV. POPOCATEPETL (EJE 8)",
+        "districtna": "Santa Cruz Atoyac",
+        "coordinates": [
+            -99.158292000000003,
+            19.363071000000001
+        ]
+    },
+    {
+        "FID": 220,
+        "id": 85,
+        "name": "85 ROSAS MORENO-SULLIVAN",
+        "districtna": "San Rafael",
+        "coordinates": [
+            -99.162508000000003,
+            19.434249999999999
+        ]
+    },
+    {
+        "FID": 221,
+        "id": 256,
+        "name": "256 GÓMEZ FARÍAS-SADI CARNOT",
+        "districtna": "San Rafael",
+        "coordinates": [
+            -99.158159999999995,
+            19.437200000000001
+        ]
+    },
+    {
+        "FID": 222,
+        "id": 450,
+        "name": "450 RAMOS ARIZPE-PUENTE DE ALVARADO",
+        "districtna": "Tabacalera",
+        "coordinates": [
+            -99.152225999999999,
+            19.438359999999999
+        ]
+    },
+    {
+        "FID": 223,
+        "id": 109,
+        "name": "109 NEZAHUALCOYOTL-ISABEL LA CATOLICA",
+        "districtna": "Centro",
+        "coordinates": [
+            -99.137421000000003,
+            19.425311000000001
+        ]
+    },
+    {
+        "FID": 224,
+        "id": 334,
+        "name": "334 NUEVA YORK-AV. INSURGENTES",
+        "districtna": "Ampliación Nápoles",
+        "coordinates": [
+            -99.175089,
+            19.386568
+        ]
+    },
+    {
+        "FID": 225,
+        "id": 335,
+        "name": "335 MAGDALENA-AMEYALCO",
+        "districtna": "Del Valle Centro",
+        "coordinates": [
+            -99.173503999999994,
+            19.387003
+        ]
+    },
+    {
+        "FID": 226,
+        "id": 472,
+        "name": "E472 BAHÍA SANTA BÁRBARA-BAHÍA DE BALLENAS",
+        "districtna": "Anzures",
+        "coordinates": [
+            -99.177109999999999,
+            19.437667000000001
+        ]
+    },
+    {
+        "FID": 227,
+        "id": 349,
+        "name": "349 AUGUSTO RODIN-AVENIDA SAN ANTONIO",
+        "districtna": "Ampliación Nápoles",
+        "coordinates": [
+            -99.180857000000003,
+            19.385687999999998
+        ]
+    },
+    {
+        "FID": 228,
+        "id": 310,
+        "name": "310 CALLE 1-AV. PATRIOTISMO",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.181732999999994,
+            19.395319000000001
+        ]
+    },
+    {
+        "FID": 229,
+        "id": 173,
+        "name": "173 MINERÍA-JOSÉ MARTÍ",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.176398000000006,
+            19.401682000000001
+        ]
+    },
+    {
+        "FID": 230,
+        "id": 197,
+        "name": "197 MIGUEL DE CERVANTES-FC DE CUERNAVACA",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.204316000000006,
+            19.440076999999999
+        ]
+    },
+    {
+        "FID": 231,
+        "id": 60,
+        "name": "60 MAZATLAN-FERNANDO MONTES DE OCA",
+        "districtna": "Condesa",
+        "coordinates": [
+            -99.177122999999995,
+            19.414190999999999
+        ]
+    },
+    {
+        "FID": 232,
+        "id": 319,
+        "name": "319 DIAGONAL SAN ANTONIO-LUZ SAVIÑON",
+        "districtna": "Del Valle Norte",
+        "coordinates": [
+            -99.162683999999999,
+            19.391991000000001
+        ]
+    },
+    {
+        "FID": 233,
+        "id": 300,
+        "name": "E300 PROVIDENCIA -LUZ SAVIÑON",
+        "districtna": "Del Valle Norte",
+        "coordinates": [
+            -99.168333000000004,
+            19.393267999999999
+        ]
+    },
+    {
+        "FID": 234,
+        "id": 18,
+        "name": "18 REFORMA-RIO RHIN",
+        "districtna": "Cuauhtémoc",
+        "coordinates": [
+            -99.164175999999998,
+            19.428879999999999
+        ]
+    },
+    {
+        "FID": 235,
+        "id": 444,
+        "name": "444 GENERAL MANUEL RINCÓN-AGUSTÍN GUTIERREZ",
+        "districtna": "General Pedro Maria Anaya",
+        "coordinates": [
+            -99.159424999999999,
+            19.359383999999999
+        ]
+    },
+    {
+        "FID": 236,
+        "id": 415,
+        "name": "415 SAN FRANCISCO-PARROQUÍA",
+        "districtna": "Del Valle Sur",
+        "coordinates": [
+            -99.176019999999994,
+            19.371497999999999
+        ]
+    },
+    {
+        "FID": 237,
+        "id": 175,
+        "name": "E175 MUTUALISMO-JOSÉ MARTí",
+        "districtna": "Escandón",
+        "coordinates": [
+            -99.172533000000001,
+            19.400766999999998
+        ]
+    },
+    {
+        "FID": 238,
+        "id": 149,
+        "name": "149 MÉRIDA-ANTONIO ANZA",
+        "districtna": "Roma Norte",
+        "coordinates": [
+            -99.155698999999998,
+            19.411989999999999
+        ]
+    },
+    {
+        "FID": 239,
+        "id": 147,
+        "name": "147 COAHUILA-ORIZABA",
+        "districtna": "Roma Norte",
+        "coordinates": [
+            -99.158443000000005,
+            19.412182000000001
+        ]
+    },
+    {
+        "FID": 240,
+        "id": 151,
+        "name": "151 CAMPECHE-TONALÁ",
+        "districtna": "Roma Sur",
+        "coordinates": [
+            -99.160872999999995,
+            19.410529
+        ]
+    },
+    {
+        "FID": 241,
+        "id": 105,
+        "name": "105 SAN JERONIMO-5 DE FEBRERO",
+        "districtna": "Centro",
+        "coordinates": [
+            -99.135013999999998,
+            19.426755
+        ]
+    },
+    {
+        "FID": 242,
+        "id": 262,
+        "name": "262 REPUBLICA DE CUBA-REPUBLICA DE BRASIL",
+        "districtna": "Centro",
+        "coordinates": [
+            -99.133949999999999,
+            19.43693
+        ]
+    },
+    {
+        "FID": 243,
+        "id": 65,
+        "name": "65 MARCONI-TACUBA",
+        "districtna": "Centro",
+        "coordinates": [
+            -99.139905999999996,
+            19.436142
+        ]
+    },
+    {
+        "FID": 244,
+        "id": 475,
+        "name": "475 LAGO MURITZ-LAGO ALBERTO",
+        "districtna": "Anáhuac I",
+        "coordinates": [
+            -99.181065000000004,
+            19.439249
+        ]
+    },
+    {
+        "FID": 245,
+        "id": 90,
+        "name": "90 JOSE MARIA PINO SUAREZ-CORREGIDORA",
+        "districtna": "Centro",
+        "coordinates": [
+            -99.132446000000002,
+            19.431698000000001
+        ]
+    },
+    {
+        "FID": 246,
+        "id": 94,
+        "name": "94 LIC. VERDAD-MONEDA",
+        "districtna": "Centro",
+        "coordinates": [
+            -99.130917999999994,
+            19.433765999999999
+        ]
+    },
+    {
+        "FID": 247,
+        "id": 295,
+        "name": "295 ANAXÁGORAS-EJE 4 SUR XOLA",
+        "districtna": "Narvarte Poniente",
+        "coordinates": [
+            -99.156870999999995,
+            19.396328
+        ]
+    },
+    {
+        "FID": 248,
+        "id": 345,
+        "name": "345 MIRAFLORES-PATRICIO SANZ",
+        "districtna": "Insurgentes San Borja",
+        "coordinates": [
+            -99.172223000000002,
+            19.384498000000001
+        ]
+    },
+    {
+        "FID": 249,
+        "id": 113,
+        "name": "113 GENERAL PRIM-VERSALLES",
+        "districtna": "Juárez",
+        "coordinates": [
+            -99.154419000000004,
+            19.430368999999999
+        ]
+    },
+    {
+        "FID": 250,
+        "id": 78,
+        "name": "78 BENJAMIN HILL-TAMAULIPAS",
+        "districtna": "Hipódromo",
+        "coordinates": [
+            -99.177381999999994,
+            19.407502999999998
+        ]
+    },
+    {
+        "FID": 251,
+        "id": 46,
+        "name": "46 DURANGO-SALAMANCA",
+        "districtna": "Roma Norte",
+        "coordinates": [
+            -99.169731999999996,
+            19.419214
+        ]
+    },
+    {
+        "FID": 252,
+        "id": 230,
+        "name": "230 EDGAR ALAN POE-DICKENS",
+        "districtna": "Polanco",
+        "coordinates": [
+            -99.200074000000001,
+            19.430098000000001
+        ]
+    },
+    {
+        "FID": 253,
+        "id": 217,
+        "name": "217 EULER-AV. HORACIO",
+        "districtna": "Polanco",
+        "coordinates": [
+            -99.183605,
+            19.432887999999998
+        ]
+    },
+    {
+        "FID": 254,
+        "id": 135,
+        "name": "135 ÁLVARO OBREGÓN-MORELIA",
+        "districtna": "Roma Norte",
+        "coordinates": [
+            -99.155099000000007,
+            19.419225000000001
+        ]
+    },
+    {
+        "FID": 255,
+        "id": 381,
+        "name": "381 SAN LORENZO-MANZANAS",
+        "districtna": "Tlacoquemecatl",
+        "coordinates": [
+            -99.177893999999995,
+            19.375540999999998
+        ]
+    },
+    {
+        "FID": 256,
+        "id": 55,
+        "name": "55 5 DE MAYO-BOLIVAR",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.138064,
+            19.434356000000001
+        ]
+    },
+    {
+        "FID": 257,
+        "id": 17,
+        "name": "17 REFORMA-RIO TIBER",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.167124999999999,
+            19.427500999999999
+        ]
+    },
+    {
+        "FID": 258,
+        "id": 174,
+        "name": "174 JOAQUÍN GARCIA-IGNACIO MANUEL ALTAMIRANO",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.161640000000006,
+            19.441109999999998
+        ]
+    },
+    {
+        "FID": 259,
+        "id": 288,
+        "name": "288 11 DE ABRIL-AVENIDA 2",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.183575000000005,
+            19.396332999999998
+        ]
+    },
+    {
+        "FID": 260,
+        "id": 470,
+        "name": "470 BAHÍA DE LAS PALMAS-BAHÍA DE TODOS LOS SANTOS",
+        "districtna": "Anzures",
+        "coordinates": [
+            -99.173878999999999,
+            19.435039
+        ]
+    },
+    {
+        "FID": 261,
+        "id": 435,
+        "name": "435 RODRIGUEZ SARO-AVENIDA COYOACÁN",
+        "districtna": "Actipan",
+        "coordinates": [
+            -99.172905999999998,
+            19.365154
+        ]
+    },
+    {
+        "FID": 262,
+        "id": 478,
+        "name": "478 LAGUNA DE MAYRÁN-LAGO CHALCO",
+        "districtna": "Anáhuac I",
+        "coordinates": [
+            -99.176961000000006,
+            19.440818
+        ]
+    },
+    {
+        "FID": 263,
+        "id": 91,
+        "name": "91 REPUBLICA DE CUBA-ALLENDE",
+        "districtna": "Centro",
+        "coordinates": [
+            -99.137570999999994,
+            19.4374
+        ]
+    },
+    {
+        "FID": 264,
+        "id": 359,
+        "name": "359 MATIAS ROMERO -PESTALLOZZI",
+        "districtna": "Del Valle Centro",
+        "coordinates": [
+            -99.161169000000001,
+            19.379269000000001
+        ]
+    },
+    {
+        "FID": 265,
+        "id": 292,
+        "name": "292 ADOLFO PRIETO-EJE 4 SUR XOLA",
+        "districtna": "Del Valle Norte",
+        "coordinates": [
+            -99.166263999999998,
+            19.396916999999998
+        ]
+    },
+    {
+        "FID": 266,
+        "id": 377,
+        "name": "377 HERIBERTO FRÍAS-MIGUEL LAURENT",
+        "districtna": "Del Valle Sur",
+        "coordinates": [
+            -99.163749999999993,
+            19.375394
+        ]
+    },
+    {
+        "FID": 267,
+        "id": 400,
+        "name": "400 SAN LORENZO-HERIBERTO FRIAS",
+        "districtna": "Del Valle Sur",
+        "coordinates": [
+            -99.164274300000002,
+            19.372645800000001
+        ]
+    },
+    {
+        "FID": 268,
+        "id": 433,
+        "name": "433 JOSE MARÍA OLLOQUI-LOPÉZ COSTILLA",
+        "districtna": "Del Valle Sur",
+        "coordinates": [
+            -99.170818999999995,
+            19.363558000000001
+        ]
+    },
+    {
+        "FID": 269,
+        "id": 424,
+        "name": "424 AMORES-JOSÉ MARÍA RICO (EJE 8)",
+        "districtna": "Del Valle Sur",
+        "coordinates": [
+            -99.170530999999997,
+            19.367208000000002
+        ]
+    },
+    {
+        "FID": 270,
+        "id": 172,
+        "name": "172 GENERAL FRANCISCO MURGUIA-JOSE MARTÍ",
+        "districtna": "Escandón",
+        "coordinates": [
+            -99.181600200000005,
+            19.403492100000001
+        ]
+    },
+    {
+        "FID": 271,
+        "id": 383,
+        "name": "383 LUIS CARACCI-2DA. LUIS CARACCI",
+        "districtna": "Extremadura Insurgentes",
+        "coordinates": [
+            -99.181527000000003,
+            19.375764
+        ]
+    },
+    {
+        "FID": 272,
+        "id": 178,
+        "name": "178 TAMAULIPAS-FRANCISCO MURGUÍA",
+        "districtna": "Hipódromo Condesa",
+        "coordinates": [
+            -99.180457000000004,
+            19.406832999999999
+        ]
+    },
+    {
+        "FID": 273,
+        "id": 449,
+        "name": "E449 ACAPULCO-PUEBLA",
+        "districtna": "Juárez",
+        "coordinates": [
+            -99.174392999999995,
+            19.420179999999998
+        ]
+    },
+    {
+        "FID": 274,
+        "id": 114,
+        "name": "114 LUCERNA-ABRAHAM GONZALEZ",
+        "districtna": "Juárez",
+        "coordinates": [
+            -99.153617999999994,
+            19.428989000000001
+        ]
+    },
+    {
+        "FID": 275,
+        "id": 33,
+        "name": "E33 LONDRES-FLORENCIA",
+        "districtna": "Juárez",
+        "coordinates": [
+            -99.166431000000003,
+            19.424233999999998
+        ]
+    },
+    {
+        "FID": 276,
+        "id": 28,
+        "name": "28 TOLEDO-TOKIO",
+        "districtna": "Juárez",
+        "coordinates": [
+            -99.172494,
+            19.423542000000001
+        ]
+    },
+    {
+        "FID": 277,
+        "id": 296,
+        "name": "E296 DIAGONAL SAN ANTONIO-ENRIQUE RÉBSAMEN",
+        "districtna": "Narvarte Poniente",
+        "coordinates": [
+            -99.158755999999997,
+            19.394283000000001
+        ]
+    },
+    {
+        "FID": 278,
+        "id": 451,
+        "name": "451 CAMPOS ELÍSEOS-GOLDSMITH",
+        "districtna": "Polanco",
+        "coordinates": [
+            -99.201322000000005,
+            19.429020000000001
+        ]
+    },
+    {
+        "FID": 279,
+        "id": 205,
+        "name": "205 TAINE-HOMERO",
+        "districtna": "Polanco",
+        "coordinates": [
+            -99.184713000000002,
+            19.435524999999998
+        ]
+    },
+    {
+        "FID": 280,
+        "id": 215,
+        "name": "215 EDGAR ALAN POE-HORACIO",
+        "districtna": "Polanco",
+        "coordinates": [
+            -99.199680000000001,
+            19.43384
+        ]
+    },
+    {
+        "FID": 281,
+        "id": 407,
+        "name": "407 PROL. XOCHICALCO-GENERAL EMILIANO ZAPATA",
+        "districtna": "Residencial Emperadores",
+        "coordinates": [
+            -99.158693999999997,
+            19.367294000000001
+        ]
+    },
+    {
+        "FID": 282,
+        "id": 56,
+        "name": "56 ALVARO OBREGON-MEDELLIN",
+        "districtna": "Roma Norte",
+        "coordinates": [
+            -99.165701999999996,
+            19.416958999999999
+        ]
+    },
+    {
+        "FID": 283,
+        "id": 44,
+        "name": "44 DURANGO-VERACRUZ",
+        "districtna": "Roma Norte",
+        "coordinates": [
+            -99.174761000000004,
+            19.418057000000001
+        ]
+    },
+    {
+        "FID": 284,
+        "id": 136,
+        "name": "136 ÁLVARO OBREGÓN-TONALÁ",
+        "districtna": "Roma Norte",
+        "coordinates": [
+            -99.162728999999999,
+            19.417715000000001
+        ]
+    },
+    {
+        "FID": 285,
+        "id": 144,
+        "name": "144 FRONTERA-SAN LUIS POTOSÍ",
+        "districtna": "Roma Norte",
+        "coordinates": [
+            -99.154837000000001,
+            19.415192000000001
+        ]
+    },
+    {
+        "FID": 286,
+        "id": 159,
+        "name": "159 HUATABAMPO-EJE 1 PTE. AV. CUAUHTÉMOC",
+        "districtna": "Roma Sur",
+        "coordinates": [
+            -99.155372999999997,
+            19.407516999999999
+        ]
+    },
+    {
+        "FID": 287,
+        "id": 163,
+        "name": "163 TOLUCA-BAJÍO",
+        "districtna": "Roma Sur",
+        "coordinates": [
+            -99.156430999999998,
+            19.405246000000002
+        ]
+    },
+    {
+        "FID": 288,
+        "id": 165,
+        "name": "165 BAJÍO-EJE 2 PTE. MONTERREY",
+        "districtna": "Roma Sur",
+        "coordinates": [
+            -99.160503000000006,
+            19.404267999999998
+        ]
+    },
+    {
+        "FID": 289,
+        "id": 430,
+        "name": "430 TRIPOLI-AV. POPOCATEPETL (EJE 8)",
+        "districtna": "Santa Cruz Atoyac",
+        "coordinates": [
+            -99.154973999999996,
+            19.362138999999999
+        ]
+    },
+    {
+        "FID": 290,
+        "id": 185,
+        "name": "185 GRAL ANTONIO LÉON-GRAL PEDRO A DE LOS S.",
+        "districtna": "San Miguel Chapultepec",
+        "coordinates": [
+            -99.1828,
+            19.412800000000001
+        ]
+    },
+    {
+        "FID": 291,
+        "id": 329,
+        "name": "329 CALLE 13-AVENIDA 1",
+        "districtna": "San Pedro de los Pinos",
+        "coordinates": [
+            -99.184811999999994,
+            19.390305999999999
+        ]
+    },
+    {
+        "FID": 292,
+        "id": 103,
+        "name": "103 JOAQUÍN VELÁZQUEZ DE LEÓN-GARCÍA ICAZBALCETA",
+        "districtna": "San Rafael",
+        "coordinates": [
+            -99.165216999999998,
+            19.441669000000001
+        ]
+    },
+    {
+        "FID": 293,
+        "id": 270,
+        "name": "270 DE LA REPUBLICA-PONCIANO ARRIAGA",
+        "districtna": "Tabacalera",
+        "coordinates": [
+            -99.153869999999998,
+            19.43676
+        ]
+    },
+    {
+        "FID": 294,
+        "id": 438,
+        "name": "438 ADOLFO PRIETO-JOSÉ MARÍA OLLOQUI",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.174583330000004,
+            19.36479722
+        ]
+    },
+    {
+        "FID": 295,
+        "id": 16,
+        "name": "16 REFORMA-RÍO TIBER",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.168242000000006,
+            19.427226000000001
+        ]
+    },
+    {
+        "FID": 296,
+        "id": 21,
+        "name": "21 REFORMA-DUBLIN",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.172060000000002,
+            19.424720000000001
+        ]
+    },
+    {
+        "FID": 297,
+        "id": 111,
+        "name": "111 GUILLERMO PRIETO-JOAQUÍN VELÁZQUEZ DE LEÓN",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.165946500000004,
+            19.4382369
+        ]
+    },
+    {
+        "FID": 298,
+        "id": 171,
+        "name": "171 COMERCIO-JOSE MARTÍ",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.178199000000006,
+            19.402584000000001
+        ]
+    },
+    {
+        "FID": 299,
+        "id": 227,
+        "name": "227 CAMPOS ELÍSEOS-PERIFÉRICO",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.207373000000004,
+            19.431791
+        ]
+    },
+    {
+        "FID": 300,
+        "id": 243,
+        "name": "243 MIGUEL DE CERVANTES SAAVEDRA-LAGO FILT",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.196712000000005,
+            19.440839
+        ]
+    },
+    {
+        "FID": 301,
+        "id": 259,
+        "name": "259 TÓMAS ALVA EDISON-PONCIANO ARRIAGA",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.154679999999999,
+            19.437570000000001
+        ]
+    },
+    {
+        "FID": 302,
+        "id": 322,
+        "name": "322 HERIBERTO FRÍAS-CONCEPCIÓN BEISTEGUI",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.160616000000005,
+            19.388528000000001
+        ]
+    },
+    {
+        "FID": 303,
+        "id": 471,
+        "name": "471 BAHÍA DE CHACHALACAS-BAHÍA SANTA BÁRBARA",
+        "districtna": "Anzures",
+        "coordinates": [
+            -99.174887999999996,
+            19.436287
+        ]
+    },
+    {
+        "FID": 304,
+        "id": 363,
+        "name": "363 HOLBEIN-PAULO UCELLO",
+        "districtna": "Ciudad de los Deportes",
+        "coordinates": [
+            -99.183851000000004,
+            19.380813
+        ]
+    },
+    {
+        "FID": 305,
+        "id": 89,
+        "name": "89 REPUBLICA DE GUATEMALA-MONTE DE PIEDAD",
+        "districtna": "Centro",
+        "coordinates": [
+            -99.133989,
+            19.434946
+        ]
+    },
+    {
+        "FID": 306,
+        "id": 43,
+        "name": "43 JUAREZ-REVILLAGIGEDO",
+        "districtna": "Centro",
+        "coordinates": [
+            -99.146062999999998,
+            19.435227999999999
+        ]
+    },
+    {
+        "FID": 307,
+        "id": 195,
+        "name": "195 AV. PASEO DE LA REFORMA-CTO MAHATMA GANDHI",
+        "districtna": "Bosque de Chapultepec",
+        "coordinates": [
+            -99.185147000000001,
+            19.424925999999999
+        ]
+    },
+    {
+        "FID": 308,
+        "id": 62,
+        "name": "62 FERNANDO MONTES DE OCA-AMATLAN",
+        "districtna": "Condesa",
+        "coordinates": [
+            -99.175201999999999,
+            19.413322000000001
+        ]
+    },
+    {
+        "FID": 309,
+        "id": 20,
+        "name": "20 REFORMA-RIO TAMESIS",
+        "districtna": "Cuauhtémoc",
+        "coordinates": [
+            -99.160206000000002,
+            19.430963999999999
+        ]
+    },
+    {
+        "FID": 310,
+        "id": 9,
+        "name": "9 RIO GUADALQUIVIR-RIO LERMA",
+        "districtna": "Cuauhtémoc",
+        "coordinates": [
+            -99.169917999999996,
+            19.428008999999999
+        ]
+    },
+    {
+        "FID": 311,
+        "id": 358,
+        "name": "358 NICOLAS SAN JUAN-MATIAS ROMERO",
+        "districtna": "Del Valle Centro",
+        "coordinates": [
+            -99.164221999999995,
+            19.380168000000001
+        ]
+    },
+    {
+        "FID": 312,
+        "id": 316,
+        "name": "316 SAN FRANCISCO-CONCEPCIÓN BEISTEGUI",
+        "districtna": "Del Valle Norte",
+        "coordinates": [
+            -99.171199999999999,
+            19.391055999999999
+        ]
+    },
+    {
+        "FID": 313,
+        "id": 285,
+        "name": "285 12 DE OCTUBRE-MINERIA",
+        "districtna": "Escandón",
+        "coordinates": [
+            -99.177517800000004,
+            19.3997946
+        ]
+    },
+    {
+        "FID": 314,
+        "id": 76,
+        "name": "76 CHILPANCINGO-CAMPECHE",
+        "districtna": "Hipódromo",
+        "coordinates": [
+            -99.169912999999994,
+            19.408736000000001
+        ]
+    },
+    {
+        "FID": 315,
+        "id": 81,
+        "name": "81 AGUASCALIENTES-INSURGENTES",
+        "districtna": "Hipódromo",
+        "coordinates": [
+            -99.168475000000001,
+            19.408006
+        ]
+    },
+    {
+        "FID": 316,
+        "id": 84,
+        "name": "84 CHILPANCINGO-TLAXCALA",
+        "districtna": "Hipódromo",
+        "coordinates": [
+            -99.169587000000007,
+            19.407019999999999
+        ]
+    },
+    {
+        "FID": 317,
+        "id": 419,
+        "name": "419 ACTIPAN-CADIZ",
+        "districtna": "Insurgentes Mixcoac",
+        "coordinates": [
+            -99.181501999999995,
+            19.370605999999999
+        ]
+    },
+    {
+        "FID": 318,
+        "id": 385,
+        "name": "385 POUSSIN-EMPRESA",
+        "districtna": "Insurgentes Mixcoac",
+        "coordinates": [
+            -99.185580000000002,
+            19.375651000000001
+        ]
+    },
+    {
+        "FID": 319,
+        "id": 23,
+        "name": "23 REFORMA-PRAGA",
+        "districtna": "Juárez",
+        "coordinates": [
+            -99.171049999999994,
+            19.425170000000001
+        ]
+    },
+    {
+        "FID": 320,
+        "id": 375,
+        "name": "375 TENAYUCA-DIVISIÓN DEL NORTE",
+        "districtna": "Letran Valle",
+        "coordinates": [
+            -99.158817999999997,
+            19.376864999999999
+        ]
+    },
+    {
+        "FID": 321,
+        "id": 276,
+        "name": "276 ANAXÁGORAS-OBRERO MUNDIAL",
+        "districtna": "Narvarte Poniente",
+        "coordinates": [
+            -99.156366000000006,
+            19.401986000000001
+        ]
+    },
+    {
+        "FID": 322,
+        "id": 241,
+        "name": "E241 EJERCITO NAL-JUAN VAZQUEZ DE LA MELLA",
+        "districtna": "Polanco",
+        "coordinates": [
+            -99.207579999999993,
+            19.43862
+        ]
+    },
+    {
+        "FID": 323,
+        "id": 199,
+        "name": "199 ANATOLE FRANCE-AV. EJERCITO NACIONAL",
+        "districtna": "Polanco",
+        "coordinates": [
+            -99.197241000000005,
+            19.437933999999998
+        ]
+    },
+    {
+        "FID": 324,
+        "id": 214,
+        "name": "214 PLATÓN-HORACIO",
+        "districtna": "Polanco",
+        "coordinates": [
+            -99.203220000000002,
+            19.434353000000002
+        ]
+    },
+    {
+        "FID": 325,
+        "id": 216,
+        "name": "216 ALEJANDRO DUMAS-HORACIO",
+        "districtna": "Polanco",
+        "coordinates": [
+            -99.195746,
+            19.433419000000001
+        ]
+    },
+    {
+        "FID": 326,
+        "id": 218,
+        "name": "218 HEGEL-IBARBOUROU",
+        "districtna": "Polanco",
+        "coordinates": [
+            -99.188033000000004,
+            19.432451
+        ]
+    },
+    {
+        "FID": 327,
+        "id": 158,
+        "name": "158 HUATABAMPO-EJE 1PTE. CUAUHTÉMOC",
+        "districtna": "Roma Sur",
+        "coordinates": [
+            -99.155716999999996,
+            19.407447000000001
+        ]
+    },
+    {
+        "FID": 328,
+        "id": 164,
+        "name": "164 BAJÍO-TLACOTALPAN",
+        "districtna": "Roma Sur",
+        "coordinates": [
+            -99.165959999999998,
+            19.403203999999999
+        ]
+    },
+    {
+        "FID": 329,
+        "id": 188,
+        "name": "188 GDOR MELCHOR MÚZQUIZ-GDOR IGNACIO ESTEVA",
+        "districtna": "San Miguel Chapultepec",
+        "coordinates": [
+            -99.19014,
+            19.411709999999999
+        ]
+    },
+    {
+        "FID": 330,
+        "id": 364,
+        "name": "364 BOTICHELLI-CDA. DE GIORGONE",
+        "districtna": "Santa María Nonoalco",
+        "coordinates": [
+            -99.185857999999996,
+            19.383063
+        ]
+    },
+    {
+        "FID": 331,
+        "id": 393,
+        "name": "393 ADOLFO PRIETO-FELIX CUEVAS",
+        "districtna": "Tlacoquemecatl",
+        "coordinates": [
+            -99.172557999999995,
+            19.372796000000001
+        ]
+    },
+    {
+        "FID": 332,
+        "id": 443,
+        "name": "443 BRUNO TRAVEN-GOLONDRINAS",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.162025,
+            19.359655
+        ]
+    },
+    {
+        "FID": 333,
+        "id": 12,
+        "name": "12 RIO LERMA-VILLALONGIN",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.161597,
+            19.432313000000001
+        ]
+    },
+    {
+        "FID": 334,
+        "id": 41,
+        "name": "41 REFORMA-AV. DE LA REPUBLICA",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.150137000000001,
+            19.435637
+        ]
+    },
+    {
+        "FID": 335,
+        "id": 57,
+        "name": "57 CUERNAVACA-JUAN ESCUTIA",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.174949999999995,
+            19.414902999999999
+        ]
+    },
+    {
+        "FID": 336,
+        "id": 74,
+        "name": "74 NUEVO LEON-OZULAMA",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.172831000000002,
+            19.410343000000001
+        ]
+    },
+    {
+        "FID": 337,
+        "id": 232,
+        "name": "232 TAINE-RUBEN DARÍO",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.185389000000001,
+            19.428940000000001
+        ]
+    },
+    {
+        "FID": 338,
+        "id": 261,
+        "name": "261 PASEO DE LA REFORMA - RÍO DE LA PLATA",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.172460000000001,
+            19.424949999999999
+        ]
+    },
+    {
+        "FID": 339,
+        "id": 264,
+        "name": "264 HÉROES FERROCARRILEROS-AV. CENTRAL",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.152934999999999,
+            19.440985000000001
+        ]
+    },
+    {
+        "FID": 340,
+        "id": 277,
+        "name": "277 AMPLIACIÓN TONALÁ-OBRERO MUNDIAL",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.159090000000006,
+            19.401807000000002
+        ]
+    },
+    {
+        "FID": 341,
+        "id": 469,
+        "name": "E469 BAHÍA DE LA CONCEPCIÓN-BAHÍA DE TODOS LOS SAN",
+        "districtna": "Anzures",
+        "coordinates": [
+            -99.173089000000004,
+            19.434183000000001
+        ]
+    },
+    {
+        "FID": 342,
+        "id": 452,
+        "name": "452 LEIBNITZ-AV. EJERCITO NACIONAL",
+        "districtna": "Anzures",
+        "coordinates": [
+            -99.179838000000004,
+            19.435030999999999
+        ]
+    },
+    {
+        "FID": 343,
+        "id": 274,
+        "name": "274 LUIS DONALDO COLOSIO-AV INSURGENTES NORTE",
+        "districtna": "Buenavista",
+        "coordinates": [
+            -99.153289000000001,
+            19.442772000000001
+        ]
+    },
+    {
+        "FID": 344,
+        "id": 176,
+        "name": "176 AV. JESÜS GARCÏA-LUIS DONALDO COLOSIO",
+        "districtna": "Buenavista",
+        "coordinates": [
+            -99.152286000000004,
+            19.442689000000001
+        ]
+    },
+    {
+        "FID": 345,
+        "id": 362,
+        "name": "362 AUGUSTO RODIN-ALBERTO BALDERAS",
+        "districtna": "Ciudad de los Deportes",
+        "coordinates": [
+            -99.181043000000003,
+            19.382207000000001
+        ]
+    },
+    {
+        "FID": 346,
+        "id": 50,
+        "name": "50 CUERNAVACA-VERACRUZ",
+        "districtna": "Condesa",
+        "coordinates": [
+            -99.173648,
+            19.416937999999998
+        ]
+    },
+    {
+        "FID": 347,
+        "id": 68,
+        "name": "68 TAMAULIPAS-MICHOACAN",
+        "districtna": "Condesa",
+        "coordinates": [
+            -99.174059999999997,
+            19.411556000000001
+        ]
+    },
+    {
+        "FID": 348,
+        "id": 4,
+        "name": "4 RIO NILO-RIO PANUCO",
+        "districtna": "Cuauhtémoc",
+        "coordinates": [
+            -99.171712999999997,
+            19.428308999999999
+        ]
+    },
+    {
+        "FID": 349,
+        "id": 357,
+        "name": "357 MATIAS ROMERO -AMORES",
+        "districtna": "Del Valle Centro",
+        "coordinates": [
+            -99.166924800000004,
+            19.380597999999999
+        ]
+    },
+    {
+        "FID": 350,
+        "id": 323,
+        "name": "323 CONCEPCIÓN BEISTEGUI-GABRIEL MANCERA",
+        "districtna": "Del Valle Norte",
+        "coordinates": [
+            -99.163403000000002,
+            19.389026000000001
+        ]
+    },
+    {
+        "FID": 351,
+        "id": 298,
+        "name": "298 ROMERO DE TERREROS-GABRIEL MANCERA",
+        "districtna": "Del Valle Norte",
+        "coordinates": [
+            -99.162139999999994,
+            19.394072999999999
+        ]
+    },
+    {
+        "FID": 352,
+        "id": 182,
+        "name": "182 PROGRESO-ASTRONOMOS",
+        "districtna": "Hipódromo",
+        "coordinates": [
+            -99.171390000000002,
+            19.402089
+        ]
+    },
+    {
+        "FID": 353,
+        "id": 387,
+        "name": "387 CADIZ-EMPRESA",
+        "districtna": "Insurgentes Mixcoac",
+        "coordinates": [
+            -99.180505555600007,
+            19.374555560000001
+        ]
+    },
+    {
+        "FID": 354,
+        "id": 458,
+        "name": "458 MONTES URALES-VOLCÁN",
+        "districtna": "Lomas de Chapultepec Sección III",
+        "coordinates": [
+            -99.206604999999996,
+            19.428678999999999
+        ]
+    },
+    {
+        "FID": 355,
+        "id": 303,
+        "name": "303 MONTESITO-AV. INSURGENTES",
+        "districtna": "Nápoles",
+        "coordinates": [
+            -99.173024999999996,
+            19.394842000000001
+        ]
+    },
+    {
+        "FID": 356,
+        "id": 354,
+        "name": "354 BOSTON-AV. INSURGENTES",
+        "districtna": "Noche Buena",
+        "coordinates": [
+            -99.176685000000006,
+            19.381665000000002
+        ]
+    },
+    {
+        "FID": 357,
+        "id": 203,
+        "name": "203 TENNYSON-AV. HOMERO",
+        "districtna": "Polanco",
+        "coordinates": [
+            -99.194832000000005,
+            19.435984999999999
+        ]
+    },
+    {
+        "FID": 358,
+        "id": 219,
+        "name": "219 ESOPO-FC DE CUERNAVACA",
+        "districtna": "Polanco",
+        "coordinates": [
+            -99.207808,
+            19.433541999999999
+        ]
+    },
+    {
+        "FID": 359,
+        "id": 127,
+        "name": "127 PUEBLA-MERIDA",
+        "districtna": "Roma Norte",
+        "coordinates": [
+            -99.158330000000007,
+            19.423317999999998
+        ]
+    },
+    {
+        "FID": 360,
+        "id": 139,
+        "name": "E139 TONALÁ-GUANJUATO",
+        "districtna": "Roma Norte",
+        "coordinates": [
+            -99.162097000000003,
+            19.416128
+        ]
+    },
+    {
+        "FID": 361,
+        "id": 155,
+        "name": "E155 JALAPA-TLAXCALA",
+        "districtna": "Roma Sur",
+        "coordinates": [
+            -99.159910999999994,
+            19.408218000000002
+        ]
+    },
+    {
+        "FID": 362,
+        "id": 409,
+        "name": "409 AZORES-DIVISIÓN DEL NORTE",
+        "districtna": "Santa Cruz Atoyac",
+        "coordinates": [
+            -99.155499000000006,
+            19.365102
+        ]
+    },
+    {
+        "FID": 363,
+        "id": 328,
+        "name": "328 AVENIDA 1-CALLE 7",
+        "districtna": "San Pedro de los Pinos",
+        "coordinates": [
+            -99.184742,
+            19.392586000000001
+        ]
+    },
+    {
+        "FID": 364,
+        "id": 254,
+        "name": "254 ALFONSO HERRERA-MIGUEL SHULTZ",
+        "districtna": "San Rafael",
+        "coordinates": [
+            -99.160070000000005,
+            19.439350000000001
+        ]
+    },
+    {
+        "FID": 365,
+        "id": 8,
+        "name": "8 REFORMA-GENERAL PRIM",
+        "districtna": "Tabacalera",
+        "coordinates": [
+            -99.158316999999997,
+            19.431141
+        ]
+    },
+    {
+        "FID": 366,
+        "id": 245,
+        "name": "245 LAGO ONEGA-AV. EJERCITO NACIONAL",
+        "districtna": "Granada",
+        "coordinates": [
+            -99.190479999999994,
+            19.438189999999999
+        ]
+    },
+    {
+        "FID": 367,
+        "id": 461,
+        "name": "461 PRESA DON MARTÍN-BOULEVARD MIGUEL DE CERVANTES",
+        "districtna": "Irrigación",
+        "coordinates": [
+            -99.210031000000001,
+            19.440106
+        ]
+    },
+    {
+        "FID": 368,
+        "id": 167,
+        "name": "167 GENERAL SALVADOR ALVARADO-PROGRESO",
+        "districtna": "Escandón",
+        "coordinates": [
+            -99.179374999999993,
+            19.404651000000001
+        ]
+    },
+    {
+        "FID": 369,
+        "id": 467,
+        "name": "E467  LAGO MAYOR-LAGO ALBERTO",
+        "districtna": "Granada",
+        "coordinates": [
+            -99.186784000000003,
+            19.440398999999999
+        ]
+    },
+    {
+        "FID": 370,
+        "id": 326,
+        "name": "326 EUGENIA-NEBRASKA",
+        "districtna": "Ampliación Nápoles",
+        "coordinates": [
+            -99.174811000000005,
+            19.388978000000002
+        ]
+    },
+    {
+        "FID": 371,
+        "id": 253,
+        "name": "253 DANTE-TOLSTOI",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.177924000000004,
+            19.425834999999999
+        ]
+    },
+    {
+        "FID": 372,
+        "id": 437,
+        "name": "437 MORAS-COMUNAL",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.176022219999993,
+            19.364808329999999
+        ]
+    },
+    {
+        "FID": 373,
+        "id": 123,
+        "name": "123 CLAUDIO BERNARD-DR. LAVISTA",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.153116999999995,
+            19.424161000000002
+        ]
+    },
+    {
+        "FID": 374,
+        "id": 98,
+        "name": "98 EMILIO DONDE-AV. BALDERAS",
+        "districtna": "Centro",
+        "coordinates": [
+            -99.148610000000005,
+            19.430267000000001
+        ]
+    },
+    {
+        "FID": 375,
+        "id": 268,
+        "name": "268 LUIS DONALDO COLOSIO-AV.JESÚS GARCÍA",
+        "districtna": "Buenavista",
+        "coordinates": [
+            -99.151657999999998,
+            19.442467000000001
+        ]
+    },
+    {
+        "FID": 376,
+        "id": 477,
+        "name": "477 LAGO ISEO-LAGUNA DE MAYRÁN",
+        "districtna": "Anáhuac I",
+        "coordinates": [
+            -99.181742999999997,
+            19.440905000000001
+        ]
+    },
+    {
+        "FID": 377,
+        "id": 286,
+        "name": "286 13 DE SEPTIEMBRE-AVENIDA PATRIOTISMO",
+        "districtna": "Escandón",
+        "coordinates": [
+            -99.179942999999994,
+            19.399201000000001
+        ]
+    },
+    {
+        "FID": 378,
+        "id": 396,
+        "name": "396 MARTÍN MENLALDE-FELIX CUEVAS",
+        "districtna": "Del Valle Sur",
+        "coordinates": [
+            -99.170186999999999,
+            19.371554
+        ]
+    },
+    {
+        "FID": 379,
+        "id": 337,
+        "name": "337 SAN BORJA-MARTÍN MENLALDE",
+        "districtna": "Del Valle Centro",
+        "coordinates": [
+            -99.16704,
+            19.384848999999999
+        ]
+    },
+    {
+        "FID": 380,
+        "id": 297,
+        "name": "297 DIAGONAL SAN ANTONIO-ENRIQUE RÉBSAMEN",
+        "districtna": "Narvarte Poniente",
+        "coordinates": [
+            -99.158906999999999,
+            19.394411999999999
+        ]
+    },
+    {
+        "FID": 381,
+        "id": 294,
+        "name": "294 NICOLÁS SAN JUAN-EJE 4 SUR XOLA",
+        "districtna": "Narvarte Poniente",
+        "coordinates": [
+            -99.160923999999994,
+            19.396512999999999
+        ]
+    },
+    {
+        "FID": 382,
+        "id": 376,
+        "name": "376 PITÁGORAS-AV. UNIVERSIDAD",
+        "districtna": "Letran Valle",
+        "coordinates": [
+            -99.161595000000005,
+            19.375442
+        ]
+    },
+    {
+        "FID": 383,
+        "id": 116,
+        "name": "116 LONDRES-ROMA",
+        "districtna": "Juárez",
+        "coordinates": [
+            -99.156639999999996,
+            19.428985000000001
+        ]
+    },
+    {
+        "FID": 384,
+        "id": 408,
+        "name": "408 PROLONGACIÓN PETÉN-GENERAL EMILIANO ZAPATA",
+        "districtna": "Residencial Emperadores",
+        "coordinates": [
+            -99.156842999999995,
+            19.366769999999999
+        ]
+    },
+    {
+        "FID": 385,
+        "id": 190,
+        "name": "E190 GDOR IGNACIO ESTEVA-MTRO JOSÉ VASCONCELOS",
+        "districtna": "San Miguel Chapultepec",
+        "coordinates": [
+            -99.183833000000007,
+            19.409569000000001
+        ]
+    },
+    {
+        "FID": 386,
+        "id": 382,
+        "name": "382 SAN LORENZO-AV. INSURGENTES",
+        "districtna": "Tlacoquemecatl",
+        "coordinates": [
+            -99.178083999999998,
+            19.375591
+        ]
+    },
+    {
+        "FID": 387,
+        "id": 441,
+        "name": "441 PUENTE XOCO-REAL DE MAYORAZGO",
+        "districtna": "Xoco",
+        "coordinates": [
+            -99.167527000000007,
+            19.361215000000001
+        ]
+    },
+    {
+        "FID": 388,
+        "id": 191,
+        "name": "191 GDOR RAFAEL REBOLLAR-GDOR VICENTE EGUIA",
+        "districtna": "San Miguel Chapultepec",
+        "coordinates": [
+            -99.187950000000001,
+            19.407900000000001
+        ]
+    },
+    {
+        "FID": 389,
+        "id": 161,
+        "name": "161 QUINTANA ROO-MANZANILLO",
+        "districtna": "Roma Sur",
+        "coordinates": [
+            -99.164912999999999,
+            19.405532999999998
+        ]
+    },
+    {
+        "FID": 390,
+        "id": 54,
+        "name": "54 PARQUE ESPAÑA-SONORA",
+        "districtna": "Condesa",
+        "coordinates": [
+            -99.170824999999994,
+            19.416215000000001
+        ]
+    },
+    {
+        "FID": 391,
+        "id": 122,
+        "name": "122 JOSE MARIA VERTIZ-AV.DR. RIO DE LA LOZA",
+        "districtna": "Doctores",
+        "coordinates": [
+            -99.146337000000003,
+            19.425502000000002
+        ]
+    },
+    {
+        "FID": 392,
+        "id": 11,
+        "name": "11 RIO AMAZONAS-RIO LERMA",
+        "districtna": "Cuauhtémoc",
+        "coordinates": [
+            -99.163593000000006,
+            19.430992
+        ]
+    },
+    {
+        "FID": 393,
+        "id": 465,
+        "name": "465 LAGUNA DE GINEBRA-LAGO WETTER",
+        "districtna": "Cuauhtémoc Pensil",
+        "coordinates": [
+            -99.194078000000005,
+            19.445039000000001
+        ]
+    },
+    {
+        "FID": 394,
+        "id": 237,
+        "name": "237 ANDRÉS BELLO-ELLIOT",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.193985999999995,
+            19.426743999999999
+        ]
+    },
+    {
+        "FID": 395,
+        "id": 343,
+        "name": "343 ENRIQUE RÉBSAMEN-DIVISIÓN DEL NORTE",
+        "districtna": "Del Valle Centro",
+        "coordinates": [
+            -99.160826,
+            19.384098999999999
+        ]
+    },
+    {
+        "FID": 396,
+        "id": 293,
+        "name": "293 MIER Y PESADO-EJE 4 SUR XOLA",
+        "districtna": "Del Valle Norte",
+        "coordinates": [
+            -99.164597999999998,
+            19.397373000000002
+        ]
+    },
+    {
+        "FID": 397,
+        "id": 432,
+        "name": "432 CARRILLO PUERTO-AV. MÉXICO-COYOACÁN",
+        "districtna": "General Pedro Maria Anaya",
+        "coordinates": [
+            -99.162581000000003,
+            19.361295999999999
+        ]
+    },
+    {
+        "FID": 398,
+        "id": 287,
+        "name": "287 13 DE SEPTIEMBRE-PUENTE DE LA MORENA",
+        "districtna": "Escandón",
+        "coordinates": [
+            -99.183254000000005,
+            19.398945999999999
+        ]
+    },
+    {
+        "FID": 399,
+        "id": 301,
+        "name": "301 LUZ SAVIÑÓN-MAGDALENA",
+        "districtna": "Del Valle Norte",
+        "coordinates": [
+            -99.171132999999998,
+            19.393806999999999
+        ]
+    },
+    {
+        "FID": 400,
+        "id": 406,
+        "name": "406 PARROQUIA AV. MEXICO-COYOACAN",
+        "districtna": "Santa Cruz Atoyac",
+        "coordinates": [
+            -99.163261000000006,
+            19.367830999999999
+        ]
+    },
+    {
+        "FID": 401,
+        "id": 332,
+        "name": "332 SUR DE CALLE 27-AVENIDA 3",
+        "districtna": "San Pedro de los Pinos",
+        "coordinates": [
+            -99.183808999999997,
+            19.385508000000002
+        ]
+    },
+    {
+        "FID": 402,
+        "id": 312,
+        "name": "312 AVENIDA 2-CALLE 7",
+        "districtna": "San Pedro de los Pinos",
+        "coordinates": [
+            -99.183736999999994,
+            19.392634000000001
+        ]
+    },
+    {
+        "FID": 403,
+        "id": 371,
+        "name": "371 TLACOQUEMECATL-CAPULIN",
+        "districtna": "Tlacoquemecatl",
+        "coordinates": [
+            -99.174328000000003,
+            19.378541999999999
+        ]
+    },
+    {
+        "FID": 404,
+        "id": 142,
+        "name": "142 SAN LUIS POTOSI-EJE 2 PTE. MONTERREY",
+        "districtna": "Roma Norte",
+        "coordinates": [
+            -99.164120999999994,
+            19.413232000000001
+        ]
+    },
+    {
+        "FID": 405,
+        "id": 348,
+        "name": "348 INDIANA-AVENIDA SAN ANTONIO",
+        "districtna": "Ciudad de los Deportes",
+        "coordinates": [
+            -99.178216000000006,
+            19.385365
+        ]
+    },
+    {
+        "FID": 406,
+        "id": 342,
+        "name": "342 ANAXÁGORAS-ANGEL URRAZA EJE 6 SUR",
+        "districtna": "Narvarte Poniente",
+        "coordinates": [
+            -99.159454999999994,
+            19.381076
+        ]
+    },
+    {
+        "FID": 407,
+        "id": 196,
+        "name": "196 LAGO TANGANICA-AV. EJERCITO NACIONAL",
+        "districtna": "Polanco",
+        "coordinates": [
+            -99.192903999999999,
+            19.438348999999999
+        ]
+    },
+    {
+        "FID": 408,
+        "id": 35,
+        "name": "35 LIVERPOOL-GENOVA",
+        "districtna": "Juárez",
+        "coordinates": [
+            -99.163291999999998,
+            19.424674
+        ]
+    },
+    {
+        "FID": 409,
+        "id": 27,
+        "name": "27 REFORMA-HAVRE",
+        "districtna": "Juárez",
+        "coordinates": [
+            -99.162614000000005,
+            19.429114999999999
+        ]
+    },
+    {
+        "FID": 410,
+        "id": 24,
+        "name": "24 REFORMA-VARSOVIA",
+        "districtna": "Juárez",
+        "coordinates": [
+            -99.168220000000005,
+            19.426469999999998
+        ]
+    },
+    {
+        "FID": 411,
+        "id": 61,
+        "name": "61 AVENIDA MEXICO-SONORA",
+        "districtna": "Hipódromo",
+        "coordinates": [
+            -99.169524999999993,
+            19.413741999999999
+        ]
+    },
+    {
+        "FID": 412,
+        "id": 69,
+        "name": "69 MICHOACAN-AMSTERDAM",
+        "districtna": "Hipódromo",
+        "coordinates": [
+            -99.168110999999996,
+            19.410733
+        ]
+    },
+    {
+        "FID": 413,
+        "id": 388,
+        "name": "388 VALENCIA-MALAGA",
+        "districtna": "Insurgentes Mixcoac",
+        "coordinates": [
+            -99.181354999999996,
+            19.373038000000001
+        ]
+    },
+    {
+        "FID": 414,
+        "id": 180,
+        "name": "180 QUINTANA ROO-VILLA HERMOSA",
+        "districtna": "Hipódromo",
+        "coordinates": [
+            -99.169953000000007,
+            19.404554000000001
+        ]
+    },
+    {
+        "FID": 415,
+        "id": 200,
+        "name": "200 EMERSON-AV. EJERCITO NACIONAL",
+        "districtna": "Polanco",
+        "coordinates": [
+            -99.188784999999996,
+            19.437595999999999
+        ]
+    },
+    {
+        "FID": 416,
+        "id": 229,
+        "name": "229 DICKENS-SENECA",
+        "districtna": "Polanco",
+        "coordinates": [
+            -99.203331000000006,
+            19.430515
+        ]
+    },
+    {
+        "FID": 417,
+        "id": 210,
+        "name": "210 EUGENIO SUE-HORACIO",
+        "districtna": "Polanco",
+        "coordinates": [
+            -99.194091,
+            19.434076000000001
+        ]
+    },
+    {
+        "FID": 418,
+        "id": 47,
+        "name": "47 GLORIETA CIBELES-OAXACA",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.166298999999995,
+            19.419515000000001
+        ]
+    },
+    {
+        "FID": 419,
+        "id": 13,
+        "name": "13 REFORMA-RIO MISSISSIPPI",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.172309999999996,
+            19.42502
+        ]
+    },
+    {
+        "FID": 420,
+        "id": 361,
+        "name": "361 PORFIRIO DÍAZ-CAPULÍN",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.175079999999994,
+            19.380709
+        ]
+    },
+    {
+        "FID": 421,
+        "id": 102,
+        "name": "102 ECHEVESTE-BOLIVAR",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.139489999999995,
+            19.42821
+        ]
+    },
+    {
+        "FID": 422,
+        "id": 154,
+        "name": "154 TUXPAN-TLAXCALA",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.167962000000003,
+            19.406683000000001
+        ]
+    },
+    {
+        "FID": 423,
+        "id": 283,
+        "name": "283 AV. COYOACÁN-RAFAEL DONDE",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.167383000000001,
+            19.39827
+        ]
+    },
+    {
+        "FID": 424,
+        "id": 321,
+        "name": "321 TORRES ADALID-ANAXÁGORAS",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.157512999999994,
+            19.389476999999999
+        ]
+    },
+    {
+        "FID": 425,
+        "id": 422,
+        "name": "422 BUFALO-JOSÉ MARÍA RICO (EJE 8)",
+        "districtna": "Actipan",
+        "coordinates": [
+            -99.177486999999999,
+            19.368355999999999
+        ]
+    },
+    {
+        "FID": 426,
+        "id": 468,
+        "name": "468 LAGO XOCHIMILCO-AV. EJÉRCITO NACIONAL",
+        "districtna": "Anáhuac I",
+        "coordinates": [
+            -99.173089000000004,
+            19.434183000000001
+        ]
+    },
+    {
+        "FID": 427,
+        "id": 269,
+        "name": "269 LUIS DONALDO COLOSIO-ALDAMA",
+        "districtna": "Buenavista",
+        "coordinates": [
+            -99.151585999999995,
+            19.442447999999999
+        ]
+    },
+    {
+        "FID": 428,
+        "id": 353,
+        "name": "353 CAROLINA-HOLBEIN",
+        "districtna": "Ciudad de los Deportes",
+        "coordinates": [
+            -99.178808000000004,
+            19.382168
+        ]
+    },
+    {
+        "FID": 429,
+        "id": 106,
+        "name": "106 SAN JERONIMO-JOSE MARIA PINO SUAREZ",
+        "districtna": "Centro",
+        "coordinates": [
+            -99.133537000000004,
+            19.426490000000001
+        ]
+    },
+    {
+        "FID": 430,
+        "id": 108,
+        "name": "E108 TOLSA-BALDERAS",
+        "districtna": "Centro",
+        "coordinates": [
+            -99.149533000000005,
+            19.427305
+        ]
+    },
+    {
+        "FID": 431,
+        "id": 29,
+        "name": "29 REFORMA-BUCARELI",
+        "districtna": "Centro",
+        "coordinates": [
+            -99.149939000000003,
+            19.434913000000002
+        ]
+    },
+    {
+        "FID": 432,
+        "id": 258,
+        "name": "258 CIRCUITO INTERIOR-JUAN ESCUTIA",
+        "districtna": "Condesa",
+        "coordinates": [
+            -99.179100000000005,
+            19.416699999999999
+        ]
+    },
+    {
+        "FID": 433,
+        "id": 398,
+        "name": "398 SANCHEZ AZCONA-FELIX CUEVAS",
+        "districtna": "Del Valle Sur",
+        "coordinates": [
+            -99.165660000000003,
+            19.371030000000001
+        ]
+    },
+    {
+        "FID": 434,
+        "id": 434,
+        "name": "E434 JOSE MARÍA OLLOQUI-AMORES",
+        "districtna": "Del Valle Sur",
+        "coordinates": [
+            -99.171267999999998,
+            19.363741000000001
+        ]
+    },
+    {
+        "FID": 435,
+        "id": 79,
+        "name": "79 SALTILLO-ALFONSO REYES",
+        "districtna": "Hipódromo",
+        "coordinates": [
+            -99.174426999999994,
+            19.407533999999998
+        ]
+    },
+    {
+        "FID": 436,
+        "id": 346,
+        "name": "346 SAN FRANCISCO-SANTA MARGARITA",
+        "districtna": "Insurgentes San Borja",
+        "coordinates": [
+            -99.174076999999997,
+            19.385019
+        ]
+    },
+    {
+        "FID": 437,
+        "id": 117,
+        "name": "117 LONDRES-NAPOLES",
+        "districtna": "Juárez",
+        "coordinates": [
+            -99.160369000000003,
+            19.427132
+        ]
+    },
+    {
+        "FID": 438,
+        "id": 32,
+        "name": "32 LONDRES-SEVILLA",
+        "districtna": "Juárez",
+        "coordinates": [
+            -99.169922,
+            19.422705000000001
+        ]
+    },
+    {
+        "FID": 439,
+        "id": 34,
+        "name": "34 LIVERPOOL-GENOVA",
+        "districtna": "Juárez",
+        "coordinates": [
+            -99.163330999999999,
+            19.424724999999999
+        ]
+    },
+    {
+        "FID": 440,
+        "id": 327,
+        "name": "E327 GEORGIA -PENNSYLVANIA",
+        "districtna": "Nápoles",
+        "coordinates": [
+            -99.177719999999994,
+            19.388850000000001
+        ]
+    },
+    {
+        "FID": 441,
+        "id": 367,
+        "name": "367 BOSTON -AUGUSTO RODÍN",
+        "districtna": "Noche Buena",
+        "coordinates": [
+            -99.181631999999993,
+            19.379460000000002
+        ]
+    },
+    {
+        "FID": 442,
+        "id": 235,
+        "name": "235 CAMPOS ELISEOS-MOLIERE",
+        "districtna": "Polanco",
+        "coordinates": [
+            -99.202179999999998,
+            19.42933
+        ]
+    },
+    {
+        "FID": 443,
+        "id": 198,
+        "name": "198 SÓCRATES-EJERCITO NACIONAL",
+        "districtna": "Polanco",
+        "coordinates": [
+            -99.203888000000006,
+            19.438168000000001
+        ]
+    },
+    {
+        "FID": 444,
+        "id": 207,
+        "name": "207 TASSO-HOMERO",
+        "districtna": "Polanco",
+        "coordinates": [
+            -99.183322000000004,
+            19.434861000000001
+        ]
+    },
+    {
+        "FID": 445,
+        "id": 403,
+        "name": "403 UXMAL-MUNICIPIO LIBRE",
+        "districtna": "Santa Cruz Atoyac",
+        "coordinates": [
+            -99.158638999999994,
+            19.371371
+        ]
+    },
+    {
+        "FID": 446,
+        "id": 352,
+        "name": "352 TINTORETO-GIORGINE",
+        "districtna": "Santa María Nonoalco",
+        "coordinates": [
+            -99.185446999999996,
+            19.384114
+        ]
+    },
+    {
+        "FID": 447,
+        "id": 442,
+        "name": "442 REAL DE MAYORAZGO-AVENIDA MÉXICO-COYOACAN",
+        "districtna": "Xoco",
+        "coordinates": [
+            -99.165300000000002,
+            19.359905000000001
+        ]
+    },
+    {
+        "FID": 448,
+        "id": 448,
+        "name": "448 DR. ANDRADE - ARCOS DE BELÉN",
+        "districtna": " ",
+        "coordinates": [
+            -99.144469999999998,
+            19.426611000000001
+        ]
+    },
+    {
+        "FID": 449,
+        "id": 356,
+        "name": "356 MATIAS ROMERO -ADOLFO PRIETO",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.170170999999996,
+            19.381291999999998
+        ]
+    },
+    {
+        "FID": 450,
+        "id": 369,
+        "name": "369 PORFIRIO DÍAZ-AV. INSURGENTES",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.177477999999994,
+            19.379884000000001
+        ]
+    },
+    {
+        "FID": 451,
+        "id": 36,
+        "name": "36 PUEBLA-VERACRUZ",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.175777999999994,
+            19.419725
+        ]
+    },
+    {
+        "FID": 452,
+        "id": 181,
+        "name": "181 BENJAMIN FRANKLIN-OMETUSCO",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.174480000000003,
+            19.404720000000001
+        ]
+    },
+    {
+        "FID": 453,
+        "id": 271,
+        "name": "271 AV. CENTRAL-J. MENESES",
+        "districtna": "Ampliación Granada",
+        "coordinates": [
+            -99.152524999999997,
+            19.443928
+        ]
+    },
+    {
+        "FID": 454,
+        "id": 251,
+        "name": "251 GOETHE-DARWIN",
+        "districtna": "Anzures",
+        "coordinates": [
+            -99.175380000000004,
+            19.429261
+        ]
+    },
+    {
+        "FID": 455,
+        "id": 249,
+        "name": "249 SHAKESPEARE-DARWIN",
+        "districtna": "Anzures",
+        "coordinates": [
+            -99.177569000000005,
+            19.429877000000001
+        ]
+    },
+    {
+        "FID": 456,
+        "id": 246,
+        "name": "246 LEIBNITZ-THIERS",
+        "districtna": "Anzures",
+        "coordinates": [
+            -99.179834999999997,
+            19.434146999999999
+        ]
+    },
+    {
+        "FID": 457,
+        "id": 436,
+        "name": "436 RODRIGUEZ SARO-BUFALLO",
+        "districtna": "Acacias",
+        "coordinates": [
+            -99.177819,
+            19.366216999999999
+        ]
+    },
+    {
+        "FID": 458,
+        "id": 93,
+        "name": "93 PALMA NORTE-REPUBLICA DE CUBA",
+        "districtna": "Centro",
+        "coordinates": [
+            -99.134810999999999,
+            19.436741000000001
+        ]
+    },
+    {
+        "FID": 459,
+        "id": 97,
+        "name": "97 REPUBLICA DE SALVADOR-PINO SUAREZ",
+        "districtna": "Centro",
+        "coordinates": [
+            -99.132758999999993,
+            19.429189000000001
+        ]
+    },
+    {
+        "FID": 460,
+        "id": 99,
+        "name": "99 ERNESTO PUGIBET-LUIS MOYA",
+        "districtna": "Centro",
+        "coordinates": [
+            -99.145910000000001,
+            19.429950000000002
+        ]
+    },
+    {
+        "FID": 461,
+        "id": 194,
+        "name": "194 CTO MAHATMA GANDHI-AV. PASEO DE LA REFORMA",
+        "districtna": "Bosque de Chapultepec",
+        "coordinates": [
+            -99.180334000000002,
+            19.424282000000002
+        ]
+    },
+    {
+        "FID": 462,
+        "id": 58,
+        "name": "58 PARQUE ESPAÑA-JUAN DE LA BARRERA",
+        "districtna": "Condesa",
+        "coordinates": [
+            -99.171792999999994,
+            19.415679999999998
+        ]
+    },
+    {
+        "FID": 463,
+        "id": 7,
+        "name": "7 RIO ELBA-RIO LERMA",
+        "districtna": "Cuauhtémoc",
+        "coordinates": [
+            -99.175166000000004,
+            19.425467999999999
+        ]
+    },
+    {
+        "FID": 464,
+        "id": 1,
+        "name": "1 RIO SENA-RIO BALSAS",
+        "districtna": "Cuauhtémoc",
+        "coordinates": [
+            -99.167809099999999,
+            19.433571400000002
+        ]
+    },
+    {
+        "FID": 465,
+        "id": 104,
+        "name": "104 SAN JERONIMO-ISABEL LA CATOLICA",
+        "districtna": "Cuauhtémoc",
+        "coordinates": [
+            -99.137116000000006,
+            19.427059
+        ]
+    },
+    {
+        "FID": 466,
+        "id": 124,
+        "name": "124 CLAUDIO BERNARD-DR. LICEAGA",
+        "districtna": "Doctores",
+        "coordinates": [
+            -99.150357999999997,
+            19.422391999999999
+        ]
+    },
+    {
+        "FID": 467,
+        "id": 397,
+        "name": "397 SAN LORENZO-GABRIEL MANCERA",
+        "districtna": "Del Valle Sur",
+        "coordinates": [
+            -99.167247000000003,
+            19.373194000000002
+        ]
+    },
+    {
+        "FID": 468,
+        "id": 75,
+        "name": "75 ALFONSO REYES-ATLIXCO",
+        "districtna": "Hipódromo Condesa",
+        "coordinates": [
+            -99.176689999999994,
+            19.408722000000001
+        ]
+    },
+    {
+        "FID": 469,
+        "id": 30,
+        "name": "30 HAMBURGO-GENOVA",
+        "districtna": "Juárez",
+        "coordinates": [
+            -99.164322999999996,
+            19.426442000000002
+        ]
+    },
+    {
+        "FID": 470,
+        "id": 457,
+        "name": "E457 AV. PRADO NORTE-EXPLANADA",
+        "districtna": "Lomas de Chapultepec Sección V",
+        "coordinates": [
+            -99.212845000000002,
+            19.427029999999998
+        ]
+    },
+    {
+        "FID": 471,
+        "id": 239,
+        "name": "239 RINCON DEL BOSQUE-RUBEN DARÍO",
+        "districtna": "Polanco",
+        "coordinates": [
+            -99.181354999999996,
+            19.430153000000001
+        ]
+    },
+    {
+        "FID": 472,
+        "id": 201,
+        "name": "201 LOPE DE VEGA-EJERCITO NACIONAL",
+        "districtna": "Polanco",
+        "coordinates": [
+            -99.187214999999995,
+            19.437431
+        ]
+    },
+    {
+        "FID": 473,
+        "id": 225,
+        "name": "225 PETRARCA-PRESIDENTE MASARYK",
+        "districtna": "Polanco",
+        "coordinates": [
+            -99.185612000000006,
+            19.431172
+        ]
+    },
+    {
+        "FID": 474,
+        "id": 126,
+        "name": "126 JALAPA-PUEBLA",
+        "districtna": "Roma Norte",
+        "coordinates": [
+            -99.162137999999999,
+            19.422288000000002
+        ]
+    },
+    {
+        "FID": 475,
+        "id": 156,
+        "name": "156 TEPIC-AMENALCO",
+        "districtna": "Roma Sur",
+        "coordinates": [
+            -99.162201999999994,
+            19.407121
+        ]
+    },
+    {
+        "FID": 476,
+        "id": 162,
+        "name": "162 TEHUANTEPEC-MEDELLÍN",
+        "districtna": "Roma Sur",
+        "coordinates": [
+            -99.162485000000004,
+            19.404907000000001
+        ]
+    },
+    {
+        "FID": 477,
+        "id": 410,
+        "name": "410 PROLONGACIÓN TAJÍN-PROLONGACIÓN REPÚBLICAS",
+        "districtna": "Santa Cruz Atoyac",
+        "coordinates": [
+            -99.158062999999999,
+            19.365639999999999
+        ]
+    },
+    {
+        "FID": 478,
+        "id": 411,
+        "name": "411 PARROQUIA-AVENIDA MÉXICO-COYOACAN",
+        "districtna": "Santa Cruz Atoyac",
+        "coordinates": [
+            -99.163625999999994,
+            19.367864000000001
+        ]
+    },
+    {
+        "FID": 479,
+        "id": 380,
+        "name": "380 MORAS-SAN LORENZO",
+        "districtna": "Tlacoquemecatl",
+        "coordinates": [
+            -99.173512000000002,
+            19.374876
+        ]
+    }
+]
